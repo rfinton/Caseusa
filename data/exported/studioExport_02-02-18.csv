@@ -1,0 +1,395 @@
+Prefix,FirstName,MiddleName,LastName,fullname,seniority,Suffix,nickname,credentials,Email,second_email,PURL,Title,IsSeed,Address1,Address2,City,State,Zip,ZipPlus4,Company,company_variable,area,base_rent,Fax,lease_from,lease_to,Mobile,number_,Phone,phone1,phone2,property,total_area,unit,Website,category
+,Ray,,Finton,Ray Finton,,,,,ray@7bridgesmarketing.com,,RayFinton,,TRUE,1878 E 15th St,,Tulsa,OK,74104,,7 Bridges Marketing,7 Bridges Marketing,,,,,,,,9184425263,,,,,,,broker
+,Tim,,Grice,Tim Grice,,,,,,,TimGrice,Manager,FALSE,6660 S Sheridan Rd,Suite# 160,Tulsa,OK,74133,,Advanced Systems Group,Advanced Systems Group,,,,,,,,,,,,,,,office prospect
+,Cody,,Reese,Cody Reese,,,,,,,CodyReese,Manager,FALSE,5800 E Skelly Dr,Suite# 174,Tulsa,OK,74135,,Allied Barton Security Svc,Allied Barton Security Service,,,,,,,,,,,,,,,office prospect
+Ms,Pascaline,,Nwokoma,Pascaline Nwokoma,,,,,,,PascalineNwokoma,Manager,FALSE,12515 E 55th Ave,Suite# 101-105,Tulsa,OK,74146,,"Amerita, Inc.",Amerita,,,,,,,,,,,,,,,office prospect
+,Lynn,,Anderson,Lynn Anderson,,,,,,,LynnAnderson,Manager,FALSE,320 S Boston Ave,Suite# 825,Tulsa,OK,74103,,Anderson & Associates Law Firm PLLC,Anderson & Associates Law Firm,,,,,,,,,,,,,,,office prospect
+Atty,Timothy,,Best,Timothy Best,,,,,,,TimothyBest,PARTNER/SHAREHOLDER,FALSE,1 W 3rd St,Suite# 900,Tulsa,OK,74103,,Best & Sharp,Best & Sharp,,,(918) 582-1234,,,,,(918) 732-0105,,,,,,,office prospect
+Mr.,Calvin,,Cahill,Calvin Cahill,,,,,,,CalvinCahill,,FALSE,6120 S Yale Ave,Suite# 1480,Tulsa,OK,74136,,Calyx Energy LLC,Calyx Energy,,,,,,,,,,,,,,,office prospect
+Mr.,Jim,,Stephenson,Jim Stephenson,,,,,,,JimStephenson,Chief Financial Officer and General Counsel,FALSE,6120 S Yale Ave,Suite# 1480,Tulsa,OK,74136,,Calyx Energy LLC,Calyx Energy,,,,,,,,,,,,,,,office prospect
+Mr,Jamie,,McCoy,Jamie McCoy,,,,,,,JamieMcCoy,Vice President and Chief Financial Officer,FALSE,2431 E 61st St,Suite# 400,Tulsa,OK,74136,,Canyon Creek Energy,Canyon Creek Energy,,,,,,,,,,,,,,,office prospect
+Mr,R. Luke,,Essman,R. Luke Essman,,,,,,,RLukeEssman,"Founder, President & Chief Executive Officer",FALSE,2431 E 61st St,Suite# 400,Tulsa,OK,74136,,Canyon Creek Energy,Canyon Creek Energy,,,,,,,,,,,,,,,office prospect
+,Clayton,,Farmer,Clayton Farmer,,,,,,,ClaytonFarmer,President,FALSE,10810 E 45th St,Suite# A300,Tulsa,OK,74146,,Carrefour Assoc LLC,Carrefour Assoc,,,,,,,,,,,,,,,office prospect
+,Robert,,Johnson,Robert Johnson,,,,,,,RobertJohnson,Partner and Vice President of Information Systems,FALSE,4500 S 129th East Ave,Suite# 140,Tulsa,OK,74134,,Cerasis Inc,Cerasis,,,,,,,,(918) 610-0850,,,,,,,office prospect
+,Amanada,,Gamble,Amanada Gamble,,,,,,,AmanadaGamble,Manager,FALSE,2408-2488 E 81st Street St S,Suite# F,Tulsa,OK,74137,,CFS II,CFS II,,,,,,,,,,,,,,,office prospect
+Mr.,Blake,D,Herndon,Blake D Herndon,,,,,,,BlakeDHerndon,Chief Financial Officer,FALSE,6120 S Yale Ave,Suite# 1200,Tulsa,OK,74136,,Council Oak Resources,Council Oak Resources,,,,,,,,,,,,,,,office prospect
+Mr.,Rick,,Fritz,Rick Fritz,,,,,,,RickFritz,Chief Executive Officer,FALSE,6120 S Yale Ave,Suite# 1200,Tulsa,OK,74136,,Council Oak Resources,Council Oak Resources,,,,,,,,(918) 513-0900,,,,,,,office prospect
+,G Les,,Austin,G Les Austin,,,,,,,GLesAustin,Chief Financial Officer,FALSE,5727 S Lewis Ave,Suite# 300,Tulsa,OK,74105,,"Cypress Energy Partners, L.P.",Cypress Energy Partners,,,,,,,,,,,,,,,office prospect
+,Peter,C,Boylan,Peter C Boylan,III,,,,,,PeterCBoylan,Chief Executive Officer,FALSE,5727 S Lewis Ave,Suite# 300,Tulsa,OK,74105,,"Cypress Energy Partners, L.P.",Cypress Energy Partners,,,,,,,,,,,,,,,office prospect
+,Kristy,,Inman,Kristy Inman,,,,,,,KristyInman,,FALSE,5800 E Skelly Dr,Suite# 800,Tulsa,OK,74135,,Day & Zimmermann,Day & Zimmermann,,,,,,,,,,,,,,,office prospect
+,Ms.,,Weatherman,Ms. Weatherman,,,,,,,MsWeatherman,Manager,FALSE,5800 E Skelly Dr,Suite# 800,Tulsa,OK,74135,,Day & Zimmermann,Day & Zimmermann,,,,,,,,(918) 743-0430,,,,,,,office prospect
+,Ted,,Andress Jr,Ted Andress Jr,,,,,,,TedAndressJr,Owner,FALSE,5800 E Skelly Dr,Suite# 825,Tulsa,OK,74135,,Digital Daze,Digital Daze,,,,,,,,,,,,,,,office prospect
+,Renee,,Dixon,Renee Dixon,,,,,,,ReneeDixon,Regional Director,FALSE,4870 S Lewis Ave,Suite# 212,Tulsa,OK,74105,,Dixon Real Estate Company,Dixon Real Estate Company,,,(918) 748-0312,,,,,(918) 748-0308,,,,,,,office prospect
+,Stephen,W,Dixon,Stephen W Dixon,,,,,,,StephenWDixon,President,FALSE,4870 S Lewis Ave,Suite# 212,Tulsa,OK,74105,,Dixon Real Estate Company,Dixon Real Estate Company,,,,,,,,(918) 748-0309,,,,,,,office prospect
+Mr,Marty,,Gooding,Marty Gooding,,,,,,,MartyGooding,Office Manager,FALSE,2 W 2nd St,Suite# 700,Tulsa,OK,74103,,"Doerner, Saunders, Daniel & Anderson, L.L.P.","Doerner, Saunders, Daniel & Anderson",,,,,,,,,,,,,,,office prospect
+Mr,Tom,Q,Ferguson,Tom Q Ferguson,,,,,,,TomQFerguson,Managing Partner,FALSE,2 W 2nd St,Suite# 700,Tulsa,OK,74103,,"Doerner, Saunders, Daniel & Anderson, L.L.P.","Doerner, Saunders, Daniel & Anderson",,,(918) 925-5308,,,,,(918) 591-5308,,,,,,,office prospect
+,Elizabeth,,Green,Elizabeth Green,,,,,,,ElizabethGreen,President,FALSE,2021 S Lewis Ave,Suite# 760,Tulsa,OK,74104,,Educational Concepts,Educational Concepts,,,,,,,,,,,,,,,office prospect
+,Glenn,,Elliott,Glenn Elliott,,,,,,,GlennElliott,Owner,FALSE,5800 E Skelly Dr,Suite# 900,Tulsa,OK,74135,,Elliott Dozier & Helland PC,Elliott Dozier & Helland,,,,,,,,,,,,,,,office prospect
+,Rebecca,,Dozier,Rebecca Dozier,,,,,,,RebeccaDozier,Partner,FALSE,5800 E Skelly Dr,Suite# 900,Tulsa,OK,74135,,Elliott Dozier & Helland PC,Elliott Dozier & Helland,,,,,,,,,,,,,,,office prospect
+Mr.,Daniel,L,Van Wormer,Dan L Van Wormer,,,,,,,DanLVanWormer,CFO,FALSE,6120 S Yale Ave,Suite# 1300,Tulsa,OK,74136,,eLynx,eLynx,,,,,,,,,,,,,,,office prospect
+Mr.,Stephen,,Jackson,Stephen,,,,,,,Stephen,President/CEO,FALSE,6120 S Yale Ave,Suite# 1300,Tulsa,OK,74136,,eLynx,eLynx,,,,,,,,(877) 643-5969,,,,,,,office prospect
+,Jason,,Kraiss,Jason Kraiss,,,,,,,JasonKraiss,,FALSE,6120 S Yale Ave,Suite# Ste 1300,Tulsa,OK,74136,,eLynx Technologies,eLynx Technologies,,,,,,,,,,,,,,,office prospect
+,Michael,,Boukadakis,Michael Boukadakis,,,,,,,MichaelBoukadakis,Chief Executive Officer,FALSE,5800 E Skelly Dr,Suite# 1300,Tulsa,OK,74135,,Enacomm Inc,Enacomm,,,,,,,,,,,,,,,office prospect
+Mr.,Terry,,Biehl,Terry Biehl,,,,,,,TerryBiehl,Chief Financial Officer,FALSE,6120 S Yale Ave,"Suite# 1100, 1000",Tulsa,OK,74136,,Explorer Pipeline,Explorer Pipeline,,,,,,,,(918) 493-5100,,,,,,,office prospect
+Mr.,Tom,,Jensen,Tom Jensen,,,,,,,TomJensen,President & Chief Executive Officer,FALSE,6120 S Yale Ave,"Suite# 1100, 1000",Tulsa,OK,74136,,Explorer Pipeline,Explorer Pipeline,,,,,,,,,,,,,,,office prospect
+,Kathy,,Bachmann,Kathy Bachmann,,,,,,,KathyBachmann,Manager,FALSE,6717 S Yale Ave,Suite# 202,Tulsa,OK,74136,,Family Therapy & Renewal Center,Family Therapy & Renewal Center,,,,,,,,,,,,,,,office prospect
+Mr,John,R,Woodars,John R Woodars,III,,,,,,JohnRWoodars,Partner,FALSE,2 W 2nd St,Suite# 900,Tulsa,OK,74103,,"Feldman, Franden, Woodard & Farris","Feldman, Franden, Woodard & Farris",,,,,,,,,,,,,,,office prospect
+Mr,Joseph,R,Farris,Joseph R Farris,,,,,,,JosephRFarris,Partner,FALSE,2 W 2nd St,Suite# 900,Tulsa,OK,74103,,"Feldman, Franden, Woodard & Farris","Feldman, Franden, Woodard & Farris",,,,,,,,,,,,,,,office prospect
+Mr,Raymond,G,Feldman,Raymond G Feldman,,,,,,,RaymondGFeldman,Founding Member | Of Counsel,FALSE,2 W 2nd St,Suite# 900,Tulsa,OK,74103,,"Feldman, Franden, Woodard & Farris","Feldman, Franden, Woodard & Farris",,,,,,,,,,,,,,,office prospect
+Mr,Robert,A,Franden,Robert A Franden,,,,,,,RobertAFranden,Partner,FALSE,2 W 2nd St,Suite# 900,Tulsa,OK,74103,,"Feldman, Franden, Woodard & Farris","Feldman, Franden, Woodard & Farris",,,,,,,,,,,,,,,office prospect
+Ms,Thayla Painter,,Bohn,Thayla Painter Bohn,,,,,,,ThaylaPainterBohn,Partner,FALSE,2 W 2nd St,Suite# 900,Tulsa,OK,74103,,"Feldman, Franden, Woodard & Farris","Feldman, Franden, Woodard & Farris",,,,,,,,,,,,,,,office prospect
+,Drew,,Rickets,Drew Rickets,,,,,,,DrewRickets,President,FALSE,5800 E Skelly Dr,Suite# 605,Tulsa,OK,74135,,Fennell & Associates,Fennell & Associates,,,,,,,,,,,,,,,office prospect
+,Bill,,Farr,Bill Farr,,,,,,,BillFarr,Owner,FALSE,3158 S 108th East Ave,Suite# 274,Tulsa,OK,74146,,First Maintenance Co,First Maintenance Company,,,,,,,,,,,,,,,office prospect
+,Hope,,Catron,Hope Catron,,,,,,,HopeCatron,Office Manager,FALSE,15 E 5th St,,Tulsa,OK,74103,,"Foundation Energy Management, LLC",Foundation Energy Management,,,,,,,,,,,,,,,office prospect
+,Revel,,Castillo-Simon,Revel Castillo-Simon,,,,,,,RevelCastillo-Simon,Director,FALSE,5314 S Yale Ave,Suite# 500,Tulsa,OK,74135,,Gentiva Home Health,Gentiva Home Health,,,,,,,,(918) 488-6153,,,,,,,office prospect
+,David,,Fontaine,David Fontaine,,,,,,,DavidFontaine,Chief Executive Officer,FALSE,14002 E 21st St,Suite# 1200,Tulsa,OK,74134,,"HireRight, Inc.",HireRight,,,,,,,,,,,,,,,office prospect
+,Janette,,Miller,Janette Miller,,,,,,,JanetteMiller,,FALSE,14002 E 21st St,Suite# 1200,Tulsa,OK,74134,,"HireRight, Inc.",HireRight,,,,,,,,,,,,,,,office prospect
+,Roxanne,,Lawrence,Roxanne Lawrence,,,,,,,RoxanneLawrence,Assistant to the Managing Director,FALSE,14002 E 21st St,Suite# 1200,Tulsa,OK,74134,,"HireRight, Inc.",HireRight,,,,,,,,,,,,,,,office prospect
+,Theirl,,Jarman,Theirl Jarman,,,,,,,TheirlJarman,Chief Executive Officer,FALSE,6202 S Lewis Ave,Suite# P,Tulsa,OK,74136,,Independent Opportunities Inc,Independent Opportunities,,,,,,,,,,,,,,,office prospect
+Ms,Kathleen,,Butler,Kathleen Butler,,,,,,,KathleenButler,Transportation Secretary,FALSE,1 W 3rd St,Suite# 800,Tulsa,OK,74103,,Indian Nations Council of Governments LLC,Indian Nations Council of Governments,,,,,,,,(918) 579-9468,,,,,,,office prospect
+Mr,Rich,,Brierre,Rich Brierre,,,,,,,RichBrierre,Executive Director,FALSE,2 W 2nd St,Suite# 800,Tulsa,OK,74103,,Indian Nations Council of Governments LLC,Indian Nations Council of Governments,,,,,,,,,,,,,,,office prospect
+Ms,Troy,,Wilborn,Troy Wilborn,,,,,,,TroyWilborn,Manager,FALSE,2 W 2nd St,Suite# 800,Tulsa,OK,74103,,Indian Nations Council of Governments LLC,Indian Nations Council of Governments,,,,,,,,,,,,,,,office prospect
+,Joe,,Borders,Joe Borders,,,,,,,JoeBorders,Owner,FALSE,7633 E 63rd Pl,Suite# 520,Tulsa,OK,74133,,Intermark Inc,Intermark,,,,,,,,,,,,,,,office prospect
+,Peter,,Delesdernier,Peter Delesdernier,,,,,,,PeterDelesdernier,Station Operations Manager,FALSE,5800 E Skelly Dr,Suite# 101,Tulsa,OK,74135,,ION Media,ION Media,,,,,,,,,,,,,,,office prospect
+,Jim,,Fiegel,Jim Fiegel,,,,,,,JimFiegel,Owner,FALSE,5800 E Skelly Dr,Suite# 575,Tulsa,OK,74135,,James Feigel CPA,James Feigel CPA,,,,,,,,(918) 492-0092,,,,,,,office prospect
+,Shelby,,Sherrill,Shelby Sherrill,,,,,,,ShelbySherrill,Executive Assistant to the CEO,FALSE,321 S Boston Ave,Suite# 301,Tulsa,OK,74103,,Jericho Oil Corporation,Jericho Oil Corporation,,,,,,,,(918) 986-7628,,,,,,,office prospect
+,Stacy,,Klass,Stacy Klass,,,,,,,StacyKlass,,FALSE,6804 S Canton Ave,Suite# 100,Tulsa,OK,74136,,Job News,Job News,,,,,,,,,,,,,,,office prospect
+Ms,Elaine,,Agather,Elaine Agather,,,,,,,ElaineAgather,"Managing Director, Region Head",FALSE,110 W 7th St S,,Tulsa,OK,74119,,JPMorgan Chase & Co.,JPMorgan Chase & Company,,,,,,,,(918) 586-5380,,,,,,,office prospect
+Mr,Richard,S,Lofgren,Richard S Lofgren,,,,,,,RichardSLofgren,Managing Director,FALSE,110 W 7th St S,,Tulsa,OK,74119,,JPMorgan Chase & Co.,JPMorgan Chase & Company,,,,,,,,(918) 586-5380,,,,,,,office prospect
+,Katie,,Sallee,Katie Sallee,,,,,,,KatieSallee,Vice President,FALSE,5800 E Skelly Dr,Suite# 300,Tulsa,OK,74135,,Ksw Environmental LLC,Ksw Environmental,,,,,,,,,,,,,,,office prospect
+,Steve,,Lamb,Steve Lamb,,,,,,,SteveLamb,Owner,FALSE,1325-1341 E 15th St,Suite# 200,Tulsa,OK,74120,,Lamco Resources,Lamco Resources,,,,,,,,,,,,,,,office prospect
+,Mark,,Cocharn,Mark Cocharn,,,,,,,MarkCocharn,CFO,FALSE,4500 S 129th East Ave,Suite# 150,Tulsa,OK,74134,,Latshaw Drilling & Exploration,Latshaw Drilling & Exploration,,,,,,,,,,,,,,,office prospect
+Mr,Trent,,Latshaw,Trent Latshaw,,,,,,,TrentLatshaw,President,FALSE,4500 S 129th East Ave,Suite# 150,Tulsa,OK,74134,,Latshaw Drilling & Exploration,Latshaw Drilling & Exploration,,,,,,,,(918) 355-4380,,,,,,,office prospect
+Mr,Morgan,,Duke,Morgan Duke,,,,,,,MorganDuke,Lease Manager,FALSE,6100 S Yale Ave,"Suite# 1600, 1620",Tulsa,OK,74136,,"Linde Process Plants, Inc.",Linde Process Plants,,,,,,,,,,,,,,,office prospect
+Mr,Steve,,Dertone,Steve Dertone,,,,,,,SteveDertone,President,FALSE,6100 S Yale Ave,"Suite# 1600, 1620",Tulsa,OK,74136,,"Linde Process Plants, Inc.",Linde Process Plants,,,,,,,,,,,,,,,office prospect
+,Wendy,,Buxton,Wendy Buxton,,,,,,,WendyBuxton,President,FALSE,2408-2488 E 81st Street St S,Suite# 2600,Tulsa,OK,74137,,Lynnco Supply Chain Soutions,Lynnco Supply Chain Soutions,,,,,,,,,,,,,,,office prospect
+Mr.,Bob,,Soza,Bob Soza,,,,,,,BobSoza,Managing Partner,FALSE,4200 E Skelly Dr,Suite# 960,Tulsa,OK,74135,,Mariner Consulting,Mariner Consulting,,,,,,,,(918) 388-1651,,,,,,,office prospect
+Mr.,Stephen,,Creed,Stephen Creed,,,,,,,StephenCreed,Partner,FALSE,4200 E Skelly Dr,Suite# 960,Tulsa,OK,74135,,Mariner Consulting,Mariner Consulting,,,,,,,,,,,,,,,office prospect
+,Bruce,,McKenna,Bruce McKenna,,,,,,,BruceMcKenna,Partner,FALSE,5801 E 41st St,Suite# 501,Tulsa,OK,74135,,McKenna & Prescott PLLC,McKenna & Prescott,,,,,,,,,,,,,,,office prospect
+,Steve,,Powell,Steve Powell,,,,,,,StevePowell,Manager,FALSE,3840 S 103rd East Ave,Suite# 227,Tulsa,OK,74146,,Mehlburger Brawley,Mehlburger Brawley,,,,,,,,,,,,,,,office prospect
+Mr,Frederic,F,Brace,Frederic F Brace,,,,,,,FredericFBrace,Chief Executive Officer,FALSE,321 S Boston Ave,Suite# 1000,Tulsa,OK,74103,,"Midstates Petroleum Company, Inc.",Midstates Petroleum Company,,,,,,,,(918) 947-8550,,,,,,,office prospect
+,Kim,,Harding,Kim Harding,,,,,,,KimHarding,Vice President,FALSE,321 S Boston Ave,Suite# 1000,Tulsa,OK,74103,,"Midstates Petroleum Company, Inc.",Midstates Petroleum Company,,,,,,,,(918) 947-8550,,,,,,,office prospect
+Mr,Nelson,,Haight,Nelson Haight,,,,,,,NelsonHaight,Chief Financial Officer,FALSE,321 S Boston Ave,Suite# 1000,Tulsa,OK,74103,,"Midstates Petroleum Company, Inc.",Midstates Petroleum Company,,,,,,,,,,,,,,,office prospect
+Mr,Greg,,Patovisti,Greg Patovisti,,,,,,,GregPatovisti,Principal/Electrical,FALSE,110 W 7th St S,Suite# 600,Tulsa,OK,74119,,MPW Engineering LLC,MPW Engineering,,,,,,,,,,,,,,,office prospect
+Mr,Scott,,Webb,Scott Webb,,,,,,,ScottWebb,Principal/Mechanical,FALSE,110 W 7th St S,Suite# 600,Tulsa,OK,74119,,MPW Engineering LLC,MPW Engineering,,,,,,,,,,,,,,,office prospect
+Ms,Alison,,Loher,Alison Loher,,,,,,,AlisonLoher,Office Manager,FALSE,6802 S Olympia Ave,Suite# G100,Tulsa,OK,74132,,Oklahoma CyberKnife,Oklahoma CyberKnife,,,,,,,,,,,,,,,office prospect
+Dr,Christopher,,Covington,Christopher Covington,,,,,,,ChristopherCovington,Surgeon,FALSE,6802 S Olympia Ave,Suite# G100,Tulsa,OK,74132,,Oklahoma CyberKnife,Oklahoma CyberKnife,,,,,,,,,,,,,,,office prospect
+Dr,Daniel,J,Boedeker,Daniel J Boedeker,,,,,,,DanielJBoedeker,Surgeon,FALSE,6802 S Olympia Ave,Suite# G100,Tulsa,OK,74132,,Oklahoma CyberKnife,Oklahoma CyberKnife,,,,,,,,,,,,,,,office prospect
+Dr,David,A,Fell,David A Fell,,,,,,,DavidAFell,Surgeon,FALSE,6802 S Olympia Ave,Suite# G100,Tulsa,OK,74132,,Oklahoma CyberKnife,Oklahoma CyberKnife,,,,,,,,,,,,,,,office prospect
+Dr,Diane,,Heaton,Diane Heaton,,,,,,,DianeHeaton,Medical Director,FALSE,6802 S Olympia Ave,Suite# G100,Tulsa,OK,74132,,Oklahoma CyberKnife,Oklahoma CyberKnife,,,,,,,,,,,,,,,office prospect
+,Dave,,Koneke,Dave Koneke,,,,,,,DaveKoneke,Owner,FALSE,9810 E 42nd St,Suite# 205,Tulsa,OK,74146,,Oklahoma Safety Council,Oklahoma Safety Council,,,,,,,,(405) 848-8626,,,,,,,office prospect
+,Pratica,,Leggett,Pratica Leggett,,,,,,,PraticaLeggett,Dean of AGS,FALSE,10810 E 45th St,Suite# 100,Tulsa,OK,74146,,Oklahoma Wesleyan University,Oklahoma Wesleyan University,,,,,,,,(981) 576-3909,,,,,,,office prospect
+,Jeni,,Dolan,Jeni Dolan,,,,,,,JeniDolan,Executive Director,FALSE,5800 E Skelly Dr,Suite# 707,Tulsa,OK,74135,,Operation Aware,Operation Aware,,,,,,,,,,,,,,,office prospect
+,Linda,,Palkowski,Linda Palkowski,,,,,,,LindaPalkowski,Owner,FALSE,8005-8011 S Sheridan Rd,Suite# D,Tulsa,OK,74133,,Personal Expressions Logowear,Personal Expressions Logowear,,,,,,,,,,,,,,,office prospect
+Ms,Daisy,,Hill,Daisy Hill,,,,,,,DaisyHill,Office Manager,FALSE,2250 E 73rd St,Suite# 302,Tulsa,OK,74136,,Pinnacle Management,Pinnacle Management,,,,,,,,,,,,,,,office prospect
+,Stacy,,Hill,Stacy Hill,,,,,,,StacyHill,office manager,FALSE,2250 E 73rd St,Suite# 302,Tulsa,OK,74136,,Pinnacle Management,Pinnacle Management,,,,,,,,(918) 743-7935,,,,,,,office prospect
+Mr.,David,,Huey,David Huey,,,,,,,DavidHuey,Prncipal,FALSE,1350 S Boulder Ave,Suite# Ste 600,Tulsa,OK,74119,,Psa-Dewberry Inc.,PSA-Dewberry,,,,,,,,,,,,,,,office prospect
+Dr.,Hazem,,Sokkar,Hazem Sokkar,,,,,,,HazemSokkar,Principal,FALSE,4823-4845 S Sheridan Rd,Suite# 408,Tulsa,OK,74145,,Psychiatry Of Tulsa,Psychiatry Of Tulsa,,,,,,,,(918) 627-8858,,,,,,,office prospect
+,Jeffrey D,,Thetge,Jeffrey D Thetge,,,,,,,JeffreyDThetge,President,FALSE,4500 S Garnett Rd,Suite# 700,Tulsa,OK,74146,,"QPS Engineering, LLC",QPS Engineering,,,,,,,,,,,,,,,office prospect
+,Mark,,Rowe,Mark Rowe,,,,,,,MarkRowe,Owner,FALSE,9920 E 42nd St,Suite# 201,Tulsa,OK,74146,,Rivercross Hospice,Rivercross Hospice,,,,,,,,(918) 622-9281,,,,,,,office prospect
+,Kevin,,Thompson,Kevin Thompson,,,,,,,KevinThompson,Owner,FALSE,5800 E Skelly Dr,Suite# 170,Tulsa,OK,74135,,Salon Divago,Salon Divago,,,,,,,,,,,,,,,office prospect
+,Terry,,Devore,Terry Devore,,,,,,,TerryDevore,Manager,FALSE,7633 E 63rd Pl,Suite# 450,Tulsa,OK,74133,,"Securian Advisors MidAmerica, Inc.",Securian Advisors MidAmerica,,,,,,,,,,,,,,,office prospect
+,Carlin,G,Conner,Carlin G Conner,,,,,,,CarlinGConner,"President, Chief Executive Officer and Director",FALSE,6120 S Yale Ave,Suite# 700,Tulsa,OK,74136,,SemGroup Corporation,SemGroup Corporation,,,,,,,,(918) 524-8100,,,,,,,office prospect
+,Robert,N,Fitzgerald,Robert N Fitzgerald,,,,,,,RobertNFitzgerald,SVP & Chief Financial Officer,FALSE,6120 S Yale Ave,Suite# 700,Tulsa,OK,74136,,SemGroup Corporation,SemGroup Corporation,,,,,,,,,,,,,,,office prospect
+,Christina,,Michael,Christina Michael,,,,,,,ChristinaMichael,Owner,FALSE,201 W Houston St,Suite# 201,Broken Arrow,OK,74012,,Ships Ahoy Child Care,Ships Ahoy Child Care,,,,,,,,,,,,,,,office prospect
+,Jon,,Matthews,Jon Matthews,,,,,,,JonMatthews,Fire Protection Engineering Manager,FALSE,5800 E Skelly Dr,Suite# 920,Tulsa,OK,74135,,Specified Technologies,Specified Technologies,,,,,,,,,,,,,,,office prospect
+,An,,Doung,An Doung,,,,,,,AnDoung,Owner,FALSE,2036 E 81st St,Suite# Ste 109,Tulsa,OK,74137,,Spirit Nail & Spa,Spirit Nail & Spa,,,,,,,,,,,,,,,office prospect
+,Jean,,Thornbrugh,Jean Thornbrugh,,,,,,,JeanThornbrugh,Executive Director,FALSE,5801 E 41st St,Suite# 900,Tulsa,OK,74135,,St Gregory's University,St Gregory's University,,,,,,,,,,,,,,,office prospect
+Mr,Eugene,,Debay,Eugene Debay,,,,,,,EugeneDebay,President/CEO,FALSE,110 W 7th St S,Suite# 2300,Tulsa,OK,74119,,"Targa Pipeline Mid-Continent Holdings, LLC",Targa Pipeline Mid-Continent Holdings,,,,,,,,,,,,,,,office prospect
+,Bobby,,Cook,Bobby Cook,,,,,,,BobbyCook,President,FALSE,5800 E Skelly Dr,Suite# 715,Tulsa,OK,74135,,The C3 Group Inc,The C3 Group,,,,,,,,,,,,,,,office prospect
+Ms,Amanda,,Jones,Amanda Jones,,,,,,,AmandaJones,Partner,FALSE,5100-5132 E Skelly Dr,Suite# 405,Tulsa,OK,74135,,THE RESOURCE GROUP,THE RESOURCE GROUP,,,,,,,,,,,,,,,office prospect
+Ms,Elizabeth,,Powell,Elizabeth Powell,,,,,,,ElizabethPowell,Partner,FALSE,5100-5132 E Skelly Dr,Suite# 405,Tulsa,OK,74135,,THE RESOURCE GROUP,THE RESOURCE GROUP,,,,,,,,,,,,,,,office prospect
+Mr.,Alan,S,Armstrong,Alan S Armstrong,,,,,,,AlanSArmstrong,"President, Chief Executive Officer and Director",FALSE,1 Williams Center,,Tulsa,OK,74172,,"The Williams Companies, Inc.",The Williams Companies,,,,,,,,(918) 573-2000,,,,,,,office prospect
+Mr.,Donald,R,Chappel,Donald R Chappel,,,,,,,DonaldRChappel,Senior Vice President and Chief Financial Officer,FALSE,1 Williams Center,,Tulsa,OK,74172,,"The Williams Companies, Inc.",The Williams Companies,,,,,,,,(918) 573-2000,,,,,,,office prospect
+,Johnathan,,Burris,Johnathan Burris,,,,,,,JohnathanBurris,Executive Vice President of Sales,FALSE,1422 E 71st St,Suite# J,Tulsa,OK,74136,,Tiger Natural Gas Inc,Tiger Natural Gas,,,,,,,,,,,,,,,office prospect
+,Lori,,Nalley,Lori Nalley,,,,,,,LoriNalley,President,FALSE,1422 E 71st St,Suite# J,Tulsa,OK,74136,,Tiger Natural Gas Inc,Tiger Natural Gas,,,,,,,,(918) 491-6998,,,,,,,office prospect
+,Rick,,Tessmer,Rick Tessmer,,,,,,,RickTessmer,"Director, Northeast Operations",FALSE,1422 E 71st St,Suite# J,Tulsa,OK,74136,,Tiger Natural Gas Inc,Tiger Natural Gas,,,,,,,,,,,,,,,office prospect
+Mr,J. Scott,,Dickman,J. Scott Dickman,,,,,,,JScottDickman,Partner,FALSE,15 E 5th St,Suite# 3700,Tulsa,OK,74103,,Titus Hillis Reynolds Love,Titus Hillis Reynolds Love,,,,,,,,,,,,,,,office prospect
+,R. Tom,,Hillis,R. Tom Hillis,,,,,,,RTomHillis,Shareholder,FALSE,15 E 5th St,Suite# 3700,Tulsa,OK,74103,,Titus Hillis Reynolds Love,Titus Hillis Reynolds Love,,,,,,,,,,,,,,,office prospect
+,Josh,,Brazil,Josh Brazil,,,,,,,JoshBrazil,Owner,FALSE,1515 E 71st St,Suite# 100,Tulsa,OK,74136,,Transitions Lifecare LLC,Transitions Lifecare,,,,,,,,(918) 551-6879,,,,,,,office prospect
+,Jeff,,Harris,Jeff Harris,,,,,,,JeffHarris,Chief Executive Officer,FALSE,1350 S Boulder Ave,Suite# 1100,Tulsa,OK,74119,,True Digital Security Inc,True Digital Security,,,,,,,,(918) 770-7700,,,,,,,office prospect
+,Kat,,Ray,Kat Ray,,,,,,,KatRay,,FALSE,1350 S Boulder Ave,Suite# 1100,Tulsa,OK,74119,,True Digital Security Inc,True Digital Security,,,,,,,,(918) 770-7700,,,,,,,office prospect
+,Mike,,Gorrell,Mike Gorrell,,,,,,,MikeGorrell,Owner,FALSE,2408-2488 E 81st Street St S,Suite# Ste 2800,Tulsa,OK,74137,,Tulsa Datacenter,Tulsa Datacenter,,,,,,,,,,,,,,,office prospect
+Mr,Jon,,Cecrle,Jon Cecrle,,,,,,,JonCecrle,Office Administrator,FALSE,2250 E 73rd St,Suite# 350,Tulsa,OK,74136,,Worldwide Pentecostal Fellowship,Worldwide Pentecostal Fellowship,,,,,,,,(918) 622-4200,,,,,,,office prospect
+Mr,Mikhael,,Berrier,Mikhael Berrier,,,,,,,MikhaelBerrier,Executive Administrator,FALSE,2250 E 73rd St,Suite# 350,Tulsa,OK,74136,,Worldwide Pentecostal Fellowship,Worldwide Pentecostal Fellowship,,,,,,,,(918) 622-4200,,,,,,,office prospect
+,Craig,,Bigby,Craig Bigby,,,,,craig@7bridgesmarketing.com,,CraigBigby,,TRUE,1878 E 15th St,,Tulsa,OK,74104,,7 Bridges Marketing,7 Bridges Marketing,,,,,,,,,,,,,,,tenant
+,Shanna,,Vollmer,Shanna Vollmer,,,,,shanna@7bridgesmarketing.com,,ShannaVollmer,,TRUE,1878 E 15th St,,Tulsa,OK,74104,,7 Bridges Marketing,7 Bridges Marketing,,,,,,,,999-999-9999,,,,,,,office prospect
+,Carrie,,Hill,Carrie Hill,,,,,carrie@7bridgesmarketing.com,,CarrieHill,,TRUE,716 Rolling Springs Drive,,Cary,NC,27519,,7 Bridges Marketing,7 Bridges Marketing,,,,,,,,,,,,,,,broker
+,Tony,,Aaronson,,,,,,tony.aaronson@cbreok.com,,TonyAaronson,,FALSE,,,,,,,CBRE Inc,,,,,,,,,,,,,,,,broker
+,Grant,,Adams,,,,,,gadams@valornet.com,,GrantAdams,,FALSE,PO Box 2407,,Broken Arrow,OK,74013,,"Adams & Associates, LLC",,,,918-355-4371,,,918-269-5741,,918-495-3661,,,,,,,broker
+,Daniel,,Adams,,,,,CCIM,dadams@valornet.com,,DanielAdams,,FALSE,PO Box 2407,,Broken Arrow,OK,74013,,"Adams & Associates, LLC",,,,918-355-4371,,,,,918-495-3661,,,,,,,broker
+,Adam,,Adwon,,,,,"CCIM, MAI",aadwon@appraisaldata.com,,AdamAdwon,,FALSE,P.O. Box 7041884,,Tulsa,OK,74170,,Appraisal Data Services,,,,,,,,,918-742-7311,,,,,,www.appraisaldata.com,broker
+,Mitch,,Adwon,,,,,,mitch@adwonproperties.com,,MitchAdwon,,FALSE,PO Box 52808,,Tulsa,OK,74152,,"Adwon Properties, Inc.",,,,918-749-9585,,,,,918-749-9555,,,,,,www.adwonproperties.com,broker
+,Joe,,Adwon,,,,,CCIM,jadwon@aol.com,,JoeAdwon,,FALSE,PO Box 701116,,Tulsa,OK,74170,,Adwon Inc. Realty,,,,918-749-9701,,,,,918-749-7966,,,,,,,broker
+,Kamlesh,,Aggarwal,,,,,CCIM,kamlesh912@gmail.com,,KamleshAggarwal,,FALSE,2709 S. 27th St.,,Muskogee,OK,74401,,"Sooner Realty Properties, LLC.",,,,866-869-0075,,,918-260-5286,,918-260-5286,,,,,,www.SoonerRealtyProperties.com,broker
+,Kevin,,Anderson,,,,,,KevinAnderson@TulsaRealtors.com ,,KevinAnderson,,FALSE,PO Box 4255,,Tulsa,OK,74159,,Kevin W. Anderson & Associates,,,,,,,918-406-3197,,918-406-3197,,,,,,,broker
+,Jared,,Andresen,,,,,,jandresen@commercialoklahoma.com,,JaredAndresen,,FALSE,,,,,,,Commercial Oklahoma Inc,,,,,,,,,,,,,,,,broker
+,Dilon,,Argo,,,,,,dargo@mcgrawcp.com,,DilonArgo,,FALSE,,,,,,,McGraw Davisson Stewart LLC,,,,,,,,,,,,,,,,broker
+,Terry,,Argue,,,,,,terarg@argueproperties.com,,TerryArgue,Owner/Broker,FALSE,401 S. Boston Ave. Suite 3400,,Tulsa,OK,74103,,"Argue Properties, Inc.",,,,918-699-0324,,,918-625-9900,,918-587-1900,,,,,,www.argueproperties.com,broker
+,Steve,,Baker,,,,,CCIM,steve.baker@cbreok.com,,SteveBaker,,FALSE,"1401 S. Boulder Avenue, Suite 100",,Tulsa,OK,74119,,CB Richard Ellis/Oklahoma,,,,918-663-6402,,,918-232-2360,,918-665-3830,,,,,,www.cbreok.com,broker
+,Derek,,Bateman,,,,,CCIM,derek.bateman@tulsatrinity.com,,DerekBateman,,FALSE,2488 E. 81st St. Suite 188,,Tulsa,OK,74137,,Trinity Corporate Real Estate Advisors,,,,,,,918-812-6879,,918-493-8470,,,,,,www.tulsatrinity.com,broker
+,Doug,,Bauer,,,,,CCIM,dbauer@bauertulsa.com,,DougBauer,,FALSE,"4821 S. Sheridan, Ste. 201",,Tulsa,OK,74145,,"Bauer & Associates, Inc.",,,,918-665-6462,,,918-688-7141,,918-665-1210,,,,,,www.bauertulsa.com,broker
+,Grover,,Bauer,,,,,"CCIM, SIOR",gbauer@bauertulsa.com,,GroverBauer,,FALSE,"4821 S. Sheridan, Ste. 201",,Tulsa,OK,74145,,"Bauer & Associates, Inc.",,,,918-665-6462,,,918-760-4110,,918-665-1210,,,,,,,broker
+,Brian,,Beam,,,,,,brianbeam@owassolandtrust.com,,BrianBeam,,FALSE,"12150 E 96th St N, Ste 200",,Owasso,OK,74055,,Owasso Land Trust,,,,918-376-6836,,,918-859-5584,,918-376-6536,,,,,,,broker
+,Brett,,Beaver,,,,,,bbeaver@commercialoklahoma.com,,BrettBeaver,,FALSE,,,,,,,Commercial Oklahoma Inc,,,,,,,,,,,,,,,,broker
+,William,P.,Beichler,,,,,CCIM,wbeichler@mcgrawcp.com,,WilliamBeichler,,FALSE,4105 S. Rockford Ave,,Tulsa,OK,74105,,McGraw Commercial Properties,,,,918-398-5448,,,918-859-8850,,918-388-9588,,,,,,mcgrawcp.com,broker
+,Alisha,,Bennett,,,,,,ab@foxallen.com,,AlishaBennett,,FALSE,624 south Boston Ae. Suite 700,,Tulsa,OK,74119,,Fox & Allen,,,,,,,,,,,,,,,,broker
+,Monty,,Berry,,,,,CCIM,monty@equitasrealty.com,,MontyBerry,Partner,FALSE,5801 E. 41st St. Suite 101,,Tulsa,OK,74135,,"Equitas Realty Advisors, LLC",,,,918-280-9902,,,918-695-4162,,918-280-9900,,,,,,www.equitasrealty.com,broker
+,Edward,,Boersma,,,,,,eboersma@commercialresources.net,,EdwardBoersma,,FALSE,"4835 S. Peoria, Suite 14",,Tulsa,OK,74105,,Commercial Resources,,,,866-905-8823,,,,,918-521-1800,,,,,,,broker
+,Bruce,,Bolzle,,,,,,bbolzle@kmodevelopment.com,,BruceBolzle,,FALSE,"624 S. Boston Ave., Ste 400",,Tulsa,OK,74119,,"KMO Development Group, Inc.",,,,,,,918-640-7824,,918-728-3400,,,,,,,broker
+,Ryan,,Brah,,,,,,rbrah@mcgrawcp.com,,RyanBrah,,FALSE,4105 S. Rockford Ave,,Tulsa,OK,74105,,McGraw Commercial Properties,,,,918-398-5129,,,,,918-398-2841,,,,,,,broker
+,Joe,,Brandt,,,,,,joe@brandtcommercial.com,,JoeBrandt,,FALSE,,,,,,,Brandt Commercial Properties Inc,,,,,,,,,,,,,,,,broker
+,Scott,,Briggs,,,,,,sbriggs@stanjohnsonco.com,,ScottBriggs,,FALSE,6120 S Yale Ave #300,,Tulsa,OK,74136,,Stan Johson Co,,,,,,,,,918-494-2690,,,,,,,broker
+,James,L.,Brown,,,,,,jim.brown@cbreok.com,,JamesBrown,,FALSE,"1401 S. Boulder Avenue, Suite 100",,Tulsa,OK,74119,,CB Richard Ellis | Oklahoma,,,,918-663-6402,,,918-638-7274,,918-932-7215,,,,,,www.cbre.com/jim.brown,broker
+,Jim,,Burcham,,,,,CCIM,lookre21@gmail.com,,JimBurcham,,FALSE,3150 E. 41st St Ste 103,,Tulsa,OK,74105,,LOOK Properties,,,,,,,,,918-289-7300,,,,,,,broker
+,Gina,,Carroll,,,,,,gcarroll@kwcommercial.com,,GinaCarroll,,FALSE,"12324 E. 86th N., PMB 281",,Owasso,OK,74055,,KW Commercial ,,,,918-272-6561,,,918-760-6237,,918-272-6560,,,,,,kwcommercial.com,broker
+,Patrick,,Coates,,,,,CCIM,pcoates@coatesproperties.com,,PatrickCoates,,FALSE,"4111 S. Darlington Ave., Ste. 640",,Tulsa,OK,74135,,"Coates Commercial Properties, LLC",,,,,,,918-629-1914,,918-610-0700,,,,,,www.coatesproperties.com�,broker
+,Sheila,,Cooper,,,,,,scooper@bauertulsa.com,,SheilaCooper,,FALSE,"4821 S. Sheridan, Ste. 201",,Tulsa,OK,74145,,"Bauer & Associates, Inc.",,,,,,,918-724-5140,,918-665-1210,,,,,,,broker
+,Mike,,Coulter,,,,,"CCIM, SIOR",michaelcoulter8@gmail.com,mike@coulterrealtors.com,MikeCoulter,,FALSE,3845 E. 104th St,,Tulsa,OK,74137,,Coulter Realtors,,,,,,,918-640-9848,,918-749-0766,,,,,,www.coulterrealtors.com,broker
+,Ryan,,Coulter,,,,,,ryan@coulterrealtors.com,,RyanCoulter,,FALSE,,,,,,,Coulter Realtors,,,,,,,,,,,,,,,,broker
+,Mike,,Craddock,,,,,,hotels@swbell.net,,MikeCraddock,Managing Broker,FALSE,1703 E. Skelly Dr. Suite 105,,Tulsa,OK,74105,,HotelBrokerOne,,,,918-745-0609,,,918-605-1436,,918-745-0606,,,,,,,broker
+,Neil,,Dailey,,,,,,ndailey@mcgrawcp.com,,NeilDailey,,FALSE,4105 S. Rockford Ave,,Tulsa,OK,74105,,McGraw Commercial Properties,,,,918-398-5134,,,918-853-7337,,918-388-9588,,,,,,www.mcgrawcp.com,broker
+,Bill,,Daniels,,,,,,bd@danielsgreer.com,,BillDaniels,,FALSE,,,,,,,Daniels Greer Properties LLC,,,,,,,,,,,,,,,,broker
+,Raymond,,Davis,,,,,,rdavis@mcgrawcp.com,,RaymondDavis,,FALSE,4105 S. Rockford Ave,,Tulsa,OK,74105,,McGraw Commercial Properties,,,,918-398-5129,,,,,918-671-9201,,,,,,,broker
+,Jim,,Dittus,,,,,,jim@dittusproperties.com,,JimDittus,,FALSE,,,,,,,Dittus Properties,,,,,,,,,,,,,,,,broker
+,Steve,,Dodson,,,,,,steve@smdodson.com,,SteveDodson,,FALSE,,,,,,,SMDodson LLC,,,,,,,,,,,,,,,,broker
+,Amanda,,Duenner,,,,,,ag@danielsgreer.com,,AmandaDuenner,,FALSE,11 3rd Street #1110,,Tulsa,OK,74103,,Daniels Greer Properties,,,,918-742-1911,,,918-740-1015,,918-742-7500,,,,,,,broker
+,Perry,,Dunham,,,,,CCIM,perryrdunham@sbcglobal.net,,PerryDunham,,FALSE,6355-B East 41st St.,,Tulsa,OK,74135,,Monte L. Dunham Company,,,,918-627-4312,,,918-625-3624,,918-627-4230,,,,,,,broker
+,Jesse,,DuPree,,,,,,jessedupree1@aol.com,,JesseDuPree,,FALSE,5120 E. 75th St ,,Sand Springs,OK,74136,,DWRAA Realtor Advisors,,,,918-346-6468,,,918-688-0178,,918-688-0178,,,,,,,broker
+,Mike,,Estus,,,,,,mike@tfptulsa.com,,MikeEstus,,FALSE,"2121 S. Columbia, Suite 650",,Tulsa,OK,74114,,"Twenty First Properties, Inc.",,,,918-745-1065,,,918-884-8889,,918-743-4300,,,,,,www.tfptulsa.com,broker
+,Jacqueline,,Falkenberry,,,,,,falkenberry.jacqueline@gmail.com,,JacquelineFalkenberry,,FALSE,4500 W. Houston St,,Broken Arrow,OK,74012,,"FirsTitle & Abstract Services, Inc.",,,,918-615-6719,,,,,918-615-6819,,,,,,firstitle.com,broker
+,Braxton,,Fears,,,,,Broker,braxton@fearsclark.com,,BraxtonFears,,FALSE,"201 W. 5th, Suite 300",,Tulsa,OK,74103,,Fears & Clark Realty Group LLC,,,,918-728-7320,,,918-269-9706,,918-481-2080,,,,,,,broker
+,Dwayne,,Flynn,,,,,"SIOR, CCIM",dwayne.flynn@cbre.com,,DwayneFlynn,,FALSE,"1401 S. Boulder Ave, Suite 100",,Tulsa,OK,74119,,"CBRE, Inc",,,,918-663-6402,,,918-630-0611,,918-392-7249,,,,,,,broker
+,Tanda,,Francis,,,,,,tfrancis@priceedwards.com,,TandaFrancis,,FALSE,"7633 East 63rd Pl., Ste 400",,Tulsa,OK,74133,,Price Edwards and Company,,,,918-394-1001,,,918-630-9991,,918-394-1000,,,,,,,broker
+,Brian,,Frere,,,,,CPA,bfrere@cox.net,,BrianFrere,,FALSE,4745 E. 91st St. Suite 100,,Tulsa,OK,74137,,KW Commercial,,,,,,,918-298-6900,,918-497-4400,,,,,,,broker
+,Ben,,Ganzkow,,,,,,ben.ganzkow@cbreok.com,,BenGanzkow,,FALSE,"1401 S. Boulder Avenue, Suite 100",,Tulsa,OK,74119,,CBRE OK,,,,918-663-6402,,,,,918-665-3830,,,,,,,broker
+,Earnie,,Gilder,,,,,CIPS,egilder@interstateproperties.com,,EarnieGilder,,FALSE,P O Box 2519,,Muskogee,OK,74402,,"Interstate Properties, Inc.",,,,918-687-7200,,,918-685-7880,,918-682-1119,,,,,,www.interstateproperties.com,broker
+,David,,Glasgow,,,,,CCIM,david.glasgow@cbre-ok.com,,DavidGlasgow,,FALSE,1401 S. Boulder Ave. #100,,Tulsa,OK,74119,,"CBRE, Inc",,,,918-663-6402,,,918-798-8787,,918-392-7205,,,,,,,broker
+,Jon,,Gobbo,,,,,,jon.gobbo@gmail.com,,JonGobbo,,FALSE,,,,,,,Keller Williams,,,,,,,918-850-2289,,918-712-2252,,,,,,,broker
+,Bob,,Goble,,,,,,whitgo@cox.net,,BobGoble,,FALSE,4210 East 83rd,,Tulsa,OK,74137,,"Robert Goble & Associates, LLC",,,,918-495-1716,,,918-271-2964,,918-495-1716,,,,,,,broker
+,John,,Gray,,,,,,jgray@mcgrawcp.com,,JohnGray,,FALSE,4105 S. Rockford,,Tulsa,OK,74105,,McGraw CP,,,,918-398-5146,,,918-671-9997,,918-388-9581,,,,,,,broker
+,Daniel,,Greer,,,,,,,,DanielGreer,,FALSE,1 West 3rd Street #1110,,Tulsa,OK,74103,,Daniels Greer Properties,,,,918-742-1911,,,,,918-742-7500,,,,,,,broker
+,Troy,,Gudgel,,,,,CCIM,tgudgel@mcGrawok.com,,TroyGudgel,,FALSE,4105 S. Rockford Ave,,Tulsa,OK,74105,,McGraw Commercial Properties,,,,918-398-5073,,,918-740-7293,,918-592-6000,,,,,,,broker
+,Rick,,Guild,,,,,,rg@theguildcompany.com,,RickGuild,,FALSE,,,,,,,Guild Company LLC (The),,,,,,,,,,,,,,,,broker
+,Jim,,Gustine,,,,,,gustinecommercial@icloud.com,,JimGustine,,FALSE,,,,,,,Gustine Commercial,,,,,,,,,,,,,,,,broker
+,Shawna,,Hale,,,,,CCIM,shawna.hale@cbre.com,,ShawnaHale,,FALSE,1401 S. Boulder Ave. #100,,Tulsa,OK,74119,,"CBRE, Inc",,,,918-663-6402,,,918-798-8787,,918-392-7205,,,,,,,broker
+,David,,Hall,,,,,,dave@imperialproperties.com,,DavidHall,,FALSE,"6130 East 32nd Street, #108",,Tulsa,OK,74135,,"Imperial Properties, Inc.",,,,918-665-8213,,,,,918-665-2700,,,,,,www.imperialproperties.com,broker
+,Dustin,,Hansen,,,,,,dustin.hansen@watermarkprop.com,,DustinHansen,,FALSE,4527 E. 91st,,Tulsa,OK,74133,,Watermark Properties,,,,918-994-4408,,,918-261-4617,,918-994-4407,,,,,,,broker
+,Dorinda,,Hansen,,,,,CCIM,dorinda.hansen@watermarkprop.com,,DorindaHansen,,FALSE,"6117 S. Mingo Rd., Suite A",,Tulsa,OK,74133,,"Watermark Companies, LLC.",,,,918-994-4408,,,918-261-4617,,918-994-4407,,,,,,,broker
+,Alan,,Harju,,,,,,alan@paramounttulsa.com,,AlanHarju,Broker,FALSE,6666 S. Sheridan,,Tulsa,OK,74136,,"Paramount Commercial Properties, LLC",,,,918-743-8003,,,918-645-2355,,918-743-8000,,,,,,,broker
+,Scotty,,Harper,,,,,,scotty@paine-associates.com,,ScottyHarper,,FALSE,"5810 E Skelly Drive, 19th floor",,Tulsa,OK,74135,,Paine & Associates,,,,,,,,,918-481-5380,,,,,,,broker
+,Lisa,,Heller,,,,,,lheller@priceedwards.com,,LisaHeller,,FALSE,"7633 East 63rd Pl., Ste 400",,Tulsa,OK,74133,,Price Edwards Henderson & Co (BO),,,,918-394-1001,,,,,918-394-1000,,,,,,,broker
+,Jordan,,Helmerich,,,,,,jordan@adwonproperties.com,,JordanHelmerich,,FALSE,PO Box 52808,,Tulsa,OK,74152,,"Adwon Properties, Inc.",,,,918-749-9585,,,,,918-749-9555,,,,,,,broker
+,Michelle,,Henry,,,,,,michelle@walmancommercial.com,,MichelleHenry,,FALSE,"7060 S. Yale Ave., Ste. 900",,Tulsa,OK,74136,,"Walman Commercial Real Estate Services, LLC",,,,918-481-8866,,,,, 918-481-8888 ,,,,,,,broker
+,Jamie,,"Hill, Jr.",,,,,"CCIM, SIOR",jamie.hill@cbre.com,,JamieHill,,FALSE,"1401 S. Boulder Avenue, Suite 100",,Tulsa,OK,74119,,"CBRE, Inc",,,,918-663-6402,,,918-630-4455,,918-392-7206,,,,,,,broker
+,Collier,,Imgrund,,,,,,CImgrund@ngkf.com,,CollierImgrund,,FALSE,"2021 S. Lewis, Ste. 410",,Tulsa,OK,74104,,Newmark Grubb Levy Strange Beffort,,,,,,,214-392-7828,,918-508-2800,,,,,,,broker
+,Cara Leigh,,Ingram,,,,,,cingram@mcgrawcp.com,,CaraLeighIngram,,FALSE,405 N Broadway Ave,,Tulsa,OK,74105,,McGraw Commercial Properties,,,,,,,214-213-3233,,918-376-1216,,,,,,www.mcgrawcp.com,broker
+,Jordan,K.,James,,,,,CCIM,JKJRealty@JKJCo.com,,JordanJames,,FALSE,7910 South 101st East Ave.,,Tulsa,OK,74133,,JKJ Realty Company,,,,918-495-1624,,,918-633-9496,,918-495-1550,,,,,,www.JKJRealty.com,broker
+,Phil,,James,,,,,,pjames@bauertulsa.com,,PhilJames,,FALSE,,,,,,,Bauer & Associates Inc,,,,,,,,,,,,,,,,broker
+,Jared,,Jones,,,,,CCIM,jjones@porthavenpartners.com,,JaredJones,,FALSE,"8908 S. Yale Ave., Ste 400",,Tulsa,OK,74137,,Porthaven Partners,,,,,,,918-948-3941,,918-583-3483,,,,,,www.porthavenpartners.com,broker
+,Chris,,Kelley,,,,,,,,ChrisKelley,,FALSE,8905 S Lewis Avenue #210,,Tulsa,OK,74137,,Herndon & Kelley Commercial Real Estate,,,,918-492-5821,,,,,918-488-1995,,,,,,,broker
+,Larry,,Kelley,,,,,CCIM,lkkelley@cox.net,,LarryKelley,,FALSE,8905 S Lewis Avenue #210,,Tulsa,OK,74137,,Herndon & Kelley Commercial Real Estate,,,,918-492-5821,,,,,918-488-1995,,,,,,,broker
+,Anderle,,Khaled,,,,,,anderlekhaled@coatesproperties.com,,AnderleKhaled,,FALSE,,,,,,,Coats Properties,,,,,,,,,,,,,,,,broker
+,Leslie,,Kirkpatrick,,,,,,leslie.kirkpatrick@cbre.com,,LeslieKirkpatrick,,FALSE,,,,,,,CBRE Inc,,,,,,,,,,,,,,,,broker
+,Matt,,Klimisch,,,,,"CCIM, SIOR",matt.klimisch@cbreok.com,,MattKlimisch,,FALSE,1401 S. Boulder Ave. #100,,Tulsa,OK,74119,,CB Richard Ellis Oklahoma,,,,918-663-6402,,,918-645-3490,,918-665-3830,,,,,,,broker
+,Gary,,Krisman,,,,,,gkrisman@mcgrawcp.com,,GaryKrisman,,FALSE,4105 S. Rockford Ave.,,Tulsa,OK,74105,,McGraw Commercial Properties,,,,,,,918-812-7830,,918-388-9588,,,,,,,broker
+,Mike,,Lester,,,,,CCIM,mlester@ngkf.com,,MikeLester,,FALSE,PO Box 226,,Broken Arrow,OK,74013,,Newmark Grub Levy Strange Beffort,,,,918-938-6055,,,918-284-0700,,918-481-3200,,,,,,www.levystrangebeffort.com,broker
+,Nick,,Lombardi,,,,,,nick@frisbielombardi.com,,NickLombardi,,FALSE,P.O. Box 52126,,Tulsa ,OK ,74152,,"Frisbie Lombardi Commercial Real Estate, LLC",,,,918-512-4327,,,918-344-9904,,918-747-7600,,,,,,www.frisbielombardi.com,broker
+,Tony,,Lombardi,,,,,,tony@stanfrisbie.com,,TonyLombardi,,FALSE,,,,,,,Stan Frisbie Real Estate LLC,,,,,,,,,,,,,,,,broker
+,David,,Looney,,,,,CCIM,dlooney@mcgrawcp.com,,DavidLooney,,FALSE,4105 S. Rockford Ave,,Tulsa,OK,74105,,McGraw Commercial,,,,918-398-5469,,,918-519-6151,,918-388-9588,,,,,,,broker
+,Ronald,,Looney,,,,,CCIM,ronslooney@sbcglobal.net,,RonaldLooney,,FALSE,5445 S. 99th E Ave.,,Tulsa,OK,74146,,Looney & Associate Realtors,,,,918-610-7212,,,918-519-6156,,918-610-7210,,,,,,,broker
+,Garrett,,Mahaney,,,,,,garrett@paine-associates.com,,GarrettMahaney,,FALSE,"5810 E Skelly Drive, 19th floor",,Tulsa,OK,74135,,Paine & Associates,,,,,,,,,918-481-4380,,,,,,,broker
+,Matt,,Mardis,,,,,,matt@paine-associates.com,,MattMardis,,FALSE,"5810 E Skelly Drive, 19th floor",,Tulsa,OK,74135,,Paine & Associates,,,,,,,,,918-481-5380,,,,,,,broker
+,Mary,K.,Martin,,,,,CCIM,mary.martin@cbre.com,,MaryMartin,,FALSE,5555 East 71st Street,,Tulsa,OK,74136,,"CBRE, Inc",,,,918-663-6402,,,918-637-4769,,918-392-7228,,,,,,,broker
+,Kelly,,McKoy,,,,,,kmckoy@mckoycompany.com,,KellyMcKoy,,FALSE,,,,,,,"McKoy, Kelly A",,,,,,,,,,,,,,,,broker
+,Mike,,McLane,,,,,,mmclane@ventureproperties.com,,MikeMcLane,,FALSE,,,,,,,Venture Properties LLC,,,,,,,,,,,,,,,,broker
+,Rob,,McMahon,,,,,,rob@adwonproperties.com,,RobMcMahon,,FALSE,,,,,,,Adwon properties,,,,,,,,,,,,,,,,broker
+,Barbara,,Mefford,,,,,CCIM,barbara.mefford@cbre.com,,BarbaraMefford,,FALSE,1401 S. Boulder Ave. #100,,Tulsa,OK,74119,,"CBRE, Inc",,,,918-663-6402,,,918-230-6397,,918-392-7240,,,,,,www.cbre.com,broker
+,Gina,,Merrill,,,,,,gmerrill@corprealtyadvisors.com,,GinaMerrill,,FALSE,3150 East 41st Street #102,,Tulsa,OK,74105,,"Corporate Realty Advisors, LLC",,,,,,,918-902-4128,,918-392-1950,,,,,,,broker
+,Jeffrey,,Metcalf,,,,,,jeffrey.metcalf@cbre.com,,JeffreyMetcalf,,FALSE,,,,,,,CBRE Inc,,,,,,,,,,,,,,,,broker
+,Anna,,Milleret,,,,,,amilleret@tulsarealtors.com,,AnnaMilleret,,FALSE,7506 East 91st Street,,Tulsa,OK,74133,,RE/MAX Executives,,,,,,,,,918-254-0600,,,,,,,broker
+,Bill,,Mizener,,,,,,bmizener@cbreok.com,,BillMizener,,FALSE,,,,,,,CBRE Inc,,,,,,,,,,,,,,,,broker
+,Rich,,Monaghan,,,,,,rmonaghan@cbreok.com,,RichMonaghan,,FALSE,,,,,,,CBRE Inc,,,,,,,,,,,,,,,,broker
+,Scott,E.,Morgan,,,,,,smorgan@couryprop.com,,ScottMorgan,,FALSE,"7134 S. Yale, Ave #300",,Tulsa,OK,74136,,"Coury Properties, Inc.",,,,918-583-6163,,,,,918-583-0201,,,,,,,broker
+,Michael,,Murnan,,,,,,mmurnan@commercialoklahoma.com,,MichaelMurnan,,FALSE,,,,,,,Commercial Oklahoma Inc,,,,,,,,,,,,,,,,broker
+,Brian,,Paine,,,,,,brian@paine-associates.com,,BrianPaine,,FALSE,"5810 E Skelly Drive, 19th floor",,Tulsa,OK,74135,,Paine & Associates,,,,,,,,,918-481-4380,,,,,,,broker
+,David,,Parrish,,,,,,david@parrishrealtors.com,,DavidParrish,,FALSE,"2720 N. Hemlock Ct, Suite C",,Broken Arrow,OK,74012,,Parrish Company Realtors,,,,918-250-4951,,,918-810-2873,,918-250-9880,,,,,,,broker
+,Michael,R.,Parrish,,,,,CCIM,parrishrealtor@yahoo.com,,MichaelParrish,,FALSE,"2720 N. Hemlock Ct, Suite C",,Broken Arrow,OK,74012,,Parrish Company Realtors,,,,918-250-4951,,,918-698-7807,,918-250-9880,,,,,,,broker
+,Vicki,,Patterson,,,,,,vpatterson@wigginprop.com,,VickiPatterson,,FALSE,"5100 E. Skelly Dr., Ste 110",,Tulsa,OK,74135,,"Wiggin Properties, LLC",,,,918-742-2322,,,918-519-6731,,918-863-2462,,,,,,,broker
+,Terry,,Payne,,,,,,terry.payne@cbre.com,,TerryPayne,,FALSE,,,,,,,CBRE Inc,,,,,,,,,,,,,,,,broker
+,Randolph,,Phillips,,,,,,c.randolph@tulsaproperties.com,,RandolphPhillips,,FALSE,,,,,,,Tulsaproperties.com LLC,,,,,,,,,,,,,,,,broker
+,Bobby,,Pielsticker,,,,,,bob.pielsticker@cbre.com,,BobbyPielsticker,,FALSE,"1401 S. Boulder Ave., Ste. 100",,Tulsa,OK,74119,,"CBRE, Inc",,,,,,,918-760-4489,,918-392-7261,,,,,,,broker
+,Marco,,Placencia,,,,,"CCIM, SIOR",marco@equitasrealty.com,,MarcoPlacencia,,FALSE,5801 E. 41st St. Suite 101,,Tulsa,OK,74135,,"Equitas Realty Advisors, LLC",,,,918-280-9902,,,918-629-5091,,918-280-9900,,,,,,www.equitasrealty.com,broker
+,Katie,,Plohocky,,,,,,katie@walmancommercial.com,,KatiePlohocky,,FALSE,"7060 S. Yale Ave., Ste. 900",,Tulsa,OK,74136,,"Walman Commercial Real Estate Services, LLC",,,,918-481-8866,,,918-346-3788,,918-481-8888,,,,,,,broker
+,Mike,,Predovic,,,,,,mpredovic@cityplextowers.com,,MikePredovic,,FALSE,,,,,,,Trinity Realty Advisors,,,,,,,,,,,,,,,,broker
+,Nick,,Probst,,,,,CCIM,nick@cratulsa.com,,NickProbst,,FALSE,3150 E. 41st #102,,Tulsa,OK,74105,,"Corporate Realty Advisors, LLC",,,,918-392-1951,,,918-633-8507,,918-392-1950,,,,,,www.craok.com,broker
+,Matt,,Reese,,,,,,matt.reese@cbre.com,,MattReese,,FALSE,"1401 S. boulder Ave., Ste. 100",,Tulsa,OK,74119,,"CBRE, Inc",,,,,,,918-760-4489,,918-392-7261,,,,,,,broker
+,Tulio,,Remington,,,,,,tremington@hotmail.com,,TulioRemington,,FALSE,,,,,,,,,,,,,,,,,,,,,,,broker
+,Robert,,Reppe,,,,,,bob@walmancommercial.com,,RobertReppe,,FALSE,"7060 S. Yale, Suite 900",,Tulsa,OK,74136,,Walman Commercial Real Estate,,,,918-481-8866,,,,,918-481-8888,,,,,,www.walmancommercial.com,broker
+,William,,Richards,,,,Bill,,bilric@valornet.com,,WilliamRichards,,FALSE,4208 N. Spruce Ave.,,Broken Arrow,OK,74012,,"Bill Richards and Associates, LLC",,,,918-355-9335,,,918-261-0096,,918-261-0096,,,,,,,broker
+,Bill,,Richert,,,,,"CCIM, SEC",brichert@ccim.net,,BillRichert,,FALSE,PO Box 2352,,Tulsa,OK,74101,,"Richert Properties, Inc.",,,,918-550-8182,,,918-743-6262,,918-743-6262,,,,,,,broker
+,Steve,,Robbins,,,,,,steverobbins@cox.net,,SteveRobbins,,FALSE,4704 W. Louisville Place,,Broken Arrow,OK,74012,,Robbins Real Estate,,,,,,,,,918-691-5146,,,,,,,broker
+,Greg,,Roberson,,,,,,greg@robersonfrancis.com,,GregRoberson,,FALSE,,,,,,,Roberson Francis Realty,,,,,,,,,,,,,,,,broker
+,Don,,Roberts,,,,,,don.roberts@commercialventures.org,,DonRoberts,Broker,FALSE,329 S. Elm Ste 240,,Jenks,OK,74037,,"Commercial Ventures, LLC",,,,918-492-1920,,,918-606-2999,,918-794-9056,,,,,,,broker
+,DC,,Roberts,,,,,,dcroberts@cctulsa.com,,DCRoberts,,FALSE,7510 E. 111th St. S. ,,Bixby,OK,74008,,Chinowth & Cowhen Commercial,,,,,,,918-710-1704,,918-710-1704,,,,,,,broker
+,Jeff,,Roberts,,,,,CCIM,,,JeffRoberts,,FALSE,PO Box 1861,,Muskogee,OK,74402,,Roberts Properties LLC,,,,918-687-6032,,,,,918-682-9033,,,,,,Moved to IL,broker
+,Emily,,Rohleder,,,,,,erohleder@wigginprop.com,,EmilyRohleder,,FALSE,,,,,,,Wiggin Properties LLC (BO),,,,,,,,,,,,,,,,broker
+,Mark,,Rooney,,,,,CCIM,mark.rooney@cbre.com,,MarkRooney,,FALSE,3144 East 33rd St.,,Tulsa,OK,74105,,"CBRE, Inc",,,,918-663-6402,,,918-760-0239,,918-392-7213,,,,,,,broker
+,Tami,,Rosson,,,,,,tami.rosson@cbre-ok.com,,TamiRosson,,FALSE,"1401 S Boulder, Ste 100",,Tulsa ,OK,74119,,"CBRE, Inc",,,,918-663-6402,,,918-645-9025,,918-392-7296,,,,,,cbre.com,broker
+,Duane,,Sadler,,,,,,duasad@argueproperties.com,,DuaneSadler,,FALSE,,,,,,,Argue Properties Inc,,,,,,,,,,,,,,,,broker
+,Scott,,Schlotfelt,,,,,,sschlotfelt@commercialoklahoma.com,,ScottSchlotfelt,,FALSE,,,,,,,Commercial Oklahoma Inc,,,,,,,,,,,,,,,,broker
+,Jeff,,Scott,,,,,,jeffscott@scottrealty.net,,JeffScott,,FALSE,7335 S. Lewis Ave. Suite 209,,Tulsa,OK,74136,,Scott Realty Company,,,,918-877-2666,,,918-691-8808,,918-877-2797,,,,,,,broker
+,Toby,,Scrivner,,,,,,tscrivner@stanjohnsonco.com,,TobyScrivner,,FALSE,"Two Warren Place 6120 South Yale Ave, Suite 813",,Tulsa,OK,74136,,"Director, Stan Johnson Company The Net Lease Authority�",,,,918-494-2692,,,405-609-9195,,918-494-2690,,,,,,,broker
+,Ryan,,Shaffer,,,,,,ryan.schaffer@cbre.com,,RyanShaffer,,FALSE,1401 S. Boulder Ave. #100,,Tulsa,OK,74119,,"CBRE, Inc",,,,,,,918-231-4794,,918-392-7203,,,,,,,broker
+,Edward,,Sherman,,,,,,esherman@cctulsa.com,,EdwardSherman,,FALSE,9110 S. Sheridan Rd.,,Tulsa,OK,74133,,C&C Commercial a division of Chinowth & Cohen REALTORS,,,,918-392-0989,,,918-706-5504,,918-392-0900,,,,,,,broker
+,Jim,,Stephens,,,,,,jim@jsokvest.com ,,JimStephens,,FALSE,P.O. Box 580785,,Tulsa,OK,74158,,JPS Real Estate,,,,,,,918-810-5411,,918-346-6326,,,,,,www.leasedowntowntulsa.com,broker
+,Rob,,Stephens,,,,,,rstephens@commercialoklahoma.com,,RobStephens,,FALSE,,,,,,,Commercial Oklahoma Inc,,,,,,,,,,,,,,,,broker
+,Warren,,Stewart,,,,,,wstewart@ngkf.com,,WarrenStewart,,FALSE,7020 E 82nd st,,Tulsa,OK,74133,,WLS Inc,,,,918-938-6055,,,918-409-5611,,918-481-3200,,,,,,,broker
+,Grant,,Stewart,,,,,,,,GrantStewart,,FALSE,PO Box 52808,,Tulsa,OK,74152,,"Adwon Properties, Inc.",,,,918-749-9585,,,,,918-749-9555,,,,,,,broker
+,Sheila,,Stringer,,,,,,sheilastringer@sbcglobal.net,,SheilaStringer,,FALSE,12150 E 96th St N. #100,,Owasso,OK,74055,,KW Commercial,,,,918-272-4742,,,918-812-8955,,918-272-0809,,,,,,www.kwcommercial.com,broker
+,Duane,,Suchy,,,,,,dsuchy@bauertulsa.com,,DuaneSuchy,,FALSE,,,,,,,Bauer & Associates Inc,,,,,,,,,,,,,,,,broker
+,Cathy,,Sung,,,,,,csung@cbtulsa.com,,CathySung,,FALSE,,,,,,,Select Management Group LLC (BO),,,,,,,,,,,,,,,,broker
+,Matt,,Surrett,,,,,,msurrett@naipetrous.us,,MattSurrett,,FALSE,,,,,,,NAI Rupe Helmer LLC,,,,,,,,,,,,,,,,broker
+,Mark,,Swadener,,,,,,mark@sgfok.com,,MarkSwadener,,FALSE,,,,,,,SGF Commercial Real Estate Services LLC,,,,,,,,,,,,,,,,broker
+,Vicki,,Tapp,,,,,,vtapp@bauertulsa.com,,VickiTapp,,FALSE,,,,,,,Bauer & Associates Inc,,,,,,,,,,,,,,,,broker
+,George,,Thomas,,,,,CCIM,gmthomas@ccim.net,,GeorgeThomas,,FALSE,PO Box 52725,,Tulsa,OK,74152,,Whiteside and Grant Realtors,,,,918-743-9957,,,918-697-4400,,918-697-4400,,,,,,,broker
+,Jeff,,Thompson,,,,,,jtpcp@swbell.net,,JeffThompson,,FALSE,,,,,,,Premier Commercial Properties Inc,,,,,,,,,,,,,,,,broker
+,Craig,,Tomlinson,,,,,CCIM,ctomlinson@stanjohnson.com,,CraigTomlinson,,FALSE,6120 South Yale Ave. Suite 300,,Tulsa,OK,74136,,Stan Johnson Company,,,,918-494-2692,,,,,918-494-2690,,,,,,www.stanjohnsonco.com,broker
+,Kate,,Turner,,,,,,kate@metro-commercial.net ,,KateTurner,,FALSE,"401 S. Boston Ave., Ste 3400",,Tulsa,OK,74103,,"Metro Commercial, LLC",,,,,,,918-906-0660,,918-906-0660,,,,,,,broker
+,Carey,,Velez,,,,,,cvelez@mcgrawcp.com,,CareyVelez,,FALSE,4105 S. Rockford Ave,,Tulsa,OK,74105,,McGraw Commercial Properties,,,,,,,,,918-845-7669,,,,,,,broker
+,Carl,,Vincent,,,,,CCIM,cvincent@corprealtyadvisors.com,,CarlVincent,Principal,FALSE,3150 E. 41st St. #102,,Tulsa,OK,74105,,"Corporate Realty Advisors, LLC",,,,918-392-0093,,,918-633-8507,,918-633-8507,,,,,,www.craok.com,broker
+,Steve,,Walman,,,,,,steve@walmancommercial.com,,SteveWalman,,FALSE,"7060 S. Yale, Suite 900",,Tulsa,OK,74136,,Walman Commercial Real Estate,,,,918-481-8866,,,,,918-481-8888,,,,,,www.walmancommercial.com,broker
+,Angela,,West,,,,,,angela.west@cbreok.com,,AngelaWest,,FALSE,,,,,,,CBRE Inc,,,,,,,,,,,,,,,,broker
+,Howard,,Wolf,,,,,CCIM,howardwolf@ccim.net,,HowardWolf,,FALSE,320 S. Boston Ave. #1026,,Tulsa,OK,74103,,"Wolf Group Properties, LLC�",,,,918-584-1425,,,918-704-0395,,918-592-5055,,,,,,www.wolfgroupproperties.com ,broker
+,John,,Zimmerman,,,,,CCIM,jzimmerman@stanjohnsonco.com,,JohnZimmerman,,FALSE,"6120 S. Yale, Ste. 813",,Tulsa,OK,74136,,Stan Johnson Company,,,,,,,918-906-7747,,918-494-2690,,,,,,www.stanjohnsonco.com,broker
+,Bob,,Meyer,Bob Meyer,,,,,bmeyer@caseusa.com,,BobMeyer,,TRUE,4200 E Skelly Dr,"Richmond Plaza, Ste 800",Tulsa,OK,74135,,Case & Associates,Case & Associates,,,,,,,,,,,,,,,broker
+,Brenda,,Glenn,,,,,,brenda.glenn@commercebank.com,,BrendaGlenn,,FALSE,5314 S Yale Avenue E,,Tulsa,OK,74135,,Commerce Bank,,4666,6901.79,,43344,45535,,4400,918-481-8811,,,Park Towers Office Building,0,100,,tenant
+,Adam,,Winbury,,,,,,awinbury@advancedcabling.com,,AdamWinbury,,FALSE,3158 S 108th East Avenue,,Tulsa,OK,74146,,Advanced Cabling,,2206,1341.98,,42856,43220,,4156,918-893-3444,,,Freeport Trade Center,0,230,,tenant
+,Alan,,Madewell,,,,,,alan@madewellarchitects.com,,AlanMadewell,,FALSE,5314 S Yale Avenue E,,Tulsa,OK,74135,,Alan Madewell & Assoc.,,1918,2717.17,,42705,43708,,4400,918-492-0580,,,Park Towers Office Building,0,210,,tenant
+,Alex,,Yar,,,,,,alex.yar@gmail.com,,AlexYar,,FALSE,5411 S. 125th E. Avenue,,Tulsa,OK,74146,,Des Inter Logistics,,1743,1016.75,,42675,43769,,4158,918-615-8520,,,Southeast Tech Center,0,305,,tenant
+,Alicia,,Butler,,,,,,deeringproductions@gmail.com,,AliciaButler,Owner,FALSE,329 S Elm St,,Jenks,OK,74037,,Deering Productions,,674,1067.25,,42948,44043,,4159,918-200-6449,,,Elm Street Retail,3.37,202,,tenant
+,Amy,,Westbrock,,,,,,arwestbrock@gmail.com,,AmyWestbrock,,FALSE,5314 S Yale Avenue E,,Tulsa,OK,74135,,Recharge Wellness Center,,760,1057.67,,43009,44104,,4400,918-630-5131,,,Park Towers Office Building,0,515,,tenant
+,Ange,,Hall,,,,,,ange.hall@sbti.com,,AngeHall,,FALSE,4200 E Skelly Drive,,Tulsa,OK,74135,,Stonebride Acquisitions,,1032,1806,,41944,43220,,4250,918-663-8000,,,Richmond Plaza,0,1005,,tenant
+,Angela,,Johnson,,,,,,mjtemp4@yahoo.com,,AngelaJohnson,,FALSE,329 S Elm St,,Jenks,OK,74037,,Jenks Tanning & Boutique,,1609,1975,,41671,,,4159,405-550-9929,,,Elm Street Retail,8.05,105,,tenant
+,Ann,,White,,,,,,annwhite@corporateperformancegroup.com,,AnnWhite,,FALSE,5314 S Yale Avenue E,,Tulsa,OK,74135,,MBW Assoc. LLC,,3128,4522.5,,42217,44043,,4400,918-492-1100,,,Park Towers Office Building,0,400,,tenant
+,April,,Turner,,,,,,april.turner@us.schindler.com,,AprilTurner,Office Coord.,FALSE,3168 S 108th East Avenue,,Tulsa,OK,74146,,Schindler Elevator C,,5857,3611.75,,42248,44804,,4156,918-627-1116,,,Freeport Trade Center,0,370,,tenant
+,Aubree,,Pixley,,,,,,aubree.pixley@marinerweathadvisors.com,,AubreePixley,,FALSE,4200 E Skelly Drive,,Tulsa,OK,74135,,Mariners Wealth Advisors,,1361,2296.75,,42156,44043,,4250,918-991-6933,,,Richmond Plaza,0,920,,tenant
+,Austin,,Buerge,,,,,,abuerge@grandbank.com,,AustinBuerge,,FALSE,4200 E Skelly Drive,,Tulsa,OK,74135,,Grand Bank,,1170,1998.75,,42005,44043,,4250,918-491-9700,,,Richmond Plaza,0,252,,tenant
+,Ben,,Abney,,,,,,babney@tulsacoxmail.com,,BenAbney,,FALSE,5314 S Yale Avenue E,,Tulsa,OK,74135,,Titan Properties LLC,,2896,2414.61,,42795,43524,,4400,,,,Park Towers Office Building,0,205,,tenant
+,Bill,,Mildren,,,,,,wmildren@wundernet.com,,BillMildren,,FALSE,2431 E 61st Street,,Tulsa,OK,74105,,Wunderlich Securities,,5698,10446.25,,43070,43434,,4350,918-742-7444,,,Southern Hills Tower,3.61,300,,tenant
+,Blake,,Will,,,,,,bwill@greatsouthernbank.com,,BlakeWill,,FALSE,4200 E Skelly Drive,,Tulsa,OK,74135,,Great Southern Bank,,2627,4487.75,,41671,43524,,4250,918-499-2602,,,Richmond Plaza,0,900,,tenant
+,Brad,,Toliver,,,,,,brad.toliver@gmail.com,,BradToliver,Owner,FALSE,3158 S 108th East Avenue,,Tulsa,OK,74146,,Brad Toliver,,2799,2122.5,,41244,43069,,4156,918-665-1244,,,Freeport Trade Center,0,270,,tenant
+,Brenda,,Dill,,,,,,brendad@vectorprop.com,,BrendaDill,,FALSE,5314 S Yale Avenue E,,Tulsa,OK,74135,,Vector Securities Co,,1878,2660.5,,42370,43465,,4400,918-587-1700,,,Park Towers Office Building,0,1010,,tenant
+,Bruce,,Riddle,,,,,,rmorgan111@financialguide.com,,BruceRiddle,,FALSE,4200 E Skelly Drive,,Tulsa,OK,74135,,Riddle Financial Group,,2060,3562,,42401,44227,,4250,918-524-6330,,,Richmond Plaza,0,350,,tenant
+,Bryant,,Coffman,,,,,,bryant@bcoffmancpa.com,,BryantCoffman,,FALSE,2431 E 61st Street,,Tulsa,OK,74105,,First Stuart Corp.,,5346,9578.25,,42767,44592,,4350,918-744-5222,,,Southern Hills Tower,3.39,600,,tenant
+,Buddy,,Kelley,,,,,,buddykelley@banksnb.com,,BuddyKelley,,FALSE,2431 E 61st Street,,Tulsa,OK,74105,,Stillwater National,,,,,42675,,,4350,918-523-3600,,,Southern Hills Tower,,DT,,tenant
+,Carlos,,Arriba,,,,,,arribatequila@aol.com,,CarlosArriba,Owner,FALSE,9999 S. Mingo Road,,Tulsa,OK,74113,,Senor Tequila Inc.,,3499,5103,,42186,44012,,4160,918-277-6666,,,Plaza del Sol,0,K,,tenant
+,Carol,,Sawyer,,,,,,csawyer@ameritaiv.com,,CarolSawyer,,FALSE,12515 E. 55th Ave,,Tulsa,OK,74146,,"Amerita, Inc.",,7516,6564,,41821,44377,,4158,918-493-2727,,,Southeast Tech Center,0,101,,tenant
+,Charles,,Fuller,,,,,,cfuller@bridgecreekinvestments.com,,CharlesFuller,,FALSE,2431 E 61st Street,,Tulsa,OK,74105,,Bridgecreek Investment,,2239,4198.25,,41518,43343,,4350,918-392-1990,,,Southern Hills Tower,1.42,315,,tenant
+,Chase,,Delozier,,,,,,cdelozier@adultgastro.com,,ChaseDelozier,,FALSE,4200 E Skelly Drive,,Tulsa,OK,74135,,Adult Gastroenterologist,,889,1592.75,,40725,,,4250,918-481-4700,,,Richmond Plaza,0,310,,tenant
+,Chris,,Lewallen,,,,,,clewallen@optronics.com,,ChrisLewallen,,FALSE,5115 S. 122nd E. Avenue,,Tulsa,OK,74146,,Optronics International,,4410,3399.36,,43101,43465,,4155,918-576-1601,,,Business Commons Tech Center,0,202-A,,tenant
+,Chris,,Ryan,,,,,,chris.ryan@jan-pro.com,,ChrisRyan,,FALSE,12211 E. 51st St,,Tulsa,OK,74146,,Stellar Properties,,1686,983.5,,42948,44043,,4155,918-599-8001,,,Business Commons Tech Center,0,302,,tenant
+,Chris,,Taylor,,,,,,chris.taylor@rauschcoleman.com,,ChrisTaylor,,FALSE,3158 S 108th East Avenue,,Tulsa,OK,74146,,Rausch Coleman Homes,,7098,4702.5,,43205,44300,,4156,918-833-5005,,,Freeport Trade Center,0,205,,tenant
+,Chris,,McKeown,,,,,,christopher.a.mckeown@ampf.com,,ChrisMcKeown,,FALSE,4200 E Skelly Drive,,Tulsa,OK,74135,,Joseph A. Small,,1579,2730.25,,42552,43708,,4250,918-295-5895,,,Richmond Plaza,0,1015,,tenant
+,Chris,,Lackner,,,,,,clackner@dmeexpress.com,,ChrisLackner,,FALSE,5314 S Yale Avenue E,,Tulsa,OK,74135,,Healthcare Accounting,,1064,1386.4,,42767,,,4400,405-412-4909,,,Park Towers Office Building,0,602,,tenant
+,Chris,,Knight,,,,,,chirsknight@knightlawfirm.net,,ChrisKnight,,FALSE,5314 S Yale Avenue E,,Tulsa,OK,74135,,Chris Knight P.C.,,2030,2833.5,,42736,43830,,4400,918-496-1200,,,Park Towers Office Building,0,150,,tenant
+,Chuck,,Halliburton,,,,,,chuck@avcomprod.com,,ChuckHalliburton,Owner,FALSE,3158 S 108th East Avenue,,Tulsa,OK,74146,,Avcom Productions Inc,,5907,3568.75,,42979,44074,,4156,918-627-2301,,,Freeport Trade Center,0,275,,tenant
+,Cindy,,Schauer,,,,,,cindy.schauer@blackhawkid.com,,CindySchauer,,FALSE,,,,,,,Blackhawk Industrial,,42000,21292.5,,42522,44347,,4150,918-616-2365,,,SkyCam Building,0,1500A,,tenant
+,Cindy,,Alvarez,,,,,,cindy@tastetheworld.org,,CindyAlvarez,,FALSE,12211 E. 51st St,,Tulsa,OK,74146,,Taste The World Photography,,2258,1430,,42979,44439,,4155,918-402-9646,,,Business Commons Tech Center,0,301,,tenant
+,Cynthia,,Braly,,,,,,cynthia@cjbralylaw.com,,CynthiaBraly,,FALSE,329 S Elm St,,Jenks,OK,74037,,"Cynthia Braly, PLC",,481,600,,42401,,,4159,918-728-0627,,,Elm Street Retail,2.41,201,,tenant
+,D,,Gleason,,,,,,dgleason@thebestwindow.com,,DGleason,,FALSE,3168 S 108th East Avenue,,Tulsa,OK,74146,,C. Cashion Windows,,11130,3988.25,,42826,43921,,4156,918-876-4901,,,Freeport Trade Center,0,315,,tenant
+,Darla,,Young,,,,,,darla.young@edwardjones.com,,DarlaYoung,,FALSE,5314 S Yale Avenue E,,Tulsa,OK,74135,,Edward Jones,,1035,1423,,42339,44165,,4400,918-477-7787,,,Park Towers Office Building,0,415,,tenant
+,Dave,,Presley,,,,,,jhonaker@frontierenergyllc.com,,DavePresley,Owner,FALSE,4200 E Skelly Drive,,Tulsa,OK,74135,,Frontier Energy Services,,4069,6612.12,,42461,43555,,4250,918-388-8418,,,Richmond Plaza,0,400,,tenant
+,David,,Saunders,,,,,,dsaund48@gmail.com,,DavidSaunders,,FALSE,3168 S 108th East Avenue,,Tulsa,OK,74146,,David Saunders,,6665,2499.38,,42826,43921,,4156,918-437-8599,,,Freeport Trade Center,0,350,,tenant
+,David,,Forbes,,,,,,david@thetravelgroup.biz,,DavidForbes,Owner,FALSE,9999 S. Mingo Road,,Tulsa,OK,74113,,"The Travel Group, LLC",,1200,1550,,42979,43343,,4160,918-494-0649,,,Plaza del Sol,0,T,,tenant
+,David,,James,,,,,,david@paradigmgroupdbe.com,,DavidJames,,FALSE,5314 S Yale Avenue E,,Tulsa,OK,74135,,"Paradigm Group, LLC",,1613,2318.75,,42401,43131,,4400,918-794-7351,,,Park Towers Office Building,0,418,,tenant
+,Deanna,,Covington,,,,,,kayleeannbtq@aol.com,,DeannaCovington,,FALSE,329 S Elm St,,Jenks,OK,74037,,Kaylee Ann's Boutique,,1314,2200,,41593,43100,,4159,918-296-7071,,,Elm Street Retail,6.57,103,,tenant
+,Debbie,,Replogle,,,,,,debbie.replogle@marinerconsulting.com,,DebbieReplogle,,FALSE,4200 E Skelly Drive,,Tulsa,OK,74135,,Mariner Consulting,,4814,8123.75,,41760,44043,,4250,918-388-1655,,,Richmond Plaza,0,960,,tenant
+,Debbie,,Branch,,,,,,dbranch@vestmidstream.com,,DebbieBranch,,FALSE,2431 E 61st Street,,Tulsa,OK,74105,,Vesta Midstream Partners,,4200,7350,,42736,43830,,4350,918-986-9520,,,Southern Hills Tower,2.66,310,,tenant
+,Don,,Fuson,,,,,,donfuson@csg-guardian.com,,DonFuson,,FALSE,3158 S 108th East Avenue,,Tulsa,OK,74146,,Guardian Security,,3604,2492.75,,42064,43890,,4156,918-836-3330,,,Freeport Trade Center,0,220,,tenant
+,Everett,,Olten,,,,,,eolten@ifbtulsa.com,,EverettOlten,,FALSE,3168 S 108th East Avenue,,Tulsa,OK,74146,,Rusts Interiors For Business,,4464,1819.08,,42005,43100,,4156,918-747-3375,,,Freeport Trade Center,0,335,,tenant
+,Garry,,Judy,,,,,,candccontractors@sbcglobal.net,,GarryJudy,Owner,FALSE,3168 S 108th East Avenue,,Tulsa,OK,74146,,"C & C Contractors, Inc",,2490,1141.25,,42248,43343,,4156,918-629-1767,,,Freeport Trade Center,0,360,,tenant
+,George,,Shute,,,,,,,,GeorgeShute,,FALSE,5314 S Yale Avenue E,,Tulsa,OK,74135,,Dr. George A. Shute,,1104,1587,,42370,43465,,4400,918-492-7343,,,Park Towers Office Building,0,410,,tenant
+,Greg,,Davis,,,,,,gdavis@anchorusa.com,,GregDavis,CFO,FALSE,2431 E 61st Street,,Tulsa,OK,74105,,Anchor Drilling Fluids,,2482,4550.25,,42948,44408,,4350,918-583-7701,,,Southern Hills Tower,1.57,250,,tenant
+,J.,,Lunsford,,,,,,jlunsfor@quiktrip.net,,Jlunsford,,FALSE,5443 S. 108th E. Ave,,Tulsa,OK,74146,,Quik Trip Corporation,,39878,12819.83,,41974,45626,,4157,918-615-7748,,,Katy Crow Distribution Center,0,180,,tenant
+,Jared,,Best,,,,,,jbest71990@wradvisors.com,,JaredBest,,FALSE,4200 E Skelly Drive,,Tulsa,OK,74135,,"Waddell & Reed, Inc. ",,3745,6800.5,,42948,43312,,4250,918-494-9800,,,Richmond Plaza,0,1020,,tenant
+,Jason,,Depus,,,,,,blackforestdecor@cox.com,,JasonDepus,,FALSE,329 S Elm St,,Jenks,OK,74037,,Black Forest Decor,,2804,2305,,42461,43190,,4159,918-298-0286,,,Elm Street Retail,14.02,210,,tenant
+,Jeff,,Batterton,,,,,,jeff@paradigmgroupdbe.com,,JeffBatterton,,FALSE,5314 S Yale Avenue E,,Tulsa,OK,74135,,Paradigm Group LLC,,1325,1877,,41244,43100,,4400,918-794-7351,,,Park Towers Office Building,0,310,,tenant
+,Jeremy,,Pfanen,,,,,,jpfanen@hotmail.com,,JeremyPfanen,,FALSE,329 S Elm St,,Jenks,OK,74037,,Elm Street Pub,,2372,2975,,40330,43982,,4159,918-576-3786,,,Elm Street Retail,11.86,165,,tenant
+,Jerry,,Herzberg,,,,,,jerry.herzberg@axa-advisors.com,,JerryHerzberg,Owner,FALSE,4200 E Skelly Drive,,Tulsa,OK,74135,,Herzberg Financial Services,,1177,1863.5,,42005,,,4250,918-488-1113,,,Richmond Plaza,0,250,,tenant
+,Jim,,Ogez,,,,,,jogez@rcm.com,,JimOgez,,FALSE,4200 E Skelly Drive,,Tulsa,OK,74135,,Regier Carr & Monroe,,9067,15300.5,,42309,44865,,4250,918-492-8800,,,Richmond Plaza,0,560,,tenant
+,Jim,,Consedine,,,,,,jc@bpstrategies.net,,JimConsedine,,FALSE,5314 S Yale Avenue E,,Tulsa,OK,74135,,Catamount Companies,,3139,4577.75,,42095,43921,,4400,918-398-2600,,,Park Towers Office Building,0,601,,tenant
+,Jim,,Crosby,,,,,,jcrosby@pdgtulsa.com,,JimCrosby,,FALSE,5314 S Yale Avenue E,,Tulsa,OK,74135,,"PDG, Inc.",,2554,3618.25,,42705,44530,,4400,918-628-1255,,,Park Towers Office Building,0,510,,tenant
+,Joel,,Ruiz,,,,,,joel.ruiz@reecesupply.com,,JoelRuiz,,FALSE,3148 S 108th East Avenue,,Tulsa,OK,74146,,Reece Supply Company,,14723,5214.5,,42401,43496,,4156,918-556-5000,,,Freeport Trade Center,0,130,,tenant
+,Joey,,McLaughlin,,,,,,joey.w.mclaughlin@jci.com,,JoeyMcLaughlin,,FALSE,3148 S 108th East Avenue,,Tulsa,OK,74146,,York International Corp,,9920,4092,,42948,44043,,4156,405-419-6584,,,Freeport Trade Center,0,120,,tenant
+,John,,Hagen,,,,,,john.hagen@hrblock.com,,JohnHagen,,FALSE,329 S Elm St,,Jenks,OK,74037,,H & R Block,,1766,2158.17,,41609,43220,,4159,918-606-8796,,,Elm Street Retail,8.83,101,,tenant
+,John,,Reaves,,,,,,john@asphalt-fuelsupply.com,,JohnReaves,,FALSE,4200 E Skelly Drive,,Tulsa,OK,74135,,Asphalt & Fuel Supply,,597,1020,,42036,43830,,4250,918-488-1339,,,Richmond Plaza,0,610,,tenant
+,Johnny,,Cochrane,,,,,,john.cochrane@ironmountain.com,,JohnnyCochrane,,FALSE,5443 S. 108th E. Ave,,Tulsa,OK,74146,,"Iron Mountain Information Management, LLC",,61371,20457,,41699,43524,,4157,918-280-1955,,,Katy Crow Distribution Center,0,100,,tenant
+,Josh,,Wawrzonek,,,,,,josh_wawrzonek@opesone.com,,JoshWawrzonek,,FALSE,4200 E Skelly Drive,,Tulsa,OK,74135,,OPES One Advisors,,2692,4823.25,,42736,44651,,4250,918-906-3687,,,Richmond Plaza,0,530,,tenant
+,Joy,,Eubank,,,,,,joyeurbank@olp.net,,JoyEubank,Owner,FALSE,9999 S. Mingo Road,,Tulsa,OK,74113,,"Lee Lee & Eubank, LLC",,1500,2250,,41487,43496,,4160,928-872-6388,,,Plaza del Sol,0,M,,tenant
+,Judy,,Anderson,,,,,,janderson@riddlewimbish.com,,JudyAnderson,,FALSE,5314 S Yale Avenue E,,Tulsa,OK,74135,,Riddle & Wimbish PC,,3710,5101.25,,41153,,,4400,918-494-3770,,,Park Towers Office Building,0,200,,tenant
+,Kelly,,Rossman,,,,,,kelly.rossman@fbtwagoner.com,,KellyRossman,,FALSE,2431 E 61st Street,,Tulsa,OK,74105,,First Bank & Trust Company,,2148,3803.75,,42005,43100,,4350,918-743-1106,,,Southern Hills Tower,1.36,425,,tenant
+,Kevin,,Dick,,,,,,kevin.dick@voxxlighting.com,,KevinDick,,FALSE,3168 S 108th East Avenue,,Tulsa,OK,74146,,Voss Electric Co.,,4966,2218.15,,42095,43190,,4156,918-280-1919,,,Freeport Trade Center,0,320,,tenant
+,Kevin,,Ellison,,,,,,kevin.ellison@us.gt.com,,KevinEllison,,FALSE,2431 E 61st Street,,Tulsa,OK,74105,,"Grant Thornton, LLP",,20123,35215.25,,41548,45199,,4350,630-873-2670,,,Southern Hills Tower,12.76,500,,tenant
+,Kike,,Aboaba,,,,,,kikelomoabo@gmail.com,,KikeAboaba,,FALSE,12206 E. 51st St,,Tulsa,OK,74146,,Afrique-Caribb Foods,,3461,1730.5,,42705,44530,,4155,918-720-9176,,,Business Commons Tech Center,0,104,,tenant
+,Kyle,,Ray,,,,,,peakbuilt@gmail.com,,KyleRay,,FALSE,329 S Elm St,,Jenks,OK,74037,,Southstone Homes,,494,720,,42887,43251,,4159,,,,Elm Street Retail,2.47,206,,tenant
+,LaDonna,,Deatherage,,,,,,ldeatherage@akaenergy.com,,LaDonnaDeatherage,,FALSE,4200 E Skelly Drive,,Tulsa,OK,74135,,Frontier Field Services,,1566,2544.75,,40756,,,4250,918-764-0208,,,Richmond Plaza,0,721,,tenant
+,Lance,,Pettigrew,,,,,,lancepettigrew@gmail.com,,LancePettigrew,Owner,FALSE,3158 S 108th East Avenue,,Tulsa,OK,74146,,LP Air Solutions,,2292,1241.5,,42917,43646,,4156,918-575-0095,,,Freeport Trade Center,0,272,,tenant
+,Larry,,Kester,,,,,,lckester@apid.net,,LarryKester,,FALSE,4200 E Skelly Drive,,Tulsa,OK,74135,,Architects Collective Tulsa,,4240,7155,,42278,44104,,4250,918-492-2987,,,Richmond Plaza,0,750,,tenant
+,Laura,,Daniels,,,,,,laura.daniels1@gentiva.com,,LauraDaniels,,FALSE,5314 S Yale Avenue E,,Tulsa,OK,74135,,Kindred at Home Gentiva,,4521,6499,,41913,43769,,4400,918-488-6153,,,Park Towers Office Building,0,500,,tenant
+,Leah,,Clare,,,,,,leah.clare@preferredhomecare.com,,LeahClare,,FALSE,5115 S. 122nd E. Avenue,,Tulsa,OK,74146,,Founders Healthcare,,2443,1476,,42461,43555,,4155,918-933-9779,,,Business Commons Tech Center,0,204,,tenant
+,Lee,,Vincent,,,,,,,,LeeVincent,Owner,FALSE,9999 S. Mingo Road,,Tulsa,OK,74113,,Three Palms Wine & Spirits,,5000,4750,,41609,44165,,4160,918-893-6363,,,Plaza del Sol,0,F,,tenant
+,Lee,,Boelens,,,,,,lboelens@gdhconsulting.com,,LeeBoelens,,FALSE,4200 E Skelly Drive,,Tulsa,OK,74135,,"GDH Consulting, Inc.",,3061,5229.28,,42826,43190,,4250,918-392-1600,,,Richmond Plaza,0,410,,tenant
+,Lee,,Crawley,,,,,,slc@bgatulsa.com,,LeeCrawley,,FALSE,5314 S Yale Avenue E,,Tulsa,OK,74135,,Corporate Finance Assoc,,1977,3921.33,,40826,,,4400,918-743-1131,,,Park Towers Office Building,0,1000,,tenant
+,Lindsey,,Brown,,,,,,brown@accountinprincipals.com,,LindseyBrown,,FALSE,2431 E 61st Street,,Tulsa,OK,74105,,Accounting Principal,,3944,6902,,41518,43343,,4350,918-878-2100,,,Southern Hills Tower,2.5,312,,tenant
+,Lisa,,Alley,,,,,,lisa.alley@ajg.com,,LisaAlley,,FALSE,4200 E Skelly Drive,,Tulsa,OK,74135,,Arthur J. Gallagher,,11956,20923,,41122,43008,,4250,918-884-2900,,,Richmond Plaza,0,300,,tenant
+,Lisa,,Fonkalscud,,,,,,lisa@tulsaendo.com,,LisaFonkalscud,,FALSE,4200 E Skelly Drive,,Tulsa,OK,74135,,Tulsa OK Endoscopy,,1850,3044.75,,41122,43190,,4250,918-728-6010,,,Richmond Plaza,0,975,,tenant
+,Lock,,Phan,,,,,,,,LockPhan,,FALSE,329 S Elm St,,Jenks,OK,74037,,Vogue Nail Salon,,1510,2575,,42522,43616,,4159,918-528-6002,,,Elm Street Retail,7.55,149,,tenant
+,Lucky,,Multani,,,,,,lsmultani@yahoo.com,,LuckyMultani,Owner,FALSE,9999 S. Mingo Road,,Tulsa,OK,74113,,Subway,,1250,0,,41609,43951,,4160,918-286-1766,,,Plaza del Sol,0,U,,tenant
+,M.,,Vargas,,,,,,mvargas@aerotek.com,,MVargas,,FALSE,2431 E 61st Street,,Tulsa,OK,74105,,"Aerotek, Inc.",,6993,13694.75,,41518,43434,,4350,405-254-2249,,,Southern Hills Tower,4.43,100,,tenant
+,Mandy,,Hauschildt,,,,,,tulmgr@janiking.com,,MandyHauschildt,Office Mgr.,FALSE,5314 S Yale Avenue E,,Tulsa,OK,74135,,Jani-King of Tulsa,,3041,4244.75,,42370,44196,,4400,918-627-4475,,,Park Towers Office Building,0,600,,tenant
+,Matthew,,Wilson,,,,,,,,MatthewWilson,,FALSE,9999 S. Mingo Road,,Tulsa,OK,74113,,Red Canyon Massage Therapy,,2019,3028.5,,42036,44227,,4160,918-398-0116,,,Plaza del Sol,0,C,,tenant
+,Michael,,Stephens,,,,,,michaelstephens@cox.net,,MichaelStephens,,FALSE,329 S Elm St,,Jenks,OK,74037,,Michael Stephens,,481,638.67,,42736,43830,,4159,918-629-8995,,,Elm Street Retail,2.41,207,,tenant
+,Mindy,,Brown,,,,,,mindy.brown@wfafinet.com,,MindyBrown,,FALSE,4200 E Skelly Drive,,Tulsa,OK,74135,,Eagleton Brown Investment Group,,2590,5026.72,,41852,44408,,4250,918-293-7204,,,Richmond Plaza,0,850,,tenant
+,Mir,,Khezri,,,,,,mkhezri@acuraneon.com,,MirKhezri,Owner,FALSE,9999 S. Mingo Road,,Tulsa,OK,74113,,Khezri Brothers,,3598,0,,40575,44227,,4160,918-994-4888,,,Plaza del Sol,0,J,,tenant
+,Nancy,,Graves,,,,,,ngraves@farwestcorrosion.com,,NancyGraves,,FALSE,3148 S 108th East Avenue,,Tulsa,OK,74146,,Farwest Corrosion Co,,10249,4612.05,,39498,43251,,4156,918-627-9333,,,Freeport Trade Center,0,100,,tenant
+,Neal,,Tomlins,,,,,,neal@tplawtulsa.com,,NealTomlins,,FALSE,2431 E 61st Street,,Tulsa,OK,74105,,"Tomlins & Peters, PL ",,1570,2747.5,,41805,,,4350,918-407-4097,,,Southern Hills Tower,1,305,,tenant
+,Nedra,,Mann,,,,,,nmann@ccreok.com,,NedraMann,,FALSE,2431 E 61st Street,,Tulsa,OK,74105,,Canyon Creek Energy,,10552,18905.75,,42917,43677,,4350,918-561-6737,,,Southern Hills Tower,6.69,400,,tenant
+,Paul,,Mullenix,,,,,,pmullenix@gillrepro.com,,PaulMullenix,,FALSE,5115 S. 122nd E. Avenue,,Tulsa,OK,74146,,Gill Reprographics,,1422,933.98,,42401,43496,,4155,918-384-0290,,,Business Commons Tech Center,0,202-B,,tenant
+,Paul,,Nickens,,,,,,paul@newavesolutions.com,,PaulNickens,,FALSE,5415 S. 125th E. Avenue,,Tulsa,OK,74146,,Newave Solutions LLC,,3840,2240,,42948,44043,,4158,,,,Southeast Tech Center,0,204,,tenant
+,Peggy,,Gloger,,,,,,peggy.gloger@rotech.com,,PeggyGloger,,FALSE,12206 E. 51st St,,Tulsa,OK,74146,,Camden Medical Supply,,4889,2500,,42614,43708,,4155,407-822-4618,,,Business Commons Tech Center,0,100,,tenant
+,Pete,,Adamson,,,,,,pete@autumnglorypartners.com,,PeteAdamson,,FALSE,4200 E Skelly Drive,,Tulsa,OK,74135,,Autumn Glory Partner,,943,1650.25,,42948,44773,,4250,918-070-3112,,,Richmond Plaza,0,540,,tenant
+,Randy,,Olmstead,,,,,,rolmstead@midcon-energy.com,,RandyOlmstead,,FALSE,2431 E 61st Street,,Tulsa,OK,74105,,Mid-Con Energy Properties,,10100,16833.25,,42583,44561,,4350,918-743-7575,,,Southern Hills Tower,6.4,825,,tenant
+,Resia,,Balmer,,,,,,resiasharpla@gmail.com,,ResiaBalmer,,FALSE,9999 S. Mingo Road,,Tulsa,OK,74113,,Resia Balmer and Ron,,3000,4000,,42675,44561,,4160,918-605-6442,,,Plaza del Sol,0,P,,tenant
+,Rick,,Burgess,,,,,,r.burgess@bommerxsolutions.com,,RickBurgess,,FALSE,5415 S. 125th E. Avenue,,Tulsa,OK,74146,,Guardian Pharmacy,,6662,5324,,42461,45016,,4158,866-237-8217,,,Southeast Tech Center,0,201,,tenant
+,Rick,,East,,,,,,rick@fastfitnesstulsa.com,,RickEast,,FALSE,9999 S. Mingo Road,,Tulsa,OK,74113,,Fast Fitness Tulsa,,2395,3500,,40770,,,4160,918-558-2374,,,Plaza del Sol,0,H,,tenant
+,Ricky,,Scheid,,,,,,,,RickyScheid,,FALSE,5314 S Yale Avenue E,,Tulsa,OK,74135,,Son Ok Scheid and Ri Deli,,605,353,,39722,,,4400,,,,Park Towers Office Building,0,320,,tenant
+,Ron,,Forsberg,,,,,,rforsberg@gaig.com,,RonForsberg,,FALSE,4200 E Skelly Drive,,Tulsa,OK,74135,,Great American Insurance,,1000,1666.67,,41334,43159,,4250,918-488-9345,,,Richmond Plaza,0,525,,tenant
+,Ross,,Gray,,,,,,agc6@hotmail.com,,RossGray,President,FALSE,5115 S. 122nd E. Avenue,,Tulsa,OK,74146,,AGC & Associates Surveying Inc.,,1743,1133,,42125,43951,,4155,918-250-3598,,,Business Commons Tech Center,0,201,,tenant
+,Ryan,,Murphy,,,,,,ryan.murpjhy@mottmac.com,,RyanMurphy,,FALSE,4200 E Skelly Drive,,Tulsa,OK,74135,,Hatch Mott MacDonald,,4043,5313,,42552,43646,,4250,918-493-2221,,,Richmond Plaza,0,520,,tenant
+,S.,,Fletcher,,,,,,sfletcher@tri-ed.com,,SFletcher,,FALSE,3148 S 108th East Avenue,,Tulsa,OK,74146,,Security General Int,,9203,4026.31,,41334,43159,,4156,918-250-9298,,,Freeport Trade Center,0,110,,tenant
+,Sandy,,Roller,,,,,,sandyroller@pylantmedical.com,,SandyRoller,,FALSE,12211 E. 51st St,,Tulsa,OK,74146,,"Pylant Medical, Ltd.",,4450,2818.25,,42675,44500,,4155,918-899-8223,,,Business Commons Tech Center,0,303,,tenant
+,Sandy,,Gibbs,,,,,,sgibbs@pbwtulsa.com,,SandyGibbs,,FALSE,2431 E 61st Street,,Tulsa,OK,74105,,"Pezold, Barker, & Woltz",,6457,11299.75,,41487,43312,,4350,918-584-0506,,,Southern Hills Tower,4.09,200,,tenant
+,Sara,,Zellner,,,,,,szellner@paycomonline.com,,SaraZellner,,FALSE,5314 S Yale Avenue E,,Tulsa,OK,74135,,"Paycom Payroll, LLC",,4136,5859.25,,42278,44104,,4400,405-919-6434,,,Park Towers Office Building,0,300,,tenant
+,Scott,,Estes,,,,,,sestes@emoftulsa.com,,ScottEstes,Owner,FALSE,3168 S 108th East Avenue,,Tulsa,OK,74146,,Enviro-Master,,2900,1160,,42125,43220,,4156,918-693-2121,,,Freeport Trade Center,0,380,,tenant
+,Scott,,Owens,,,,,,scott.owens@discoverchurchonline.com,,ScottOwens,,FALSE,329 S Elm St,,Jenks,OK,74037,,"Discover Church, LLC",,481,700,,42614,,,4159,918-384-9236,,,Elm Street Retail,2.41,208,,tenant
+,Scott,,Campbell,,,,,,patti@jenkscpa.net,,ScottCampbell,Owner,FALSE,329 S Elm St,,Jenks,OK,74037,,Scott L. Campbell,,1245,1460,,42736,43830,,4159,918-633-0217,,,Elm Street Retail,6.23,230,,tenant
+,Scott,,Guest,,,,,,scottguest@nhdpm.com,,ScottGuest,,FALSE,5314 S Yale Avenue E,,Tulsa,OK,74135,,New Horizons Dental,,4646,6388,,42795,44620,,4400,918-492-3003,,,Park Towers Office Building,0,1100,,tenant
+,Sharlyn,,Taylor,,,,,,sharlyn@taylor-sons.com,,SharlynTaylor,,FALSE,329 S Elm St,,Jenks,OK,74037,,Whitney Steel Buildings,,2293,2447.13,,42475,43569,,4159,405-222-0751,,,Elm Street Retail,11.47,240,,tenant
+,Shirley,,Billingsley,,,,,,oepo@cox.net,,ShirleyBillingsley,,FALSE,9999 S. Mingo Road,,Tulsa,OK,74113,,PJ's Pub and Grill,,4624,7046.33,,42491,43951,,4160,918-260-5559,,,Plaza del Sol,0,Y,,tenant
+,Steve,,Mulhall,,,,,,smulhall@marmicfire.com,,SteveMulhall,,FALSE,3168 S 108th East Avenue,,Tulsa,OK,74146,,Marmic Fire & Safety,,4400,1466.75,,42736,43890,,4156,918-510-6013,,,Freeport Trade Center,0,390,,tenant
+,Steve,,Pinion,,,,,,,,StevePinion,,FALSE,2431 E 61st Street,,Tulsa,OK,74105,,"Mr. P's, LLC",,384,0,,40299,,,4350,,,,Southern Hills Tower,0,140,,tenant
+,Tami,,Semler,,,,,,tamie@securetitleok.com,,TamiSemler,,FALSE,4200 E Skelly Drive,,Tulsa,OK,74135,,Secure Title & Escrow,,2133,3821.75,,42186,44012,,4250,918-508-2500,,,Richmond Plaza,0,420,,tenant
+,Teri,,Dorshort,,,,,,teri@connectionsok.com,,TeriDorshort,,FALSE,5411 S. 125th E. Avenue,,Tulsa,OK,74146,,Answering Connection,,2706,1759,,42156,44712,,4158,918-627-3333,,,Southeast Tech Center,0,302,,tenant
+,Terry,,Pollard,,,,,,tpollard@rasafloors.com,,TerryPollard,,FALSE,3148 S 108th East Avenue,,Tulsa,OK,74146,,Rasa Floors & Carpet,,4036,1490,,42125,43921,,4156,918-622-6666,,,Freeport Trade Center,0,145,,tenant
+,To,,Ly,,,,,,,,ToLy,,FALSE,4200 E Skelly Drive,,Tulsa,OK,74135,,To Ly and Jie Sheng Deli,,697,755,,40118,,,4250,918-496-1033,,,Richmond Plaza,0,255,,tenant
+,Todd,,Smith,,,,,,todd@fluddentallab.com,,ToddSmith,,FALSE,3158 S 108th East Avenue,,Tulsa,OK,74146,,National Dentex Corp,,12141,8347,,42461,44286,,4156,918-622-3810,,,Freeport Trade Center,0,284,,tenant
+,Todd,,Lang,,,,,,todd.lang@raymondjames.com,,ToddLang,,FALSE,2431 E 61st Street,,Tulsa,OK,74105,,Raymond James & Assoc,,5352,9589,,41992,44227,,4350,918-877-2637,,,Southern Hills Tower,3.39,260,,tenant
+,Tom,,Taylor,,,,,,tommtaylor@aol.com,,TomTaylor,Owner,FALSE,4200 E Skelly Drive,,Tulsa,OK,74135,,Tom M. Taylor,,1680,2800,,42979,43159,,4250,918-625-3512,,,Richmond Plaza,0,320,,tenant
+,Tom,,Hackelman,,,,,,thackelman@standleys.com,,TomHackelman,,FALSE,5314 S Yale Avenue E,,Tulsa,OK,74135,,"Standley Systems, LLC",,2801,3909.75,,42795,,,4400,405-574-1193,,,Park Towers Office Building,0,305,,tenant
+,Tony,,Lutz,,,,,,alutz@forceprotectionservices.com,,TonyLutz,Owner,FALSE,3158 S 108th East Avenue,,Tulsa,OK,74146,,Force Protection Services,,2233,1442.14,,42795,43524,,4156,918-343-0377,,,Freeport Trade Center,0,260,,tenant
+,Tran,,Truong,,,,,,,,TranTruong,Owner,FALSE,9999 S. Mingo Road,,Tulsa,OK,74113,,Truong Tran,,1500,2500,,42036,43861,,4160,918-557-9706,,,Plaza del Sol,0,N,,tenant
+,Virgil,,Mobley,,,,,,virgil.mobley@outlook.com,,VirgilMobley,President,FALSE,12206 E. 51st St,,Tulsa,OK,74146,,HDD Tool & Supply,,4309,2154.5,,42736,44651,,4155,918-984-4700,,,Business Commons Tech Center,0,106,,tenant
+,Wendi,,Little,,,,,,wendi.little@atkinsglobal.com,,WendiLittle,,FALSE,3158 S 108th East Avenue,,Tulsa,OK,74146,,Atkins North America,,2224,1298.03,,42522,43251,,4156,225-663-7952,,,Freeport Trade Center,0,255,,tenant
+,William,,Rogers,,,,,,rogersdentalgroup@gmail.com,,WilliamRogers,Owner,FALSE,9999 S. Mingo Road,,Tulsa,OK,74113,,William B. Rogers,,2500,0,,42430,45046,,4160,918-524-4000,,,Plaza del Sol,0,S,,tenant
+,Zal,,Sethna,,,,,,sethnaz@ft.newyorklife.com,,ZalSethna,,FALSE,2431 E 61st Street,,Tulsa,OK,74105,,New York Life,,14398,22197,,41122,43677,,4350,918-581-8806,,,Southern Hills Tower,9.13,650,,tenant

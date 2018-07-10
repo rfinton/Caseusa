@@ -1,0 +1,127 @@
+body {background-color: rgb(73, 70, 70);}
+.container-fluid {
+  opacity: 0;
+  background: white;
+  max-width: 1080px;
+  box-shadow: 0px 0px 20px black;
+  transition: all 0.5s ease-in-out;
+  padding-bottom: 30px;}
+
+
+
+.case-logo div {vertical-align: middle;}
+.case-logo h1 {
+  display: inline-block;
+  font-weight: bolder;
+  font-family: 'Times New Roman', Times, serif;
+  border-bottom: 1px solid black;}
+.case-logo h5 {
+  margin: 0; padding: 0;
+  font-family: Arial, Helvetica, sans-serif;}
+
+.banner-image {
+  background-color: black;
+  background-image: url('../img/banner-home.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 420px;
+  border-bottom: 30px solid #E33526;}
+
+.screen {
+  display: none;
+  position: fixed;
+  top: 0; left: 0;
+  width: 100%;
+  background: rgba(66, 9, 5, 0.7);}
+
+.popup-window {
+  display: none;
+  text-align: center;
+  margin: 2em auto;
+  background: white;
+  width: 90%;
+  height: 85%;
+  max-width: 720px;
+  position: relative;
+  overflow: hidden;}
+
+.floorplan {
+  position: absolute;
+  top: 50px; left: 0;
+  margin: 6px auto 0;
+  height: 90%;
+  width: 100%;}
+div[class="floorplan start"],
+div[class="floorplan"] {
+  -webkit-transform: translate3d(130%, 0, 0);
+  transform:translate3d(130%, 0, 0);}
+.floorplan img {
+  width: 100%;
+  height: auto;}
+
+
+.exit span:hover {cursor: pointer;}
+
+
+.content {
+  width: 80%;
+  margin: 30px auto;}
+.content p, .content li {font-weight: bold;}
+
+
+.content form p {margin-top: 30px;}
+.form-inline .form-control {width: 420px;}
+
+
+.properties h5 {color: black; font-weight: bold;}
+.properties h3 {
+  font-weight: bold; 
+  color:white; 
+  background-color: #E33526; 
+  line-height: 2em;
+  margin: 0;}
+.properties button {background-color: #E33526; color: white;}
+.properties div {text-align: center;}
+.popup {padding: 0 0 30px 0;}
+.popup:hover {cursor: pointer;}
+.prop {
+  margin: 0;
+  background: #E33526;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
+  border-radius: 50%;
+  border: 4px solid #E33526;}
+
+ 
+iframe {display: none;}
+#referModal iframe {display: block;}
+.glyphicon {font-size: 18pt;}
+ul {margin-right: 15px;}
+
+
+
+.amenities li {
+  font-style: normal;
+  color: black;
+  text-align: left;}
+.fa-mouse-pointer {margin: 50% 0 0 50%;}
+
+
+
+
+
+@media only screen and (max-width: 768px) {
+  .col-xs-12 {width: 33.333%;}
+  input[type="text"] {width: 100%;}
+  input[type="submit"] {margin-top: 15px;}
+  .form-inline .form-control {width: 100%;}
+}
+
+
+
+@media only screen and (max-width: 420px) {
+  .col-xs-12 {width: 100%;}
+  .popup > div > div {padding: 40px !important;}
+}

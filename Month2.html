@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="cache-control" content="no-cache">
+    <title>Case and Associates</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="http://s3.amazonaws.com/caseusa/node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="http://s3.amazonaws.com/caseusa/node_modules/bootstrap/dist/css/bootstrap-theme.min.css">
+    <style>
+      @font-face {
+        font-family:'Aleo Bold';
+        src: url('http://s3.amazonaws.com/caseusa/assets/fonts/Aleo-Bold.otf');}
+      @font-face {
+        font-family:'Aleo Light';
+        src: url('http://s3.amazonaws.com/caseusa/assets/fonts/Aleo-Light.otf');}
+      @font-face {
+        font-family:'Aleo';
+        src: url('http://s3.amazonaws.com/caseusa/assets/fonts/Aleo-Regular.otf');}
+      @keyframes _rotateZ {
+        from { transform: rotateZ(0deg); }
+        to { transform: rotateZ(360deg); }
+      }
+      body { background-color: gray; }
+      .container { background-color: white; font-family: 'Aleo', Arial, Helvetica, sans-serif; padding-bottom: 60px; }
+      #page-banner { padding: 30px 0px 30px 60px; }
+      #page-banner img:nth-child(1) { width: 25%; opacity: 0; }
+      #page-banner img:nth-child(2) { width: 25%; opacity: 0; }
+      #video { display: flex; justify-content: center; border-top: solid 30px #E33526; border-bottom: solid 30px #E33526; height: 540px; }
+      #video iframe { width: 100%; height: 100%; }
+      b { font-family: 'Aleo Bold', Arial, Helvetica, sans-serif; }
+      p, li { font-size: 2rem; }
+      #copy { margin: 30px 0px; }
+      #copy > p { margin: 30px 0; }
+      .feat { padding-bottom: 30px; }
+      .feat > div { margin: 30px 0px 0px; }
+      .feat > div > div > a > img { width: 25%; float: left; margin-right: 30px; }
+      .feat > div > div > img:nth-child(1) { width: 25%; float: left; margin-right: 30px; }
+      .feat > div > div > img:nth-child(2) { width: 32%; float: right; margin-top: -6%; }
+      h2 { color: #E33526; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+      .bottom-border-red { border-bottom: solid 6px #E33526; }
+      #copy, #feat-prop, #feat-tenant, #archives { width: 85%; margin: auto; }
+      .read { color: #E33526; cursor: pointer; margin: 15px 0px; }
+      .overflow { display: none; }
+      #modal-gallery .modal-body > div {
+        display: flex;
+        flex-direction: row;
+        overflow: scroll; }
+      #modal-gallery .modal-body img { width: 100%; align-self: start; margin-right: 3px; }
+      #refresh-icon {
+        color: green;
+        font-size: 3em; 
+        animation: _rotateZ 1s linear infinite; }
+      .archive {
+        display: inline-block;
+        text-align: center; }
+      #archives .div-round {
+        width: 100px;
+        height: 100px;
+        display: block;
+        margin: 6px;
+        border-radius: 50px;
+        border: solid 3px #e33526;
+        background-size: cover;
+        background-position: center;
+        vertical-align: middle; }
+      #archives #southern-hills {
+        background-image: url('http://s3.amazonaws.com/caseusa/assets/img/SouthernHills.jpg'); }
+      #archives #park-tower {
+        background-image: url('http://admin.caseusacommercial.com/Images/Park_Towers_outside2.jpg'); }
+      #archives #richmond-plaza {
+        background-image: url('http://s3.amazonaws.com/caseusa/assets/img/Richmond.jpg'); }
+
+      @media screen and (max-width: 440px) {
+        #page-banner { padding: 15px; text-align: center; }
+        #page-banner img:nth-child(1) { width: 45%; }
+        #page-banner img:nth-child(2) { width: 45%; }
+        #video { height: 340px; }
+      }
+    </style>
+    <script src="http://s3.amazonaws.com/caseusa/node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="http://s3.amazonaws.com/caseusa/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="http://s3.amazonaws.com/caseusa/node_modules/velocity/velocity.min.js"></script>
+    <script src="http://s3.amazonaws.com/caseusa/node_modules/velocity/velocity.ui.min.js"></script>
+    <script src="http://s3.amazonaws.com/caseusa/assets/js/month2.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <div id="page-banner" class="row">
+        <img onload="slideDownIn(this)" src="http://s3.amazonaws.com/caseusa/assets/img/caseCubeLogo.svg">
+        <img onload="slideLeftIn(this)" src="http://s3.amazonaws.com/caseusa/assets/img/caseHeaderText.svg">
+      </div>
+
+      <div id="video" class="row">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/rdUpLTBgazI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      </div>
+
+      <div id="copy" class="row bottom-border-red">
+        <p>##firstname##,<br><br>We know location is key to your clients which is why we pride ourselves in our properties. From landscaping and maintenance to GREAT locations and continued investment, we make sure our locations are just what your clients are looking for. Let us know which location we can impress with you.</p>
+      </div>
+
+      <div id="feat-prop" class="row feat bottom-border-red">
+        <div>
+          <h2>Featured Property for July</h2>
+          <div>
+            <a href="http://##purl##.caseinpointok.com/viewed.html?v=plazadelsol">
+              <img id="plaza-del-sol" data-toggle="modal" data-target="#modal-gallery" src="http://s3.amazonaws.com/caseusa/assets/img/plazaDelSolSm.png">
+            </a>
+            <h3 style="font-weight:600;">Plaza Del Sol</h3>
+            <p>Plaza del Sol in South Tulsa is an upscale neighborhood Shopping Center with an average household income of $83,702. With over 12 medical parks and hospitals within 2 miles and a 7% residential growth rate, it’s the perfect setting for a quality neighborhood center. Plaza del Sol is home to Tulsa's Jazz on the Plaz<span class="read"> ... read more</span><span class="overflow">, with outdoor seating and patio areas in the plaza.<br><br>This great location in Tulsa, Oklahoma provides casual neighborhood dining and shopping in an upscale setting inspired by the beautiful mission-style architecture of Southern California. Lush landscaping, beautiful courtyard, outdoor dining and entertainment. Plenty of parking.<br><br>Located at the northeast corner of 101st and Mingo in a tremendous growth area with close proximity to South Crest Hospital and only 1/2 mile from Creek Turnpike, Hwy. 169, and the Broken Arrow South Loop.</span></p>
+          </div>
+        </div>
+      </div>
+
+      <div id="feat-tenant" class="row feat bottom-border-red">
+        <div>
+          <h2>Featured Tenant for July</h2>
+          <div>
+            <img src="http://s3.amazonaws.com/caseusa/assets/img/jan-pro-blue.svg">
+            <img src="http://s3.amazonaws.com/caseusa/assets/img/janProCircle.png">
+            <p class="min">This month we'd like to introduce you to <b>JAN-PRO</b> of Tulsa. No matter what type of business you operate, <b>JAN-PRO</b> cleaning services will deliver a deeper, healthier clean. We offer a complete range of business cleaning services designed around industry-specific cleaning needs<span class="read"> ... read more</span><span class="overflow">. Business cleaning services from <b>JAN-PRO</b> mean a healthier workplace and a healthier bottom line for your business. Whether you run a small office, a restaurant, an auto-dealership, or any other type of business, <b>JAN-PRO</b> will deliver an exceptional clean.<br><br>We're so happy to have <b>JAN-PRO</b> as a part of our Case &amp; Associates family. If you feel like <b>JAN-PRO</b> is the partner you've been looking for we'd love to get you connected!<br><br><a target="_blank" href="http://www.JAN-PRO.com/tulsa">www.JAN-PRO.com/tulsa</a></span></p>
+          </div>
+        </div>
+      </div>
+
+      <div id="archives" class="row">
+        <div>
+          <h2>Previously Featured Properties</h2>
+          <div class="archive">
+            <a href="http://southernhillstower.com" target="_blank">
+              <div id="southern-hills" class="div-round"></div>
+              <span>Southern Hills</span>
+            </a>
+          </div>
+          <div class="archive">
+            <a href="http://parktowerstulsa.com/home" target="_blank">
+              <div id="park-tower" class="div-round"></div>
+              <span>Park Tower</span>
+            </a>
+          </div>
+          <div class="archive">
+            <a href="http://richmondplazatulsa.com" target="_blank">
+              <div id="richmond-plaza" class="div-round"></div>
+              <span>Richmond Plaza</span>
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Modal -->
+      <div id="modal-gallery" class="modal fade" role="dialog">
+        <div class="modal-dialog">
+          <!-- Modal content-->
+          <div class="modal-content">
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal">&times;</button>
+              <h4 class="modal-title">Plaza Del Sol</h4>
+            </div>
+            <div class="modal-body">
+              <div>
+                <img src="http://admin.caseusacommercial.com/Images/plaza_del_sol1.jpg">
+                <img src="http://admin.caseusacommercial.com/Images/plaza_del_sol2.jpg">
+                <img src="http://admin.caseusacommercial.com/Images/plaza_del_sol3.jpg">
+                <img src="http://admin.caseusacommercial.com/Images/plaza_del_sol4.jpg">
+                <img src="http://admin.caseusacommercial.com/Images/plaza_del_sol5.jpg">
+                <img src="http://admin.caseusacommercial.com/Images/plaza_del_sol6.jpg">
+              </div>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-default" data-dismiss="modal" data-toggle="modal" data-target="#modal-tour">Request Tour</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Modal -->
+      <div id="modal-tour" class="modal fade" role="dialog">
+        <div class="modal-dialog">
+          <!-- Modal content-->
+          <div class="modal-content">
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal">&times;</button>
+              <h4 class="modal-title">Request Tour of Plaza Del Sol</h4>
+            </div>
+            <div class="modal-body" style="text-align:center;">
+              <span id="refresh-icon" class="glyphicon glyphicon-refresh"></span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div> <!-- End Bootstrap Container /-->
+  </body>
+</html>

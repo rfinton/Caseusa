@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="cache-control" content="no-cache">
+    <title>Case and Associates</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="http://s3.amazonaws.com/caseusa/node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-111744299-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-111744299-1');
+    </script>
+    <script>
+      var disable = function() {
+        document.querySelector('button').disabled = true;
+        document.forms[0].submit();
+      };
+    </script>
+  </head>
+
+  <body>
+    <div class="container-fluid">
+      <form method="post" role="form">
+        <div class="form-group">
+          <label for="fn">First name:</label>
+          <input type="text" value="##firstname##" name="firstname" class="form-control" id="fn">
+        </div>
+  
+        <div class="form-group">
+          <label for="ln">First name:</label>
+          <input type="text" value="##lastname##" name="lastname" class="form-control" id="ln">
+        </div>
+  
+        <div class="form-group">
+          <label for="ph">Phone:</label>
+          <input type="text" value="##phone##" name="phone" class="form-control" id="ph">
+        </div>
+  
+        <div class="form-group">
+          <label for="msg">Message:</label>
+          <input type="text" name="message" class="form-control" id="msg">
+        </div>
+  
+        <div>
+          <button type="submit" class="btn btn-default" onclick="disable();">submit</button>
+        </div>
+
+        <input type="text" style="display:none;" id="req-prop" name="property_requested" value="">
+      </form>
+    </div>
+  </body>
+</html>

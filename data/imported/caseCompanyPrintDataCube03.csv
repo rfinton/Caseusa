@@ -1,0 +1,114 @@
+Prefix,FirstName,MiddleName,LastName,fullname,seniority,Suffix,nickname,credentials,Email,second_email,PURL,Title,IsSeed,Address1,Address2,City,State,Zip,ZipPlus4,Company,company_variable,area,base_rent,Fax,lease_from,lease_to,Mobile,number_,Phone,phone1,phone2,property,total_area,unit,Website,category
+,Tim,,Grice,Tim Grice,,,,,,,TimGrice,Manager,FALSE,6660 S Sheridan Rd,Suite# 160,Tulsa,OK,74133,,Advanced Systems Group,Advanced Systems Group,,,,,,,,,,,,,,,office prospect
+,Cody,,Reese,Cody Reese,,,,,,,CodyReese,Manager,FALSE,5800 E Skelly Dr,Suite# 174,Tulsa,OK,74135,,Allied Barton Security Svc,Allied Barton Security Service,,,,,,,,,,,,,,,office prospect
+Ms,Pascaline,,Nwokoma,Pascaline Nwokoma,,,,,,,PascalineNwokoma,Manager,FALSE,12515 E 55th Ave,Suite# 101-105,Tulsa,OK,74146,,"Amerita, Inc.",Amerita,,,,,,,,,,,,,,,office prospect
+,Lynn,,Anderson,Lynn Anderson,,,,,,,LynnAnderson,Manager,FALSE,320 S Boston Ave,Suite# 825,Tulsa,OK,74103,,Anderson & Associates Law Firm PLLC,Anderson & Associates Law Firm,,,,,,,,,,,,,,,office prospect
+Atty,Timothy,,Best,Timothy Best,,,,,,,TimothyBest,PARTNER/SHAREHOLDER,FALSE,1 W 3rd St,Suite# 900,Tulsa,OK,74103,,Best & Sharp,Best & Sharp,,,(918) 582-1234,,,,,(918) 732-0105,,,,,,,office prospect
+Mr.,Calvin,,Cahill,Calvin Cahill,,,,,,,CalvinCahill,,FALSE,6120 S Yale Ave,Suite# 1480,Tulsa,OK,74136,,Calyx Energy LLC,Calyx Energy,,,,,,,,,,,,,,,office prospect
+Mr.,Jim,,Stephenson,Jim Stephenson,,,,,,,JimStephenson,Chief Financial Officer and General Counsel,FALSE,6120 S Yale Ave,Suite# 1480,Tulsa,OK,74136,,Calyx Energy LLC,Calyx Energy,,,,,,,,,,,,,,,office prospect
+Mr,Jamie,,McCoy,Jamie McCoy,,,,,,,JamieMcCoy,Vice President and Chief Financial Officer,FALSE,2431 E 61st St,Suite# 400,Tulsa,OK,74136,,Canyon Creek Energy,Canyon Creek Energy,,,,,,,,,,,,,,,office prospect
+Mr,Luke,,Essman,R. Luke Essman,,,,,,,RLukeEssman,"Founder, President & Chief Executive Officer",FALSE,2431 E 61st St,Suite# 400,Tulsa,OK,74136,,Canyon Creek Energy,Canyon Creek Energy,,,,,,,,,,,,,,,office prospect
+,Clayton,,Farmer,Clayton Farmer,,,,,,,ClaytonFarmer,President,FALSE,10810 E 45th St,Suite# A300,Tulsa,OK,74146,,Carrefour Assoc LLC,Carrefour Assoc,,,,,,,,,,,,,,,office prospect
+,Robert,,Johnson,Robert Johnson,,,,,,,RobertJohnson,Partner and Vice President of Information Systems,FALSE,4500 S 129th East Ave,Suite# 140,Tulsa,OK,74134,,Cerasis Inc,Cerasis,,,,,,,,(918) 610-0850,,,,,,,office prospect
+,Amanada,,Gamble,Amanada Gamble,,,,,,,AmanadaGamble,Manager,FALSE,2408-2488 E 81st Street St S,Suite# F,Tulsa,OK,74137,,CFS II,CFS II,,,,,,,,,,,,,,,office prospect
+Mr.,Blake,D,Herndon,Blake D Herndon,,,,,,,BlakeDHerndon,Chief Financial Officer,FALSE,6120 S Yale Ave,Suite# 1200,Tulsa,OK,74136,,Council Oak Resources,Council Oak Resources,,,,,,,,,,,,,,,office prospect
+Mr.,Rick,,Fritz,Rick Fritz,,,,,,,RickFritz,Chief Executive Officer,FALSE,6120 S Yale Ave,Suite# 1200,Tulsa,OK,74136,,Council Oak Resources,Council Oak Resources,,,,,,,,(918) 513-0900,,,,,,,office prospect
+,Les,,Austin,G Les Austin,,,,,,,GLesAustin,Chief Financial Officer,FALSE,5727 S Lewis Ave,Suite# 300,Tulsa,OK,74105,,"Cypress Energy Partners, L.P.",Cypress Energy Partners,,,,,,,,,,,,,,,office prospect
+,Peter,C,Boylan,Peter C Boylan,III,,,,,,PeterCBoylan,Chief Executive Officer,FALSE,5727 S Lewis Ave,Suite# 300,Tulsa,OK,74105,,"Cypress Energy Partners, L.P.",Cypress Energy Partners,,,,,,,,,,,,,,,office prospect
+,Kristy,,Inman,Kristy Inman,,,,,,,KristyInman,,FALSE,5800 E Skelly Dr,Suite# 800,Tulsa,OK,74135,,Day & Zimmermann,Day & Zimmermann,,,,,,,,,,,,,,,office prospect
+,Hal,,Yoh,Hal Yoh,,,,,,,HalYoh,Manager,FALSE,5800 E Skelly Dr,Suite# 800,Tulsa,OK,74135,,Day & Zimmermann,Day & Zimmermann,,,,,,,,(918) 743-0430,,,,,,,office prospect
+,Ted,,Andress Jr,Ted Andress Jr,,,,,,,TedAndressJr,Owner,FALSE,5800 E Skelly Dr,Suite# 825,Tulsa,OK,74135,,Digital Daze,Digital Daze,,,,,,,,,,,,,,,office prospect
+,Renee,,Dixon,Renee Dixon,,,,,,,ReneeDixon,Regional Director,FALSE,4870 S Lewis Ave,Suite# 212,Tulsa,OK,74105,,Dixon Real Estate Company,Dixon Real Estate Company,,,(918) 748-0312,,,,,(918) 748-0308,,,,,,,office prospect
+,Stephen,W,Dixon,Stephen W Dixon,,,,,,,StephenWDixon,President,FALSE,4870 S Lewis Ave,Suite# 212,Tulsa,OK,74105,,Dixon Real Estate Company,Dixon Real Estate Company,,,,,,,,(918) 748-0309,,,,,,,office prospect
+Mr,Marty,,Gooding,Marty Gooding,,,,,,,MartyGooding,Office Manager,FALSE,2 W 2nd St,Suite# 700,Tulsa,OK,74103,,"Doerner, Saunders, Daniel & Anderson, L.L.P.","Doerner, Saunders, Daniel & Anderson",,,,,,,,,,,,,,,office prospect
+Mr,Tom,Q,Ferguson,Tom Q Ferguson,,,,,,,TomQFerguson,Managing Partner,FALSE,2 W 2nd St,Suite# 700,Tulsa,OK,74103,,"Doerner, Saunders, Daniel & Anderson, L.L.P.","Doerner, Saunders, Daniel & Anderson",,,(918) 925-5308,,,,,(918) 591-5308,,,,,,,office prospect
+,Elizabeth,,Green,Elizabeth Green,,,,,,,ElizabethGreen,President,FALSE,2021 S Lewis Ave,Suite# 760,Tulsa,OK,74104,,Educational Concepts,Educational Concepts,,,,,,,,,,,,,,,office prospect
+,Glenn,,Elliott,Glenn Elliott,,,,,,,GlennElliott,Owner,FALSE,5800 E Skelly Dr,Suite# 900,Tulsa,OK,74135,,Elliott Dozier & Helland PC,Elliott Dozier & Helland,,,,,,,,,,,,,,,office prospect
+,Rebecca,,Dozier,Rebecca Dozier,,,,,,,RebeccaDozier,Partner,FALSE,5800 E Skelly Dr,Suite# 900,Tulsa,OK,74135,,Elliott Dozier & Helland PC,Elliott Dozier & Helland,,,,,,,,,,,,,,,office prospect
+Mr.,Daniel,L,Van Wormer,Dan L Van Wormer,,,,,,,DanLVanWormer,CFO,FALSE,6120 S Yale Ave,Suite# 1300,Tulsa,OK,74136,,eLynx,eLynx,,,,,,,,,,,,,,,office prospect
+Mr.,Stephen,,Jackson,Stephen,,,,,,,Stephen,President/CEO,FALSE,6120 S Yale Ave,Suite# 1300,Tulsa,OK,74136,,eLynx,eLynx,,,,,,,,(877) 643-5969,,,,,,,office prospect
+,Jason,,Kraiss,Jason Kraiss,,,,,,,JasonKraiss,,FALSE,6120 S Yale Ave,Suite# Ste 1300,Tulsa,OK,74136,,eLynx Technologies,eLynx Technologies,,,,,,,,,,,,,,,office prospect
+,Michael,,Boukadakis,Michael Boukadakis,,,,,,,MichaelBoukadakis,Chief Executive Officer,FALSE,5800 E Skelly Dr,Suite# 1300,Tulsa,OK,74135,,Enacomm Inc,Enacomm,,,,,,,,,,,,,,,office prospect
+Mr.,Terry,,Biehl,Terry Biehl,,,,,,,TerryBiehl,Chief Financial Officer,FALSE,6120 S Yale Ave,"Suite# 1100, 1000",Tulsa,OK,74136,,Explorer Pipeline,Explorer Pipeline,,,,,,,,(918) 493-5100,,,,,,,office prospect
+Mr.,Tom,,Jensen,Tom Jensen,,,,,,,TomJensen,President & Chief Executive Officer,FALSE,6120 S Yale Ave,"Suite# 1100, 1000",Tulsa,OK,74136,,Explorer Pipeline,Explorer Pipeline,,,,,,,,,,,,,,,office prospect
+,Kathy,,Bachmann,Kathy Bachmann,,,,,,,KathyBachmann,Manager,FALSE,6717 S Yale Ave,Suite# 202,Tulsa,OK,74136,,Family Therapy & Renewal Center,Family Therapy & Renewal Center,,,,,,,,,,,,,,,office prospect
+Mr,John,R,Woodars,John R Woodars,III,,,,,,JohnRWoodars,Partner,FALSE,2 W 2nd St,Suite# 900,Tulsa,OK,74103,,"Feldman, Franden, Woodard & Farris","Feldman, Franden, Woodard & Farris",,,,,,,,,,,,,,,office prospect
+Mr,Joseph,R,Farris,Joseph R Farris,,,,,,,JosephRFarris,Partner,FALSE,2 W 2nd St,Suite# 900,Tulsa,OK,74103,,"Feldman, Franden, Woodard & Farris","Feldman, Franden, Woodard & Farris",,,,,,,,,,,,,,,office prospect
+Mr,Raymond,G,Feldman,Raymond G Feldman,,,,,,,RaymondGFeldman,Founding Member | Of Counsel,FALSE,2 W 2nd St,Suite# 900,Tulsa,OK,74103,,"Feldman, Franden, Woodard & Farris","Feldman, Franden, Woodard & Farris",,,,,,,,,,,,,,,office prospect
+Mr,Robert,A,Franden,Robert A Franden,,,,,,,RobertAFranden,Partner,FALSE,2 W 2nd St,Suite# 900,Tulsa,OK,74103,,"Feldman, Franden, Woodard & Farris","Feldman, Franden, Woodard & Farris",,,,,,,,,,,,,,,office prospect
+Ms,Thayla Painter,,Bohn,Thayla Painter Bohn,,,,,,,ThaylaPainterBohn,Partner,FALSE,2 W 2nd St,Suite# 900,Tulsa,OK,74103,,"Feldman, Franden, Woodard & Farris","Feldman, Franden, Woodard & Farris",,,,,,,,,,,,,,,office prospect
+,Drew,,Rickets,Drew Rickets,,,,,,,DrewRickets,President,FALSE,5800 E Skelly Dr,Suite# 605,Tulsa,OK,74135,,Fennell & Associates,Fennell & Associates,,,,,,,,,,,,,,,office prospect
+,Bill,,Farr,Bill Farr,,,,,,,BillFarr,Owner,FALSE,3158 S 108th East Ave,Suite# 274,Tulsa,OK,74146,,First Maintenance Co,First Maintenance Company,,,,,,,,,,,,,,,office prospect
+,Hope,,Catron,Hope Catron,,,,,,,HopeCatron,Office Manager,FALSE,15 E 5th St,,Tulsa,OK,74103,,"Foundation Energy Management, LLC",Foundation Energy Management,,,,,,,,,,,,,,,office prospect
+,Revel,,Castillo-Simon,Revel Castillo-Simon,,,,,,,RevelCastillo-Simon,Director,FALSE,5314 S Yale Ave,Suite# 500,Tulsa,OK,74135,,Gentiva Home Health,Gentiva Home Health,,,,,,,,(918) 488-6153,,,,,,,office prospect
+,David,,Fontaine,David Fontaine,,,,,,,DavidFontaine,Chief Executive Officer,FALSE,14002 E 21st St,Suite# 1200,Tulsa,OK,74134,,"HireRight, Inc.",HireRight,,,,,,,,,,,,,,,office prospect
+,Janette,,Miller,Janette Miller,,,,,,,JanetteMiller,,FALSE,14002 E 21st St,Suite# 1200,Tulsa,OK,74134,,"HireRight, Inc.",HireRight,,,,,,,,,,,,,,,office prospect
+,Roxanne,,Lawrence,Roxanne Lawrence,,,,,,,RoxanneLawrence,Assistant to the Managing Director,FALSE,14002 E 21st St,Suite# 1200,Tulsa,OK,74134,,"HireRight, Inc.",HireRight,,,,,,,,,,,,,,,office prospect
+,Theirl,,Jarman,Theirl Jarman,,,,,,,TheirlJarman,Chief Executive Officer,FALSE,6202 S Lewis Ave,Suite# P,Tulsa,OK,74136,,Independent Opportunities Inc,Independent Opportunities,,,,,,,,,,,,,,,office prospect
+Ms,Kathleen,,Butler,Kathleen Butler,,,,,,,KathleenButler,Transportation Secretary,FALSE,1 W 3rd St,Suite# 800,Tulsa,OK,74103,,Indian Nations Council of Governments LLC,Indian Nations Council of Governments,,,,,,,,(918) 579-9468,,,,,,,office prospect
+Mr,Rich,,Brierre,Rich Brierre,,,,,,,RichBrierre,Executive Director,FALSE,2 W 2nd St,Suite# 800,Tulsa,OK,74103,,Indian Nations Council of Governments LLC,Indian Nations Council of Governments,,,,,,,,,,,,,,,office prospect
+Ms,Troy,,Wilborn,Troy Wilborn,,,,,,,TroyWilborn,Manager,FALSE,2 W 2nd St,Suite# 800,Tulsa,OK,74103,,Indian Nations Council of Governments LLC,Indian Nations Council of Governments,,,,,,,,,,,,,,,office prospect
+,Joe,,Borders,Joe Borders,,,,,,,JoeBorders,Owner,FALSE,7633 E 63rd Pl,Suite# 520,Tulsa,OK,74133,,Intermark Inc,Intermark,,,,,,,,,,,,,,,office prospect
+,Peter,,Delesdernier,Peter Delesdernier,,,,,,,PeterDelesdernier,Station Operations Manager,FALSE,5800 E Skelly Dr,Suite# 101,Tulsa,OK,74135,,ION Media,ION Media,,,,,,,,,,,,,,,office prospect
+,Jim,,Fiegel,Jim Fiegel,,,,,,,JimFiegel,Owner,FALSE,5800 E Skelly Dr,Suite# 575,Tulsa,OK,74135,,James Feigel CPA,James Feigel CPA,,,,,,,,(918) 492-0092,,,,,,,office prospect
+,Shelby,,Sherrill,Shelby Sherrill,,,,,,,ShelbySherrill,Executive Assistant to the CEO,FALSE,321 S Boston Ave,Suite# 301,Tulsa,OK,74103,,Jericho Oil Corporation,Jericho Oil Corporation,,,,,,,,(918) 986-7628,,,,,,,office prospect
+,Stacy,,Klass,Stacy Klass,,,,,,,StacyKlass,,FALSE,6804 S Canton Ave,Suite# 100,Tulsa,OK,74136,,Job News,Job News,,,,,,,,,,,,,,,office prospect
+Ms,Elaine,,Agather,Elaine Agather,,,,,,,ElaineAgather,"Managing Director, Region Head",FALSE,110 W 7th St S,,Tulsa,OK,74119,,JPMorgan Chase & Co.,JPMorgan Chase & Company,,,,,,,,(918) 586-5380,,,,,,,office prospect
+Mr,Richard,S,Lofgren,Richard S Lofgren,,,,,,,RichardSLofgren,Managing Director,FALSE,110 W 7th St S,,Tulsa,OK,74119,,JPMorgan Chase & Co.,JPMorgan Chase & Company,,,,,,,,(918) 586-5380,,,,,,,office prospect
+,Katie,,Sallee,Katie Sallee,,,,,,,KatieSallee,Vice President,FALSE,5800 E Skelly Dr,Suite# 300,Tulsa,OK,74135,,Ksw Environmental LLC,Ksw Environmental,,,,,,,,,,,,,,,office prospect
+,Steve,,Lamb,Steve Lamb,,,,,,,SteveLamb,Owner,FALSE,1325-1341 E 15th St,Suite# 200,Tulsa,OK,74120,,Lamco Resources,Lamco Resources,,,,,,,,,,,,,,,office prospect
+,Mark,,Cocharn,Mark Cocharn,,,,,,,MarkCocharn,CFO,FALSE,4500 S 129th East Ave,Suite# 150,Tulsa,OK,74134,,Latshaw Drilling & Exploration,Latshaw Drilling & Exploration,,,,,,,,,,,,,,,office prospect
+Mr,Trent,,Latshaw,Trent Latshaw,,,,,,,TrentLatshaw,President,FALSE,4500 S 129th East Ave,Suite# 150,Tulsa,OK,74134,,Latshaw Drilling & Exploration,Latshaw Drilling & Exploration,,,,,,,,(918) 355-4380,,,,,,,office prospect
+Mr,Morgan,,Duke,Morgan Duke,,,,,,,MorganDuke,Lease Manager,FALSE,6100 S Yale Ave,"Suite# 1600, 1620",Tulsa,OK,74136,,"Linde Process Plants, Inc.",Linde Process Plants,,,,,,,,,,,,,,,office prospect
+Mr,Steve,,Dertone,Steve Dertone,,,,,,,SteveDertone,President,FALSE,6100 S Yale Ave,"Suite# 1600, 1620",Tulsa,OK,74136,,"Linde Process Plants, Inc.",Linde Process Plants,,,,,,,,,,,,,,,office prospect
+,Wendy,,Buxton,Wendy Buxton,,,,,,,WendyBuxton,President,FALSE,2408-2488 E 81st Street St S,Suite# 2600,Tulsa,OK,74137,,Lynnco Supply Chain Soutions,Lynnco Supply Chain Soutions,,,,,,,,,,,,,,,office prospect
+Mr.,Bob,,Soza,Bob Soza,,,,,,,BobSoza,Managing Partner,FALSE,4200 E Skelly Dr,Suite# 960,Tulsa,OK,74135,,Mariner Consulting,Mariner Consulting,,,,,,,,(918) 388-1651,,,,,,,office prospect
+Mr.,Stephen,,Creed,Stephen Creed,,,,,,,StephenCreed,Partner,FALSE,4200 E Skelly Dr,Suite# 960,Tulsa,OK,74135,,Mariner Consulting,Mariner Consulting,,,,,,,,,,,,,,,office prospect
+,Bruce,,McKenna,Bruce McKenna,,,,,,,BruceMcKenna,Partner,FALSE,5801 E 41st St,Suite# 501,Tulsa,OK,74135,,McKenna & Prescott PLLC,McKenna & Prescott,,,,,,,,,,,,,,,office prospect
+,Steve,,Powell,Steve Powell,,,,,,,StevePowell,Manager,FALSE,3840 S 103rd East Ave,Suite# 227,Tulsa,OK,74146,,Mehlburger Brawley,Mehlburger Brawley,,,,,,,,,,,,,,,office prospect
+Mr,Frederic,F,Brace,Frederic F Brace,,,,,,,FredericFBrace,Chief Executive Officer,FALSE,321 S Boston Ave,Suite# 1000,Tulsa,OK,74103,,"Midstates Petroleum Company, Inc.",Midstates Petroleum Company,,,,,,,,(918) 947-8550,,,,,,,office prospect
+,Kim,,Harding,Kim Harding,,,,,,,KimHarding,Vice President,FALSE,321 S Boston Ave,Suite# 1000,Tulsa,OK,74103,,"Midstates Petroleum Company, Inc.",Midstates Petroleum Company,,,,,,,,(918) 947-8550,,,,,,,office prospect
+Mr,Nelson,,Haight,Nelson Haight,,,,,,,NelsonHaight,Chief Financial Officer,FALSE,321 S Boston Ave,Suite# 1000,Tulsa,OK,74103,,"Midstates Petroleum Company, Inc.",Midstates Petroleum Company,,,,,,,,,,,,,,,office prospect
+Mr,Greg,,Patovisti,Greg Patovisti,,,,,,,GregPatovisti,Principal/Electrical,FALSE,110 W 7th St S,Suite# 600,Tulsa,OK,74119,,MPW Engineering LLC,MPW Engineering,,,,,,,,,,,,,,,office prospect
+Mr,Scott,,Webb,Scott Webb,,,,,,,ScottWebb,Principal/Mechanical,FALSE,110 W 7th St S,Suite# 600,Tulsa,OK,74119,,MPW Engineering LLC,MPW Engineering,,,,,,,,,,,,,,,office prospect
+Ms,Alison,,Loher,Alison Loher,,,,,,,AlisonLoher,Office Manager,FALSE,6802 S Olympia Ave,Suite# G100,Tulsa,OK,74132,,Oklahoma CyberKnife,Oklahoma CyberKnife,,,,,,,,,,,,,,,office prospect
+Dr,Christopher,,Covington,Christopher Covington,,,,,,,ChristopherCovington,Surgeon,FALSE,6802 S Olympia Ave,Suite# G100,Tulsa,OK,74132,,Oklahoma CyberKnife,Oklahoma CyberKnife,,,,,,,,,,,,,,,office prospect
+Dr,Daniel,J,Boedeker,Daniel J Boedeker,,,,,,,DanielJBoedeker,Surgeon,FALSE,6802 S Olympia Ave,Suite# G100,Tulsa,OK,74132,,Oklahoma CyberKnife,Oklahoma CyberKnife,,,,,,,,,,,,,,,office prospect
+Dr,David,A,Fell,David A Fell,,,,,,,DavidAFell,Surgeon,FALSE,6802 S Olympia Ave,Suite# G100,Tulsa,OK,74132,,Oklahoma CyberKnife,Oklahoma CyberKnife,,,,,,,,,,,,,,,office prospect
+Dr,Diane,,Heaton,Diane Heaton,,,,,,,DianeHeaton,Medical Director,FALSE,6802 S Olympia Ave,Suite# G100,Tulsa,OK,74132,,Oklahoma CyberKnife,Oklahoma CyberKnife,,,,,,,,,,,,,,,office prospect
+,Dave,,Koneke,Dave Koneke,,,,,,,DaveKoneke,Owner,FALSE,9810 E 42nd St,Suite# 205,Tulsa,OK,74146,,Oklahoma Safety Council,Oklahoma Safety Council,,,,,,,,(405) 848-8626,,,,,,,office prospect
+,Pratica,,Leggett,Pratica Leggett,,,,,,,PraticaLeggett,Dean of AGS,FALSE,10810 E 45th St,Suite# 100,Tulsa,OK,74146,,Oklahoma Wesleyan University,Oklahoma Wesleyan University,,,,,,,,(981) 576-3909,,,,,,,office prospect
+,Jeni,,Dolan,Jeni Dolan,,,,,,,JeniDolan,Executive Director,FALSE,5800 E Skelly Dr,Suite# 707,Tulsa,OK,74135,,Operation Aware,Operation Aware,,,,,,,,,,,,,,,office prospect
+,Linda,,Palkowski,Linda Palkowski,,,,,,,LindaPalkowski,Owner,FALSE,8005-8011 S Sheridan Rd,Suite# D,Tulsa,OK,74133,,Personal Expressions Logowear,Personal Expressions Logowear,,,,,,,,,,,,,,,office prospect
+Ms,Daisy,,Hill,Daisy Hill,,,,,,,DaisyHill,Office Manager,FALSE,2250 E 73rd St,Suite# 302,Tulsa,OK,74136,,Pinnacle Management,Pinnacle Management,,,,,,,,,,,,,,,office prospect
+,Stacy,,Hill,Stacy Hill,,,,,,,StacyHill,office manager,FALSE,2250 E 73rd St,Suite# 302,Tulsa,OK,74136,,Pinnacle Management,Pinnacle Management,,,,,,,,(918) 743-7935,,,,,,,office prospect
+Mr.,David,,Huey,David Huey,,,,,,,DavidHuey,Prncipal,FALSE,1350 S Boulder Ave,Suite# Ste 600,Tulsa,OK,74119,,Psa-Dewberry Inc.,PSA-Dewberry,,,,,,,,,,,,,,,office prospect
+Dr.,Hazem,,Sokkar,Hazem Sokkar,,,,,,,HazemSokkar,Principal,FALSE,4823-4845 S Sheridan Rd,Suite# 408,Tulsa,OK,74145,,Psychiatry Of Tulsa,Psychiatry Of Tulsa,,,,,,,,(918) 627-8858,,,,,,,office prospect
+,Jeffrey D,,Thetge,Jeffrey D Thetge,,,,,,,JeffreyDThetge,President,FALSE,4500 S Garnett Rd,Suite# 700,Tulsa,OK,74146,,"QPS Engineering, LLC",QPS Engineering,,,,,,,,,,,,,,,office prospect
+,Mark,,Rowe,Mark Rowe,,,,,,,MarkRowe,Owner,FALSE,9920 E 42nd St,Suite# 201,Tulsa,OK,74146,,Rivercross Hospice,Rivercross Hospice,,,,,,,,(918) 622-9281,,,,,,,office prospect
+,Kevin,,Thompson,Kevin Thompson,,,,,,,KevinThompson,Owner,FALSE,5800 E Skelly Dr,Suite# 170,Tulsa,OK,74135,,Salon Divago,Salon Divago,,,,,,,,,,,,,,,office prospect
+,Terry,,Devore,Terry Devore,,,,,,,TerryDevore,Manager,FALSE,7633 E 63rd Pl,Suite# 450,Tulsa,OK,74133,,"Securian Advisors MidAmerica, Inc.",Securian Advisors MidAmerica,,,,,,,,,,,,,,,office prospect
+,Carlin,G,Conner,Carlin G Conner,,,,,,,CarlinGConner,"President, Chief Executive Officer and Director",FALSE,6120 S Yale Ave,Suite# 700,Tulsa,OK,74136,,SemGroup Corporation,SemGroup Corporation,,,,,,,,(918) 524-8100,,,,,,,office prospect
+,Robert,N,Fitzgerald,Robert N Fitzgerald,,,,,,,RobertNFitzgerald,SVP & Chief Financial Officer,FALSE,6120 S Yale Ave,Suite# 700,Tulsa,OK,74136,,SemGroup Corporation,SemGroup Corporation,,,,,,,,,,,,,,,office prospect
+,Christina,,Michael,Christina Michael,,,,,,,ChristinaMichael,Owner,FALSE,201 W Houston St,Suite# 201,Broken Arrow,OK,74012,,Ships Ahoy Child Care,Ships Ahoy Child Care,,,,,,,,,,,,,,,office prospect
+,Jon,,Matthews,Jon Matthews,,,,,,,JonMatthews,Fire Protection Engineering Manager,FALSE,5800 E Skelly Dr,Suite# 920,Tulsa,OK,74135,,Specified Technologies,Specified Technologies,,,,,,,,,,,,,,,office prospect
+,An,,Doung,An Doung,,,,,,,AnDoung,Owner,FALSE,2036 E 81st St,Suite# Ste 109,Tulsa,OK,74137,,Spirit Nail & Spa,Spirit Nail & Spa,,,,,,,,,,,,,,,office prospect
+,Jean,,Thornbrugh,Jean Thornbrugh,,,,,,,JeanThornbrugh,Executive Director,FALSE,5801 E 41st St,Suite# 900,Tulsa,OK,74135,,St Gregory's University,St Gregory's University,,,,,,,,,,,,,,,office prospect
+Mr,Eugene,,Debay,Eugene Debay,,,,,,,EugeneDebay,President/CEO,FALSE,110 W 7th St S,Suite# 2300,Tulsa,OK,74119,,"Targa Pipeline Mid-Continent Holdings, LLC",Targa Pipeline Mid-Continent Holdings,,,,,,,,,,,,,,,office prospect
+,Bobby,,Cook,Bobby Cook,,,,,,,BobbyCook,President,FALSE,5800 E Skelly Dr,Suite# 715,Tulsa,OK,74135,,The C3 Group Inc,The C3 Group,,,,,,,,,,,,,,,office prospect
+Ms,Amanda,,Jones,Amanda Jones,,,,,,,AmandaJones,Partner,FALSE,5100-5132 E Skelly Dr,Suite# 405,Tulsa,OK,74135,,THE RESOURCE GROUP,THE RESOURCE GROUP,,,,,,,,,,,,,,,office prospect
+Ms,Elizabeth,,Powell,Elizabeth Powell,,,,,,,ElizabethPowell,Partner,FALSE,5100-5132 E Skelly Dr,Suite# 405,Tulsa,OK,74135,,THE RESOURCE GROUP,THE RESOURCE GROUP,,,,,,,,,,,,,,,office prospect
+Mr.,Alan,S,Armstrong,Alan S Armstrong,,,,,,,AlanSArmstrong,"President, Chief Executive Officer and Director",FALSE,1 Williams Center,,Tulsa,OK,74172,,"The Williams Companies, Inc.",The Williams Companies,,,,,,,,(918) 573-2000,,,,,,,office prospect
+Mr.,Donald,R,Chappel,Donald R Chappel,,,,,,,DonaldRChappel,Senior Vice President and Chief Financial Officer,FALSE,1 Williams Center,,Tulsa,OK,74172,,"The Williams Companies, Inc.",The Williams Companies,,,,,,,,(918) 573-2000,,,,,,,office prospect
+,Johnathan,,Burris,Johnathan Burris,,,,,,,JohnathanBurris,Executive Vice President of Sales,FALSE,1422 E 71st St,Suite# J,Tulsa,OK,74136,,Tiger Natural Gas Inc,Tiger Natural Gas,,,,,,,,,,,,,,,office prospect
+,Lori,,Nalley,Lori Nalley,,,,,,,LoriNalley,President,FALSE,1422 E 71st St,Suite# J,Tulsa,OK,74136,,Tiger Natural Gas Inc,Tiger Natural Gas,,,,,,,,(918) 491-6998,,,,,,,office prospect
+,Rick,,Tessmer,Rick Tessmer,,,,,,,RickTessmer,"Director, Northeast Operations",FALSE,1422 E 71st St,Suite# J,Tulsa,OK,74136,,Tiger Natural Gas Inc,Tiger Natural Gas,,,,,,,,,,,,,,,office prospect
+Mr,Scott,,Dickman,J. Scott Dickman,,,,,,,JScottDickman,Partner,FALSE,15 E 5th St,Suite# 3700,Tulsa,OK,74103,,Titus Hillis Reynolds Love,Titus Hillis Reynolds Love,,,,,,,,,,,,,,,office prospect
+,Tom,,Hillis,R. Tom Hillis,,,,,,,RTomHillis,Shareholder,FALSE,15 E 5th St,Suite# 3700,Tulsa,OK,74103,,Titus Hillis Reynolds Love,Titus Hillis Reynolds Love,,,,,,,,,,,,,,,office prospect
+,Josh,,Brazil,Josh Brazil,,,,,,,JoshBrazil,Owner,FALSE,1515 E 71st St,Suite# 100,Tulsa,OK,74136,,Transitions Lifecare LLC,Transitions Lifecare,,,,,,,,(918) 551-6879,,,,,,,office prospect
+,Jeff,,Harris,Jeff Harris,,,,,,,JeffHarris,Chief Executive Officer,FALSE,1350 S Boulder Ave,Suite# 1100,Tulsa,OK,74119,,True Digital Security Inc,True Digital Security,,,,,,,,(918) 770-7700,,,,,,,office prospect
+,Kat,,Ray,Kat Ray,,,,,,,KatRay,,FALSE,1350 S Boulder Ave,Suite# 1100,Tulsa,OK,74119,,True Digital Security Inc,True Digital Security,,,,,,,,(918) 770-7700,,,,,,,office prospect
+,Mike,,Gorrell,Mike Gorrell,,,,,,,MikeGorrell,Owner,FALSE,2408-2488 E 81st Street St S,Suite# Ste 2800,Tulsa,OK,74137,,Tulsa Datacenter,Tulsa Datacenter,,,,,,,,,,,,,,,office prospect
+Mr,Jon,,Cecrle,Jon Cecrle,,,,,,,JonCecrle,Office Administrator,FALSE,2250 E 73rd St,Suite# 350,Tulsa,OK,74136,,Worldwide Pentecostal Fellowship,Worldwide Pentecostal Fellowship,,,,,,,,(918) 622-4200,,,,,,,office prospect
+Mr,Mikhael,,Berrier,Mikhael Berrier,,,,,,,MikhaelBerrier,Executive Administrator,FALSE,2250 E 73rd St,Suite# 350,Tulsa,OK,74136,,Worldwide Pentecostal Fellowship,Worldwide Pentecostal Fellowship,,,,,,,,(918) 622-4200,,,,,,,office prospect
+,Shanna,,Vollmer,Shanna Vollmer,,,,,shanna@7bridgesmarketing.com,,ShannaVollmer,,TRUE,1878 E 15th St,,Tulsa,OK,74104,,7 Bridges Marketing,7 Bridges Marketing,,,,,,,,999-999-9999,,,,,,,office prospect

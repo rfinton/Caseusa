@@ -1,0 +1,464 @@
+firstName,middleName,nickName,lastName,Purl,Address,city,State,Zip,email,category,credentials,title,company,Phone,Ext,Phone1,Phone2,website
+Edward,,,Sherman,EdwardSherman,9110 S. Sheridan Rd.,Tulsa,OK,74133,esherman@cctulsa.com,Current Brokers,,,C&C Commercial a division of Chinowth & Cohen REALTORS,918-392-0900,,918-392-0989,918-706-5504,
+Susan,,,Davis,SusanDavis,5810 E Skelly Dr 14th Floor,Tulsa,OK,74135,sdavis@nairupehelmer.com,Current Brokers,,,NAI Rupe Helmer,918-745-1133,,918-745-1120,918-924-6199,
+Braxton,,,Fears,BraxtonFears,"201 W. 5th, Suite 300",Tulsa,OK,74103,braxton@fearsclark.com,Current Brokers,Broker,,Fears & Clark Realty Group LLC,918-481-2080,,918-728-7320,918-269-9706,
+Ronald,,,Looney,RonaldLooney,5841 S. Garnett Rd.,Tulsa,OK,74146,ronslooney@sbcglobal.net,Current Brokers,,,Looney & Associate Realtors,918-610-7210,,918-610-7212,918-519-6156,
+Barbara,,,Mefford,BarbaraMefford,1401 S. Boulder Ave. #100,Tulsa,OK,74119,barbara.mefford@cbre.com,Current Brokers,CCIM,,"CBRE, Inc",918-392-7240,,918-663-6402,918-230-6397,www.cbre.com
+Tim,,,James,TimJames,,,,,tim.james@cox.net,Current Brokers,,,,,,,,
+Roger,L.,,Acebo,RogerAcebo,"175 E. 2nd., Suite 565",Tulsa,OK,74103,racebo@cityoftulsa.org,Current Brokers,,,City of Tulsa,918-576-6550,,918-596-2608,,
+Grant,,,Adams,GrantAdams,PO Box 2407,Broken Arrow,OK,74013,gadams@valornet.com,Current Brokers,,,"Adams & Associates, LLC",918-495-3661,,918-355-4371,918-269-5741,
+Stephen,S.,,Adams,StephenAdams,2626 E. 21st #7,Tulsa,OK,74114,steve@adamslandllc.com,Current Brokers,,,Adams Land LLC,918-585-5411,,918-398-6647,918-688-8889,
+Daniel,,,Adams,DanielAdams,PO Box 2407,Broken Arrow,OK,74013,dadams@valornet.com,Current Brokers,CCIM,,"Adams & Associates, LLC",918-495-3661,,918-355-4371,,
+Mitch,,,Adwon,MitchAdwon,PO Box 52808,Tulsa,OK,74152,mitch@adwonproperties.com,Current Brokers,,,"Adwon Properties, Inc.",918-749-9555,,918-749-9585,,www.adwonproperties.com
+Joe,,,Adwon,JoeAdwon,PO Box 701116,Tulsa,OK,74170,jadwon@aol.com,Current Brokers,CCIM,,Adwon Inc. Realty,918-749-7966,,918-749-9701,,
+Adam,,,Adwon,AdamAdwon,P.O. Box 7041884,Tulsa,OK,74170,aadwon@appraisaldata.com,Current Brokers,"CCIM, MAI",,Appraisal Data Services,918-742-7311,,,,www.appraisaldata.com
+Kamlesh,,,Aggarwal,KamleshAggarwal,2709 S. 27th St.,Muskogee,OK,74401,kamlesh912@gmail.com,Current Brokers,CCIM,,"Sooner Realty Properties, LLC.",918-260-5286,,866-869-0075,918-260-5286,www.SoonerRealtyProperties.com
+Micah,,,Alcorn,MicahAlcorn,"3600 W Main Street, Suite 200",Norman,OK,73072,mail@micahalcorn.com,Current Brokers,CCIM,,,,,,405-818-2257,
+Keith,,,Allison,KeithAllison,5810 E. Skelly Drive,Tulsa,OK,74135,kallison@nairupehelmer.com,Current Brokers,,,NAI Rupe Helmer,918-230-8448,,,918-230-8448,www.nairupehelmer.com
+Carl,,,Amend,CarlAmend,"3000 United Founders Blvd., Suite 200",Oklahoma City,OK,73112,carl@lagree.biz,Current Brokers,,,LaGree Associates,405-879-1171,,405-879-1174,405-535-7980,www.lagree.biz
+Amy,,,Anderson,AmyAnderson,7633 E. 63rd Pl Ste. 300,Tulsa,OK,74133,amy.anderson@regus.com,Current Brokers,,,Regus ,,,,,
+Kevin,,,Anderson,KevinAnderson,PO Box 4255,Tulsa,OK,74159,KevinAnderson@TulsaRealtors.com ,Current Brokers,,,Kevin W. Anderson & Associates,918-406-3197,,,918-406-3197,
+Chris,,,Anderson,ChrisAnderson,"2529 S Kelly Ave, Ste E",Edmond,OK,73013,canderson@grantgroupok.com,Current Brokers,CCIM,,Grant Group,405-205-2100,,,405-408-9098,
+Tom,,,Anglin,TomAnglin,PO Box 720835,Norman,OK,73070,tanglin160@aol.com,Current Brokers,CCIM,Broker,Shadow Lakes Commercial Properties,405-364-9036,,,405-830-5177,
+Owen,,,Ard,OwenArd,"1323 e. 71st, Ste. 450",Tulsa,OK,74136,oard@irr.com,Current Brokers,,,Integra Realty Resources-Oklahoma,918-492-4844,,918-493-7155,,
+Terry,,,Argue,TerryArgue,401 S. Boston Ave. Suite 3400,Tulsa,OK,74103,terarg@argueproperties.com,Current Brokers,,Owner/Broker,"Argue Properties, Inc.",918-587-1900,,918-699-0324,918-625-9900,www.argueproperties.com
+Gayla,,,Artman,GaylaArtman,2425 Wilcox,Norman,OK,73069,gartman@equityrealty.net,Current Brokers,,,"Equity Commercial Realty, LLC",405-364-5300,,405-360-7677,405-826-7975,www.equityrealty.net
+Susan,,,Atherton,SusanAtherton,"4739 E. 91st St, 200",Tulsa,OK,74137,,Current Brokers,,,Commercial Title & Escrow Services,918-556-6336,,918-317-6347,918-809-3416,www.commercialtitleok.com
+Joseph,,,Atkinson,JosephAtkinson,PO Box 50119,Midwest City,OK,73140,joseph@dominus.com,Current Brokers,,,"North Start Companies, LLC",,,,405-760-8889,
+Pamela,,,Avison,PamelaAvison,"5810 E Skelly Drive, 14th Floor",Tulsa,OK,74135,pavison@nairupehelmer.com,Current Brokers,,,"NAI Rupe Helmer, LLC",918-745-1133,,918-745-1120,918-605-1008,www.nairupehelmer.com
+Shana,,,Avison,ShanaAvison,"5810 E Skelly Drive, 14th Floor",Tulsa,OK,74135,savison@nairupehelmer.com,Current Brokers,,,"NAI Rupe Helmer, LLC",918-745-1133,,918-745-1120,918-378-1962,www.nairupehelmer.com
+Rod,,,Baker,RodBaker,P.O. Box 12597,OKC,OK,73157,bakerr@bakerfirst.com,Current Brokers,CCIM,,"Baker First Commercial Real Estate Services, Inc.",405-947-7200,,405-947-7270,,
+Steve,,,Baker,SteveBaker,"1401 S. Boulder Avenue, Suite 100",Tulsa,OK,74119,steve.baker@cbreok.com,Current Brokers,CCIM,,CB Richard Ellis/Oklahoma,918-665-3830,,918-663-6402,918-232-2360,www.cbreok.com
+Vaden,,,Bales,VadenBales,"320 S. Boston Ave., Ste. 200",Tulsa,OK,74103,vbales@hallestill.com,Current Brokers,,,Hall Estill,918-594-0807,,918-594-0505,918-845-8695,www.hallestill.com
+Steve,,,Barnes,SteveBarnes,"302 S Main St., ",BA,OK,74012,sbarnes@bankavb.com,Current Brokers,,,AVB Bank,918-251-9611,,,,www.bankavb.com
+Darryl,,,Baskin,DarrylBaskin,P.O. Box 52404,Tulsa,OK,74152,darryl@darrylbaskin.com,Current Brokers,,,eXp Realty,,,,918-732-9732,homeguidetulsa.com
+Chad,,,Basnett,ChadBasnett,1999 N Birch,Jenks,OK,74037,chad@kbisolutions.com,Current Brokers,,,Business Development,918-298-0600,,,,kbisolutions.com
+Derek,,,Bateman,DerekBateman,2488 E. 81st St. Suite 188,Tulsa,OK,74137,derek.bateman@tulsatrinity.com,Current Brokers,CCIM,,Trinity Corporate Real Estate Advisors,918-493-8470,,,918-812-6879,www.tulsatrinity.com
+Maxine,,,Bates,MaxineBates,"210 36th Avenue SW, One Park A",Norman,OK,73072,maxine@hallbrook.com,Current Brokers,"CCIM, CRB, CRS",,Homesteaders at Hallbrooke,405-833-4976,,405-928-7440,405-833-6973,
+Doug,,,Bauer,DougBauer,"4821 S. Sheridan, Ste. 201",Tulsa,OK,74145,dbauer@bauertulsa.com,Current Brokers,CCIM,,"Bauer & Associates, Inc.",918-665-1210,,918-665-6462,918-688-7141,www.bauertulsa.com
+Grover,,,Bauer,GroverBauer,"4821 S. Sheridan, Ste. 201",Tulsa,OK,74145,gbauer@bauertulsa.com,Current Brokers,"CCIM, SIOR",,"Bauer & Associates, Inc.",918-665-1210,,918-665-6462,918-760-4110,
+Kena,,,Baxley,KenaBaxley,"2 West Second St, Ste 1300",Tulsa,OK,,kbaxley@bokf.com,Current Brokers,,BOKF/SVP ,,918-779-6620,,972-277-4750,,
+Brian,,,Beam,BrianBeam,"12150 E 96th St N, Ste 200",Owasso,OK,74055,brianbeam@owassolandtrust.com,Current Brokers,,,Owasso Land Trust,918-376-6536,,918-376-6836,918-859-5584,
+Bill,E.,,Beams,BillBeams,5121 South Wheeling,Tulsa,OK,74105,bbeams@blackshare-env.com,Current Brokers,REPA,,Blackshare Environmental Solutions,918-388-0970,,918-388-0971,,
+Brett,,,Beaver,BrettBeaver,7100 N Classen Blvd,Oklahoma City,OK,73116,,Current Brokers,,,Cushman & Wakefield / Commercial Oklahoma,405-767-9491,,,,
+William,P.,,Beichler,WilliamBeichler,4105 S. Rockford Ave,Tulsa,OK,74105,wbeichler@mcgrawcp.com,Current Brokers,CCIM,,McGraw Commercial Properties,918-388-9588,,918-398-5448,918-859-8850,mcgrawcp.com
+Jonathan,,,Belzley,JonathanBelzley,"624 S Boston, Ste 400",Tulsa,OK,74119,jbelzley@kmodevelopment.com,Current Brokers,,,"KMO Urban, LLC",,,,,
+Monty,,,Berry,MontyBerry,5801 E. 41st St. Suite 101,Tulsa,OK,74135,monty@equitasrealty.com,Current Brokers,CCIM,Partner,"Equitas Realty Advisors, LLC",918-280-9900,,918-280-9902,918-695-4162,www.equitasrealty.com
+Pam,,,Bewley,PamBewley,"4739 E. 91st St, 200",Tulsa,OK,74137,pbewley@commercialtitleok.com,Current Brokers,,,Commercial Title & Escrow Services,918-556-6336,,918-317-6347,918-809-3416,www.commercialtitleok.com
+Michael,,,Biddinger,MichaelBiddinger,12020 N. Pennsylvania Ave.,OKC,OK,73120,mbiddinger@propertyokc.com,Current Brokers,CCIM,,"Michael Biddinger Real Estate, Inc.",405-236-4747,,405-752-4403,405-210-4747,www.propertyokc.com
+Bart,,,Binning,BartBinning,16301 N. May,Edmond,OK,73013,bart@bartbinning.com,Current Brokers,,,Berkshire Hathaway HomeServices Anderson Properties,405-348-4422,,405-340-7170,405-823-5281,www.bartbinning.com
+Jeffery,,,Bishop,JefferyBishop,1306 Morgan Circle,Miami,OK,74354,justoff395@msn.com,Current Brokers,,,,,,,,
+Brad,,,Black,BradBlack,5305 N. Drexel Circle,Oklahoma City,OK,73112,bradblack@juno.com,Current Brokers,MAI,,Architect,,,,405-255-0102,
+Edward,,,Boersma,EdwardBoersma,"4835 S. Peoria, Suite 14",Tulsa,OK,74105,eboersma@commercialresources.net,Current Brokers,,,Commercial Resources,918-521-1800,,866-905-8823,,
+Lee,,,Bollinger,LeeBollinger,"4045 NW 64th, Suite 410",Oklahoma City,OK,73116,lee@naisullivangroup.com,Current Brokers,CCIM,,NAI Sullivan Group,405-840-0600,,405-640-0610,405-202-3926,
+Bruce,,,Bolzle,BruceBolzle,"624 S. Boston Ave., Ste 400",Tulsa,OK,74119,bbolzle@kmodevelopment.com,Current Brokers,,,"KMO Development Group, Inc.",918-728-3400,,,918-640-7824,
+Brian,,,Booker,BrianBooker,"3801 NW Cache Rd, Ste.500 ",Lawton,OK,73505,bookerbrian@gmail.com,Current Brokers,,,"AAA Investment Properties, LLC ",405-819-4269,,,,
+Stan,,,Booker,StanBooker,38 Sandy Trail Lane,Lawton,OK,73505,sbooker@ccim.net,Current Brokers,CCIM,,"AAA Investment Properties, LLC ",,,866-451-8080,580-512-9799,
+Anna,,,Bookout,AnnaBookout,"3000 United Founders Blvd., Suite 200",OKC,OK,73112,a.c.bookout@lagree.biz,Current Brokers,,,LaGree Associates,405-879-1171,,405-879-1174,,www.lagree.biz
+Montie,R.,,Box,MontieBox,11 E. Broadway PO 98,Sand Springs,OK,74063,montiebox@aol.com,Current Brokers,CRB,,Montie Box Co. Realtors,918-245-2505,,918-241-4638,918-636-0339,
+Jim,,,Brackett,JimBrackett,330 N. Boulder,Tulsa,OK,74103,showcasebrackett@cs.com,Current Brokers,CCIM,,"Showcase Properties, Inc.",918-749-7747,,918-583-9255,918-688-7747,
+Ryan,,,Brah,RyanBrah,4105 S. Rockford Ave,Tulsa,OK,74105,rbrah@mcgrawcp.com,Current Brokers,,,McGraw Commercial Properties,918-398-2841,,918-398-5129,,
+Lisa,,,Brandes,LisaBrandes,"5810 East Skelly Drive, 14th Floor",Tulsa,OK,74135,lbrandes@nairupehelmer.com,Current Brokers,RPA,,NAI Rupe Helmer,,,,918-978-6155,
+Steve,,,Bridewell,SteveBridewell,P.O. Box 3321,Edmond,OK,73083,sbc@coxinet.net,Current Brokers,,,"Stephen Craig Bridewell, LLC",405-341-9989,,405-330-1149,405-250-0382,
+Scott,,,Briggs,ScottBriggs,6120 S Yale Ave #300,Tulsa,OK,74136,sbriggs@stanjohnsonco.com,Current Brokers,,,Stan Johson Co,918-494-2690,,,,
+James,L.,,Brown,JamesBrown,"1401 S. Boulder Avenue, Suite 100",Tulsa,OK,74119,jim.brown@cbreok.com,Current Brokers,,,CB Richard Ellis | Oklahoma,918-932-7215,,918-663-6402,918-638-7274,www.cbre.com/jim.brown
+Cordell,,,Brown,CordellBrown,210 Park Ave. Suite 750,OKC,OK,73102,cbrown@priceedwards.com,Current Brokers,"CCIM,CIPS",,Price Edwards and Company,405-239-1222,,405-236-1849,405-826-6416,www.priceedwards.com
+Philip,,,Bryce,PhilipBryce,803 N. Elm Place,Broken Arrow,OK,74012,pbryce@tulsarealtors.com,Current Brokers,CCIM,,Bryce Realty,918-251-5303,,918-251-1144,918-694-7000,
+Steve,,,Buchanan,SteveBuchanan,"11801 S. Western, Ste. A",OKC,OK,73170,steve@buchananrealty.net,Current Brokers,CCIM,,Buchanan Realty Group,405-691-9767,,,405-210-6655,
+Jim,,,Burcham,JimBurcham,3150 E. 41st St Ste 103,Tulsa,OK,74105,lookre21@gmail.com,Current Brokers,CCIM,,LOOK Properties,918-289-7300,,,,
+Sue,,,Burgess,SueBurgess,,,,,sburgess@stanjohnsonco.com,Current Brokers,,,Stan Johson Co,,,,,
+David,,,Burnett,DavidBurnett,19624 Crest Ridge Dr.,Edmond,OK,73012,dburnett@svn.com,Current Brokers,,,Sperry Van Ness,405-602-2966,,,,www.svn.com
+Thomas,,,Butcher,ThomasButcher,"3209 S. Broadway, Ste. 213",OKC,OK,73013,tom.butcher@cbokc.com,Current Brokers,,,Coldwell Banker Commercial Select,405-348-7900,,405-752-2307,405-843-5511,wwwcbokcommercial.com
+Jared,,,Cable,JaredCable,4200 E. Skelly Dr. Ste. 200,Tulsa,OK,74135,jcable@grandbank.com,Current Brokers,,,Grand Bank,918-477-3303,,918-491-1823,918-706-2484,grandbank.com
+Gina,,,Carroll,GinaCarroll,"12324 E. 86th N., PMB 281",Owasso,OK,74055,gcarroll@kwcommercial.com,Current Brokers,,,KW Commercial ,918-272-6560,,918-272-6561,918-760-6237,kwcommercial.com
+Scott,,,Case,ScottCase,4200 E. Skelly Dr. Suite 800,Tulsa,OK,74135,scase@caseusa.com,Current Brokers,CPM,,"Case & Associates Properties, Inc.",918-492-1983,,918-492-4446,918-645-0997,
+Melania,,,Castro,MelaniaCastro,8522 E. 61st St,Tulsa,OK,74133,mcastro@cbtulsa.com,Current Brokers,,,Caldwell Banker,,,,,
+Christina,,,Cheng,ChristinaCheng,9531 S 92nd E Ave,Tulsa,OK,74133,ccheng@tulsarealtors.com,Current Brokers,,,Keller Williams Realty,918-813-5477,,918-491-6351,,
+Patrick,,,Coates,PatrickCoates,"4111 S. Darlington Ave., Ste. 640",Tulsa,OK,74135,pcoates@coatesproperties.com,Current Brokers,CCIM,,"Coates Commercial Properties, LLC",918-610-0700,,,918-629-1914,www.coatesproperties.com�
+Kendal,,,Coats,KendalCoats,5100 E. Skelly Dr. Suite 450,Tulsa,OK,74135,kcoats@enercon.com,Current Brokers,,,Enercon Services,918-665-7693,,918-665-7232,918-346-0459,
+David,,,Cobb,DavidCobb,"9522 E 47th Pl, Unit D",Tulsa,OK,74145,dwcobb@terracon.com,Current Brokers,,,"Terracon Consultants, Inc.",918-250-0461,,,918-607-4771,www.terracon.com
+Andrew,,,Coffey,AndrewCoffey,502 S. Main St,Tulsa,oK,74103,acoffey@arvest.com,Current Brokers,,,Arvest Bank,918-631-1060,,,918-200-5668,www.arvest.com
+John,,,Cohlmia,JohnCohlmia,"204 N. Robinson, 7th Fl",OKC,OK,73102,jcohlmia@ngkf.com,Current Brokers,CCIM,,Newmark Grubb,405-879-4773,,405-286-6103,,www.ngkfok.com
+Bryan,,,Collins,BryanCollins,P.O. Box 6846,Edmond,OK,73083,,Current Brokers,,,Red River Roofing,405-330---25,,,,
+Marty,,,Coltrane,MartyColtrane,,OKC,OK ,73118,marty@entrust-realty.com,Current Brokers,,,Entrust Realty,405-329-1922,,405-329-1955,405-202-2022,entrust-realty.com
+Jason,,,Compton,JasonCompton,5100 E. Skelly Dr. Suite 450,Tulsa,OK,74135,jcompton@enercon.com,Current Brokers,,,Enercon,918-665-7693,,,,
+Casey,,,Cook,CaseyCook,6012 C NW Ecpressway,OKC,OK,73132,casey@kw.com,Current Brokers,,,Keller Williams,405-691-2556,,,405-990-2126,
+Sheila,,,Cooper,SheilaCooper,"4821 S. Sheridan, Ste. 201",Tulsa,OK,74145,scooper@bauertulsa.com,Current Brokers,,,"Bauer & Associates, Inc.",918-665-1210,,,918-724-5140,
+Steve,,,Cottom,SteveCottom,"11600 Broadway Extension, Ste 250",OKC,OK,73114,steve@vanguarddevelopment.com,Current Brokers,"CCIM, CPA",,VANGUARD Development Company,405-840-5081,,405-840-5084,405-401-3867,www.vanguarddevelopment.com
+Mike,,,Coulter,MikeCoulter,3845 E. 104th St,Tulsa,OK,74137,michaelcoulter8@gmail.com,Current Brokers,"CCIM, SIOR",,Coulter Realtors,918-749-0766,,,918-640-9848,www.coulterrealtors.com
+Mike,,,Craddock,MikeCraddock,1703 E. Skelly Dr. Suite 105,Tulsa,OK,74105,hotels@swbell.net,Current Brokers,,Managing Broker,HotelBrokerOne,918-745-0606,,918-745-0609,918-605-1436,
+Neil,,,Dailey,NeilDailey,4105 S. Rockford Ave,Tulsa,OK,74105,ndailey@mcgrawcp.com,Current Brokers,,,McGraw Commercial Properties,918-388-9588,,918-398-5134,918-853-7337,www.mcgrawcp.com
+Raymond,,,Davis,RaymondDavis,4105 S. Rockford Ave,Tulsa,OK,74105,rdavis@mcgrawcp.com,Current Brokers,,,McGraw Commercial Properties,918-671-9201,,918-398-5129,,
+Robert,,,Davis,RobertDavis,"1601 NW Expressway, Ste 1000",Edmond,OK,73025,rdavis@enercon.com,Current Brokers,,,Enercon,405-722-7693,,405-722-7694,,www.enercon.com
+Selby Gene,,,Davis,SelbyGeneDavis,"10900 Hefner Pointe Dr., Ste. 101",Oklahoma City,OK,73120,selby1selby@yahoo.com,Current Brokers,,Broker Associate,Keller Williams - Northpointe,405-748-8500,,405-735-3682,405-590-2117,
+Caitlin,,,Dempsey,CaitlinDempsey,"1601 NW Expressway, #500",Oklahoma City,OK,73118,caitlinld@gmail.com,Current Brokers,,,Newmark Grubb Levy Strange Beffort,405-879-4768,,,405-879-4768,newmarklsb.com
+Hannah,,,Demuth,HannahDemuth,427 S. Boston Ave. #915,Tulsa,OK,74103,hdemuth@philtower.com,Current Brokers,,,Philtower,918-849-6033,,,918-849-6033,
+Tom,,,Denner,TomDenner,"100 Park Avenue, Ste 200",Oklahoma City,OK,73102,tomdenner@aol.com,Current Brokers,,,The Denner Company,405-232-1919,,405-232-2199,405-850-7850,
+Henry,,,Dilschneider,HenryDilschneider,6903 E. 82nd St,Tulsa,OK,74133,henryadilscheider@gmail.com,Current Brokers,,,,,,,,
+Tish,,,Dingmon,TishDingmon,2500 West 81st Street,Tulsa,OK,74132,tish.cairnbrae@gmail.com,Current Brokers,,,Cairnbrae Realty,918-445-2068,,918-445-2044,918-691-3897,
+Steve,,,Dodson,SteveDodson,"7134 S. Yale, Ave #300",Tulsa,OK,74136,sdodson@couryprop.com,Current Brokers,,,"Coury Properties, Inc.",918-583-0201,,918-583-6163,,
+Kevin,,,Dolan,KevinDolan,2500 West 81st Street,Tulsa,OK,74132,cairnbraerealty@gmail.com,Current Brokers,CCIM,,Cairnbrae Realty,918-445-2068,,918-445-2044,918-691-3897,www.cairnbraerealty.com
+Ted,P,,Dubie,TedDubie,4216 East 82nd Street,Tulsa,OK,74137,dubieproperties@cox.net,Current Brokers,CCIM,,"Dubie Properties, LLC",918-639-2948,,918-481-1901,918-639-2948,
+Amanda,,,Duenner,AmandaDuenner,11 3rd Street #1110,Tulsa,OK,74103,ag@danielsgreer.com,Current Brokers,,,Daniels Greer Properties,918-742-7500,,918-742-1911,918-740-1015,
+Bob,,,Duncan,BobDuncan,,,,,bobd@duncanrealtytulsa.com,Current Brokers,,,Duncan Realty ,,,,,
+Perry,,,Dunham,PerryDunham,6355-B East 41st St.,Tulsa,OK,74135,perryrdunham@sbcglobal.net,Current Brokers,CCIM,,Monte L. Dunham Company,918-627-4230,,918-627-4312,918-625-3624,
+Amy,,,Dunn,AmyDunn,3401 NW 63rd St Ste 400,OKC,OK,73116,amy.dunn@cbre.com,Current Brokers,,,"CBRE, Inc",405-607-6021,,,405-209-3656,
+Jesse,,,DuPree,JesseDuPree,5120 E. 75th St ,Sand Springs,OK,74136,jessedupree1@aol.com,Current Brokers,,,DWRAA Realtor Advisors,918-688-0178,,918-346-6468,918-688-0178,
+Jeredith,,,Duvall,JeredithDuvall,4745 E. 91st St. Suite 100,Tulsa,OK,74137,,Current Brokers,,,KW Commercial,918-497-4400,,918-704-0051,918-770-6117,
+Larry,,,Emmer,LarryEmmer,6406 #C N. Santa Fe,Oklahoma City,OK,73116,larry@gwgulledge.com,Current Brokers,,,"G.W. Gulledge & Associates Co., Inc.",405-842-2218,,,,gwgulledge.com
+Mike,,,Estus,MikeEstus,"2121 S. Columbia, Suite 650",Tulsa,OK,74114,mike@tfptulsa.com,Current Brokers,,,"Twenty First Properties, Inc.",918-743-4300,,918-745-1065,918-884-8889,www.tfptulsa.com
+Jacqueline,,,Falkenberry,JacquelineFalkenberry,4500 W. Houston St,Broken Arrow,OK,74012,falkenberry.jacqueline@gmail.com,Current Brokers,,,"FirsTitle & Abstract Services, Inc.",918-615-6819,,918-615-6719,,firstitle.com
+Clay,T.,,Farha,ClayFarha,6801 N. Classen Blvd. Suite A,OKC,OK,73116-7207,clay@bde-kbi.com,Current Brokers,CCIM,,B.O. Eddie Enterprises,405-843-5060,,405-848-2249,,
+Leola,,,Farmer,LeolaFarmer,7452 East 20th Street,Tulsa,OK,74112,leola.farmer@farmercommercial.com,Current Brokers,,,Farmer Commercial Properties LLC,918-388-1950,,,,
+James,,,Ferguson,JamesFerguson,"5100 N. Brookline Ave, Suite 340",Oklahoma City,OK,73112,jim@jsferguson.com,Current Brokers,CCIM,,"J. S. Ferguson, Inc.",405-942-9905,,,405-650-8950,jsferguson.com
+Susan,,,Finn,SusanFinn,1703 E. Skelly Dr. #107,Tulsa,OK,74105,sfinn@fleenerre.com,Current Brokers,,,Fleener Real Estate,918-621-1133,,918-392-3453,,
+Mike,,,Fitter,MikeFitter,6947 E. 13th Street,Tulsa,OK,74112,mfitter@senecaco.com,Current Brokers,,,Seneca Companies,,,,918-740-6559,
+Gary,,,Fleener,GaryFleener,1703 E. Skelly Dr. #107,Tulsa,OK,74105,gfleener@fleenerminnix.com,Current Brokers,"CCIM, SIOR",,Fleener Minnix Real Estate,918-621-1133,,918-745-0609,918-640-1133,
+Eric,C.,,Fleske,EricFleske,PO Box 1763,Norman,OK,73070,eric@fleskeholding.com,Current Brokers,CCIM,,"Equity Commercial Realty, LLC",405-364-5300,,405-360-7677,405-990-2509,www.equityrealty.net�
+Dwayne,,,Flynn,DwayneFlynn,"1401 S. Boulder Ave, Suite 100",Tulsa,OK,74119,dwayne.flynn@cbre.com,Current Brokers,"SIOR, CCIM",,"CBRE, Inc",918-392-7249,,918-663-6402,918-630-0611,
+Jeremy,,,Foraker,JeremyForaker,114 NW 6th St. Suite 206,Oklahoma City,OK,73102,jforaker@lrcre.com,Current Brokers,,,Land Run Commercial Real Estate,405-231-5700,,405-231-5701,405-229-7917,
+Chuck,,,Foster,ChuckFoster,121 South Main,Broken Arrow,OK,74012,rfoster@moneyconcepts.com,Current Brokers,CFP,,First National Investments,918-355-5465,,918-251-5974,,
+Tanda,,,Francis,TandaFrancis,"7633 East 63rd Pl., Ste 400",Tulsa,OK,74133,tfrancis@priceedwards.com,Current Brokers,,,Price Edwards and Company,918-394-1000,,918-394-1001,918-630-9991,
+Brian,,,Frere,BrianFrere,4745 E. 91st St. Suite 100,Tulsa,OK,74137,bfrere@cox.net,Current Brokers,CPA,,KW Commercial,918-497-4400,,,918-298-6900,
+Bob,,,Fries,BobFries,6921 South Gary Avenue,Tulsa,OK,74136,bcf42@cox.net,Current Brokers,,,BCF LLC,918-557-9408,,,,
+Stan,,,Frisbie,StanFrisbie,11101 Harbour Yacht Court,Fort Myers,FL,33098,stan@stanfrisbie.com,Current Brokers,,,"Stan Frisbie Real Estate, LLC",918-747-7600,,918-512-4774,918-519-9945,239-482-8507-Florida
+J.R.,,Bud,Fulton,JRFulton,"4334 NW Expressway, Suite 100",OKC,OK,73116,jrfulton@jrfulton.com,Current Brokers,"CCIM, SIOR",,"J. R. Fulton & Associates, Inc.",405-840-0200,,405-840-3850,405-410-4398,www.jrfulton.com 
+Michael,,,Galiga,MichaelGaliga,10 E. Campbell,Edmond,OK,73034,mgaliga@kw.com,Current Brokers,Esq,,Keller Williams,405-330-2626,,,405-209-3684,www.mgaliga.kw.com
+Gerald,L.,,Gamble,GeraldGamble,"204 N. Robinson, Ste 625",OKC,OK,73102,gambleokc@geraldgambleco.com,Current Brokers,CCIM,,"Gerald L. Gamble Co., Inc.",405-232-1138,,405-239-6805,405-627-1228,www.geraldgambleco.com
+Ben,,,Ganzkow,BenGanzkow,"1401 S. Boulder Avenue, Suite 100",Tulsa,OK,74119,ben.ganzkow@cbreok.com,Current Brokers,,,CBRE OK,918-665-3830,,918-663-6402,,
+Lanny,,,Gardner,LannyGardner,10004 Allen Drive,Oklahoma City,OK,73139,lannygardner@sbcglobal.net,Current Brokers,,,Gardner Company Realtors,405-681-5555,,405-691-5456,405-990-7231,
+Ron,,,Gary,RonGary,"5500 NW Expressway, Suite C",OKC,OK,73132,ron@thomaslay.com,Current Brokers,,,"Thomas Lay, Realtors",405-721-5588,,405-721-5557,405-476-0746,
+Nic,,,Gautreaux,NicGautreaux,3000 United Founders Blvd #200,OKC,OK,73112,gautreaux@lagree.biz,Current Brokers,,,"LaGree Associates, LLC",405-879-1171,,405-879-1174,,
+Michael,,,Geers,MichaelGeers,613 Yukon Ave.,Yukon,OK,73099,mikegeers@cox.net,Current Brokers,,,Geers Real Estate,405-354-4484,,405-354-4484,405-641-4051,
+Richard,G.,,Geren,RichardGeren,"521 W. Wilshire Blvd., Suite 100",Oklahoma City,OK,73116,domainproperties@coxinet.net,Current Brokers,,,"Domain Properties, LTD",405-879-0222,,405-557-1040,,
+Rodney,,,Ghan,RodneyGhan,"4611 Rogers Avenue, Suite 200",Ft. Smith,AR,72903,rhghan@rhghan.com,Current Brokers,CCIM,,R.H. Ghan Commercial Properties,479-478-6161,,479-478-6160,,www.rhghan.com
+Andrea,,,Gibson,AndreaGibson,2738 E 51st St Suite 140,Tulsa,OK,74105,andrea.gibson@redstonecs.com,Current Brokers,,,"Red Stone Construction Services, LLC",918-935-2536,,,918-688-6520,www.redstonecs.com
+Earnie,,,Gilder,EarnieGilder,P O Box 2519,Muskogee,OK,74402,egilder@interstateproperties.com,Current Brokers,CIPS,,"Interstate Properties, Inc.",918-682-1119,,918-687-7200,918-685-7880,www.interstateproperties.com
+Joe,,,Gilliland,JoeGilliland,10802 Quail Plaza Drive,Oklahoma City,OK,73120,gilliland@coxinet.net,Current Brokers,,,Gilliland Realty,405-947-5700,,405-947-5708,405-820-2074,
+David,,,Glasgow,DavidGlasgow,1401 S. Boulder Ave. #100,Tulsa,OK,74119,david.glasgow@cbre-ok.com,Current Brokers,CCIM,,"CBRE, Inc",918-392-7205,,918-663-6402,918-798-8787,
+Jon,,,Gobbo,JonGobbo,,,,,jon.gobbo@gmail.com,Current Brokers,,,Keller Williams,918-712-2252,,,918-850-2289,
+Bob,,,Goble,BobGoble,4210 East 83rd,Tulsa,OK,74137,whitgo@cox.net,Current Brokers,,,"Robert Goble & Associates, LLC",918-495-1716,,918-495-1716,918-271-2964,
+Cindy,,,Goldman Bauer,CindyGoldmanBauer,4101 N.W. 122nd,Oklahoma City,OK,73120,cindy@goldmanbauer.com,Current Brokers,",","Vice President, Commercial Division",Prudential Alliance Realty,405-755-9052,,405-755-8819,405-474-7114,
+Eric,,,Gomez,EricGomez,"2651 E 21st Street, #100",Tulsa,OK,74114,,Current Brokers,,,Keller Williams,918-712-2252,,,918-378-0992,
+Carmen,,,Goodspeed,CarmenGoodspeed,4098 Stonebrook Drive,Norman,OK,73072,cgoodspeed@priceedwards.com,Current Brokers,CCIM,,Goodspeed Commercial Real Estate,405-620-3804,,405-387-5897,405-387-3660,
+Nora,,,Gordon,NoraGordon,5555 East 71st Street,Tulsa,OK,74136,nora@gadaconstruction.com,Current Brokers,,,Onxy Realty Group,918-808-5930,,,,
+Mary,,,Grace,MaryGrace,2837 NW 58th,Oklahoma City,OK,73112,mary@gracecommercial.com,Current Brokers,,,Grace Commercial Real Estate,405-943-0901,,405-943-0494,405-833-2413,
+Bob,,,Grant,BobGrant,1120 East 26th St,Tulsa,OK,74114,bgrant@whitesidegrant.com,Current Brokers,"CCIM, SIOR",,Whiteside & Grant Realtors,918-743-9898,,,,
+Karen,,,Graves,KarenGraves,P.O. Box 850598,Yukon,OK,73085-0598,kgraves@okcityproperties.com,Current Brokers,,,"OKCity Properties, Inc.",405-947-0000,,405-354-2809,405-823-8398,okcityproperties.com
+John,,,Gray,JohnGray,4105 S. Rockford,Tulsa,OK,74105,jgray@mcgrawcp.com,Current Brokers,,,McGraw CP,918-388-9581,,918-398-5146,918-671-9997,
+Robert,,,Gray,RobertGray,"1323 East 71st Street, Suite 450",Tulsa,OK,74136,bgray@irr.com,Current Brokers,"MAI, FRICS",,Integra Realty Resources-Oklahoma,918-492-4844,,918-493-7155,918-688-3300,
+Daniel,,,Greer,DanielGreer,1 West 3rd Street #1110,Tulsa,OK,74103,,Current Brokers,,,Daniels Greer Properties,918-742-7500,,918-742-1911,,
+Karla,,,Griffin,KarlaGriffin,4708 Ranchwood Terrace,Norman,OK,73072,kgriffin@ccim.net,Current Brokers,CCIM,,First Commercial Real Estate Services,405-329-5353,,405-329-0193,405-570-4714,
+Nancy,,Jan,Griffith,NancyGriffith,4500 W. Houston St,Broken Arrow,OK,74012,jgriffith@firstitle.com,Current Brokers,,,"FirsTitle & Abstract Services, Inc.",918-250-1641,,918-615-6710,,firstitle.com
+Chris,,,Griswold,ChrisGriswold,315 A W. Edmond Road,Edmond,OK,73003,chris@chrisgriswoldpc.com,Current Brokers,,,"Chris Griswold, P.C.",405-340-4119,,405-844-3380,405-229-7595,www.chrisgriswoldpc.com
+Troy,,,Gudgel,TroyGudgel,4105 S. Rockford Ave,Tulsa,OK,74105,tgudgel@mcGrawok.com,Current Brokers,CCIM,,McGraw Commercial Properties,918-592-6000,,918-398-5073,918-740-7293,
+Rick,,,Guild,RickGuild,"15 West 6th St., Ste 2606",Tulsa,OK,74119,rg@theguildcompany.com,Current Brokers,,,The Guild Company LLC,,,,918-645-3677,www.theguildcompany.com
+Connie,,,Guinn,ConnieGuinn,15 E 5th #1600,Tulsa,OK,74103,,Current Brokers,,,Kanbar Property Management,918-581-3300,,,,
+James,,,Gustine,JamesGustine,11725 S. Granite Ave.,Tulsa,OK,74137,gustinecommercial@cox.net,Current Brokers,,Owner-Broker,Gustine Commercial Properties,,,,918-695-5858,
+Jacque,,,"Guy, Sr.",JacqueGuy,"8023 E. 63rd Place, Suite 101",Tulsa,OK,74133,jguy@tulabs.com,Current Brokers,,Sr. VP/Escrow Manager,Tulsa Abstract & Title Company,918-250-9080,,918-252-3196,,
+David,,,Hagaman,DavidHagaman,"8023 E. 63rd Place, Suite 101",Tulsa,OK,74133,dhagaman@tulabs.com,Current Brokers,,,Tulsa Abstract & Title Company,918-250-9080,,918-252-3196,918-232-3264,
+Dan,,,Hake,DanHake,"204 N. ROBINSON, SUITE 900",OKC,OK,73102,dan.hake@clo.ok.gov,Current Brokers,,,Commissioners of the Land Office,405-521-4012,,405-521-4444,,
+Shawna,,,Hale,ShawnaHale,1401 S. Boulder Ave. #100,Tulsa,OK,74119,shawna.hale@cbre.com,Current Brokers,CCIM,,"CBRE, Inc",918-392-7205,,918-663-6402,918-798-8787,
+Carla,,,Hall,CarlaHall,320 S. Boulder Ave.,Tulsa,OK,74103,carlah@guarantyabstract.com,Current Brokers,,,Guaranty Abstract Company,918-587-6621,,918-582-2228,,
+Daryl,,,Hall,DarylHall,220 W 7th Street [7th & Denver],Tulsa,OK,74119,dhall@energyone.org,Current Brokers,,,Energy One Federal Credit Union,918-699-7135,,918-699-7132,,
+David,,,Hall,DavidHall,"6130 East 32nd Street, #108",Tulsa,OK,74135,dave@imperialproperties.com,Current Brokers,,,"Imperial Properties, Inc.",918-665-2700,,918-665-8213,,www.imperialproperties.com
+Cheryl,,,Hall,CherylHall,"8023 E. 63rd Place, Suite 101",Tulsa,OK,74133,chall@tulabs.com,Current Brokers,,Escrow Officer,Tulsa Abstract & Title Company,918-250-9080,,918-252-3196,918-232-3264,
+Laura,,,Halley,LauraHalley,P.O. Box 5452,Edmond,OK,73083,okcproperties@yahoo.com,Current Brokers,,,Success Management,405-476-5200,,405-842-8588,,
+Jason,,,Hammock,JasonHammock,3401 NW 63rd St Ste 400,OKC,OK,73116,jason.hammock@cbre-ok.com,Current Brokers,,,"CBRE, Inc",405-272-5303,,,,
+Stephen,,,Haney,StephenHaney,7633 E. 63rd Pl.,Tulsa,OK,74133,stephen.haney@securianma.com,Current Brokers,,,Securian Advisers Mid America,918-459-9349,,,918-510-5179,
+Michael,,,Haney,MichaelHaney,6406 #C N. Santa Fe,Oklahoma City,OK,73116,michael@gwgulledge.com,Current Brokers,,Managing Broker,"G.W. Gulledge & Associates Co., Inc.",405-842-2218,,,,www.gwgulledge.com
+Dustin,,,Hansen,DustinHansen,4527 E. 91st,Tulsa,OK,74133,dustin.hansen@watermarkprop.com,Current Brokers,,,Watermark Properties,918-994-4407,,918-994-4408,918-261-4617,
+Dorinda,,,Hansen,DorindaHansen,"6117 S. Mingo Rd., Suite A",Tulsa,OK,74133,dorinda.hansen@watermarkprop.com,Current Brokers,CCIM,,"Watermark Companies, LLC.",918-994-4407,,918-994-4408,918-261-4617,
+Lee Ann,,,Hanseth,LeeAnnHanseth,"4739 E. 91st St, 200",Tulsa,OK,74137,,Current Brokers,,,Commercial Title & Escrow Services,918-556-6336,,918-317-6347,918-809-3416,www.commercialtitleok.com
+Josh,,,Harjo,JoshHarjo,3000 United Founders Blvd #200,Oklahoma City,OK,73112,jharjo@lagree.biz ,Current Brokers,,,"LaGree Associates, LLC",405-879-1171,,405-879-1174,,
+Alan,,,Harju,AlanHarju,6666 S. Sheridan,Tulsa,OK,74136,alan@paramounttulsa.com,Current Brokers,,Broker,"Paramount Commercial Properties, LLC",918-743-8000,,918-743-8003,918-645-2355,
+Margaret,,,Harkey Miller,MargaretKarkeyMiller,"701 N. Broadway, Suite 300",Oklahoma City,OK,73102,Margaret.Miller@stewart.com,Current Brokers,,,Stewart Abstract & Title of Oklahoma,405-232-6764,,405-552-3931,405-202-5205,
+Mona,,,Harman,MonaHarman,"1601 NW Expressway, Suite 500",Oklahoma City,OK,73118,mona.harman@grubb-ellis.com,Current Brokers,,,Grubb & Ellis | Levy Beffort,405-463-3239,,,405-761-4605,
+Scotty,,,Harper,ScottyHarper,"5810 E Skelly Drive, 19th floor",Tulsa,OK,74135,scotty@paine-associates.com,Current Brokers,,,Paine & Associates,918-481-5380,,,,
+Larry,,,Harral,LarryHarral,3127 S. Rockford Dr,Tulsa,OK,74105,lharral@mcgrawok.com,Current Brokers,CCIM,Broker Associate,McGraw Realtors,918-231-4455,,918-398-5194,918-231-4455,LarrySellsTulsa.com
+Judy,J.,,Hatfield,JudyHatfield,PO Box 1763,Norman,OK,73070,jjhatfield@ccim.net,Current Brokers,"CCIM, CPA",,"Equity Commercial Realty, LLC",405-364-5300,,405-360-7677,405-640-6167,www.equityrealty.net
+Brent,,,Head,BrentHead,601 East Van Buren Street,Broken Arrow,OK,74011,brenthead@cox.net,Current Brokers,FSR,,"B&A Enterprises, LLC",918-519-234,,,918-519-2340,
+Gerri,,,Heidebrecht,GerriHeidebrecht,"701 N. Broadway, Suite 300",Oklahoma City,OK,73102,gheidebr@stewart.com,Current Brokers,President,,Stewart Abstract & Title of Oklahoma,405-232-6764,,405-232-5741,405-202-5200,
+Max,,,Heidenreich,MaxHeidenreich,"5810 E Skelly Drive, Suite 1400",Tulsa,OK,74135,maxh@nairupehelmer.com,Current Brokers,,,"NAI Rupe Helmer, LLC",918-728-3688,,918-745-1120,918-605-1007,www.nairupehelmer.com
+Nic,,,Heidinger,NicHeidinger,P.O. Box 521117,Tulsa,OK,74152,nic.heidinger@gmail.com,Current Brokers,,,"Cornell Properties, LLC",918-251-9354,,,,
+John,,,Heil,JohnHeil,904 E. 6th Ave.,Stillwater,OK,74074,john@fprealtors.com,Current Brokers,GRI,,"Fisher Provence, REALTORS",405-377-1000,,405-743-0311,405-614-0108,
+Shara,,,Heimbach,SharaHeimbach,,,,,shara@sandstone1.com,Current Brokers,,,shara@sandstone1.com,,,,,
+Scott,,,Heiple,ScottHeiple,"3550 W Robinson St, Ste 200",Norman,OK,73072,scott.heiple@yahoo.com,Current Brokers,"CCIM, GRI, CRS",,Dillard Group Real Estate,405-366-7707,,405-366-8232,405-473-7653,
+Lisa,,,Heller,LisaHeller,8242 S  Harvard Ste I,Tulsa,OK,74137,,Current Brokers,,,"Beacon Commercial Group, Ltd.",918-394-1000,,918-394-1001,,
+Jordan,,,Helmerich,JordanHelmerich,PO Box 52808,Tulsa,OK,74152,jordan@adwonproperties.com,Current Brokers,,,"Adwon Properties, Inc.",918-749-9555,,918-749-9585,,
+Ron,,,Henderson,RonHenderson,,,,,rhenderson@tulsarealtors.com,Current Brokers,,,,,,,,
+Michelle,,,Henry,MichelleHenry,"7060 S. Yale Ave., Ste. 900",Tulsa,OK,74136,michelle@walmancommercial.com,Current Brokers,,,"Walman Commercial Real Estate Services, LLC",918-481-8888,,918-481-8866,,
+Todd,,,Herndon,ToddHerndon,PO Box 13008,OKC ,OK,73113,therndon@theshop.net,Current Brokers,CCIM,,Herndon & Kelley Commercial Real Estate,,,405-848-3624,505-209-1021,
+Pamela,,,Higgins-McGinnis,PamelaHigginsMcGinnis,6421 S. 110th E. Ave.,Tulsa,OK,74133,pamela@phccs.com,Current Brokers,,,Higgins Commercial Consulting Services,918-861-4350,,918-435-4636,918?855-1107,www.phccs.com
+James,,,"Hill, Jr.",JamesHill,"1401 S. Boulder Avenue, Suite 100",Tulsa,OK,74119,jamie.hill@cbre.com,Current Brokers,"CCIM, SIOR",,"CBRE, Inc",918-392-7206,,918-663-6402,918-630-4455,
+Jeffrey,,,Hilst,JeffreyHilst,4527 E. 91st Street,Tulsa,OK,74137,jeff.hilst@watermarkprop.com,Current Brokers,CCIM,,Watermark Commercial Properties,918-994-4407,,,,
+Grant,,,Hinch,GrantHinch,4111 S. Darlington Ste 1190,Tulsa,OK,74135,grant@pcarealty.com,Current Brokers,,,Property Company of America,918-745-9500,,918-745-9525,,
+Jerry,,,Hocker,JerryHocker,4323 N. Classen Blvd. Suite 100,OKC,OK,73118,Jhocker@hocker.com,Current Brokers,CCIM,,Coldwell Banker Commercial Hocker & Assoc,405-840-4545,,405-525-3572,405-641-4888,www.hocker.com
+Charles,,,Holladay,CharlesHolladay,2001 South 114th E. Ave.,Tulsa,OK,74128,chuck@hardenandassoc.com,Current Brokers,,,Harden & Associates Surveying & Mapping,918-234-4859,,918-437-5551,,
+Bruce,,,Holmes,BruceHolmes,15312 N may Ave,Edmond,OK,73013,bruceh@hotelbrokerone.com,Current Brokers,,,Hotel Broker Hotel,405-810-1414,,405-810-1515,405-834-6212,www.hotelbrokerone.com
+Joseph,,,Hornick,JosephHornick,"5100 N Brookline, Ste. 1000",OKC,OK ,73112,jhornick@smithcarney.com,Current Brokers,,,"Smith Carney & Co., p.c.",405-272-1040,,405-235-6180,,
+Bonnie,,,Hudson,BonnieHudson,9136 S. Sheridan Road,Tulsa,OK,74133,bhudson@firstitle.com,Current Brokers,,,"FirsTitle & Abstract Services, Inc.",918-615-6809,,,,
+Katie,,,Hudson,KatieHudson,"401 S. Boston Ave., Ste. 500",Tulsa,OK,74103,kaith@bostonavenue.com,Current Brokers,,,"BAM, LLC",918-699-0343,,918-699-0325,918-814-8502,www.bamproperties.com
+Kanela,,,Huff,KanelaHuff,"6307 Waterford Blvd., Ste. 115",OKC ,OK ,73118,kanelaco@aol.com,Current Brokers,,,Kanela & Company,405-842-5999,,405-842-0488,405-826-0913,www.kanelaandcompany.com
+David,,,Huffman,DavidHuffman,"5801 N. Broadway, Ste. 120",OKC,OK,73118,dhuffman@wigginprop.com,Current Brokers,CCIM,,"Wiggin Properties, LLC",405-842-0100,,405-848-8248,405-642-2477,
+George,,,Huffman,GeorgeHuffman,7101 N. Robinson Ave,OKC,OK,73116,ghuffman@iwrealty.com,Current Brokers,CCIM,,"InterWest Properties, Inc",405-752-2525,,405-752-5050,405-409-4400,www.iwrealty.com
+Weldon,,,Hughes,WeldonHughes,3301 N. Flamingo Avenue,Bethany,OK,73008,weldon@carey-hughes.com,Current Brokers,CHA,,Carey-Hughes Realty Advisors,405-949-0606,,,,
+Trevis,,,Hulse,TrevisHulse,"5727 S. Lewis, Ste 800",Tulsa,OK ,74105,thulse@bokf.com,Current Brokers,,,Bank of Oklahoma,918-293-7575,,,,
+Brian,,,Hunt,BrianHunt,777 West Cherokee Street,Catoosa,OK,74015,brian.hunt@cn-bus.com,Current Brokers,CCIM,,Cherokee Nation Businesses,,,,918-629-2045,www.cherokeespringsplaza.com
+Nancy,,,Ice,NancyIce,1000 Lake Vista Road,Edmond,OK,73034,nancy.a.ice@gmail.com,Current Brokers,"MBA, TRC, ABR",,"Fire & Ice Realty, Inc.",405-340-7227,,,405-202-5202,
+Collier,,,Imgrund,CollierImgrund,"2021 S. Lewis, Ste. 410",Tulsa,OK,74104,CImgrund@ngkf.com,Current Brokers,,,Newmark Grubb Levy Strange Beffort,918-508-2800,,,214-392-7828,
+Cara Leigh,,,Ingram,CaraLeighIngram,405 N Broadway Ave,Tulsa,OK,74105,cingram@mcgrawcp.com,Current Brokers,,,McGraw Commercial Properties,918-376-1216,,,214-213-3233,www.mcgrawcp.com
+Michael,J.,,Ives,MichaelIves,PO Box 52001,Tulsa,OK,74152,mives@ivesrealty.com,Current Brokers,CCIM,,"Ives Realty, Inc.",918-749-0070,,918-749-0072,918-855-0373,
+Jack,,,James,JackJames,,Oklahoma City,OK,,jack@hocker.com,Current Brokers,,,Hocker,,,405-840-4545,,
+Jeffery,,,James,JefferyJames,"3000 United Founders Blvd, Ste 119",OKC,OK,73112,jeffj@dominionrealestategroup.com,Current Brokers,,,Dominion Real Estate Group,405-840-8337,,,405-520-6715,
+Jordan,K.,,James,JordanJames,7910 South 101st East Ave.,Tulsa,OK,74133,JKJRealty@JKJCo.com,Current Brokers,CCIM,,JKJ Realty Company,918-495-1550,,918-495-1624,918-633-9496,www.JKJRealty.com
+Jennifer,,,Jennings,JenniferJennings,2117 Goliad Circle,Frisco,TX,75033,jennings@globalroofingcompany.com,Current Brokers,,,Global Roofing Co,,,,,
+Phillip,L.,,Jody,PhillipJody,PO Box 721377,Norman,OK,73070,pjody@cox.net,Current Brokers,,,Jody Realty Advisors,405-708-2100,,,,
+Amy,,,Johnson,AmyJohnson,"405 N Broadway Ave, Rm 520",OKC,OK,73102,ab6813@att.com,Current Brokers,,,AT&T Corporate Real Estate,405-278-4076,,405-278-4076,405-625-5389,www.attt.com
+Linda,,,Johnson,LindaJohnson,8723 E 101 PL,Tulsa,OK ,74133,lindajohnson1realtor@gmail.com,Current Brokers,,,Johnson & Johnson Realtors,918-282-2028,,,918-282-2028,
+Stan,,,Johnson,StanJohnson,6120 South Yale Ave. Suite 300,Tulsa,OK,74136,sjohnson@stanjohnsonco.com,Current Brokers,"CCIM, SIOR, CRE",,Stan Johnson Company,918-494-2690,,918-494-2692,918-671-5076,www.stanjohnsonco.com
+Terry,R.,,Jones,TerryJones,"2201 S. Utica Pl., Ste. 200",Tulsa,OK,74114,Terry.Jones@midfirst.com,Current Brokers,,,MidFirst Bank,918-293-6846,,,918-853-4448,
+Jared,,,Jones,JaredJones,"8908 S. Yale Ave., Ste 400",Tulsa,OK,74137,jjones@porthavenpartners.com,Current Brokers,CCIM,,Porthaven Partners,918-583-3483,,,918-948-3941,www.porthavenpartners.com
+Jim,,,Karey,JimKarey,"204 N. Robinson, 7th Fl",OKC,OK,73102,jkarey@ngkf.com,Current Brokers,CCIM,,Newmark Grubb Levy Strange Beffort,405-879-4774,,405-286-6108,405-203-1303,www.wigginprop.com 
+Chris,,,Kelley,ChrisKelley,8905 S Lewis Avenue #210,Tulsa,OK,74137,,Current Brokers,,,Herndon & Kelley Commercial Real Estate,918-488-1995,,918-492-5821,,
+Ron,G.,,Kelley,RonKelley,P.O. Box 1105,Jenks,OK,74037,ron@westecproperties.com,Current Brokers,,,Westec Realty,918-261-6351,,,918-261-6351,
+Larry,,,Kelley,LarryKelley,8905 S Lewis Avenue #210,Tulsa,OK,74137,lkkelley@cox.net,Current Brokers,CCIM,,Herndon & Kelley Commercial Real Estate,918-488-1995,,918-492-5821,,
+Todd,,,Kelvington,ToddKelvington,11105 S. 3rd St,Jenks,OK,74037,,Current Brokers,,,,,,,,
+Jason,,,Kennon,JasonKennon,4200 E. Skelly Dr. Suite 800,Tulsa,OK,74135,jkennon@caseusa.com,Current Brokers,CCIM,,"Case & Associates Properties, Inc.",918-492-1983,,918-492-2921,918-610-9353,
+Wally,,,Kerr,WallyKerr,"2500 McGee Dr, Suite 147",Norman,OK,73072,wkerr@sbcglobal.net,Current Brokers,,,Counter Canter Inc.,,,,,
+Mike,,,Kerran,MikeKerran,4401 N. Classen Blvd. Suite 400,OKC,OK,73118,mike@ccokcre.com,Current Brokers,CCIM,,Capital Commercial OKC Real Estate,405-604-3700,,405-604-3766,405-642-4455,www.ccokcre.com
+William,,,Kilpatrick,WilliamKilpatrick,6307 Waterford Blvd. Suite 240,Oklahoma City,OK,73118,wmk@kilpatrickassociates.com,Current Brokers,MAI,,"President |  & Associates, Inc.",405-843-7888,,405-843-6001,,
+Gary,,,King,GaryKing,"302 S Main St., ",BA,OK,74012,gking@bankavb.com,Current Brokers,,,AVB Bank,918-251-9611,,,,www.bankavb.com
+Clarence,,,Kinghman,ClarenceKinghman,"2010 S. Lewis, Ste 410",Tulsa,OK,74104,ckingham@ngkf.com,Current Brokers,,,Newmark Grubb Levy Strange Beffort,-918-508-2802,,918-938-6055,918-695-4197,
+Darrell,,,Kinion,DarrellKinion,2720 N. Hemlock Ct. Suite B,Broken Arrow,OK,74012,dkinion@propertytaxadvocate.net,Current Brokers,,,"Property Tax Advocate, LLC",918-258-8888,,918-258-8886,918-520-8483,www.propertytaxadvocate.net
+Leslie,,,Kirkpatrick,LeslieKirkpatrick,1807 Huntington Ave,OKC,OK,73116,,Current Brokers,,,"Kirkpatrick & Associates, Inc.",405-843-7888,,,,
+Matt,,,Klimisch,MattKlimisch,1401 S. Boulder Ave. #100,Tulsa,OK,74119,matt.klimisch@cbreok.com,Current Brokers,"CCIM, SIOR",,CB Richard Ellis Oklahoma,918-665-3830,,918-663-6402,918-645-3490,
+Crystal,,,Kline,CrystalKline,8716 S. Peoria Ave.,Tulsa,OK,74132,crystal@resetrestoration.com,Current Brokers,,,Reset Restoration Services,918-582-7373,,,918-521-8125,
+Joe,,,Kokojan,JoeKokojan,"101 Park Ave, #1010",Oklahoma City,OK,73102,joe.kokojan@svn.com,Current Brokers,,,Sperry Van Ness,405-602-3057,,405-602-2654,405-595-1846,www.svnbest.com
+Sherry,,,Kraus,SherryKraus,2000 N. Classen Blvd. Suite 225A,OKC,OK,73106,sherry.kraus@american fidelity.com,Current Brokers,,,American Fidelity Property Company,405-523-5717,,,405-818-3980,
+Gary,,,Krisman,GaryKrisman,4105 S. Rockford Ave.,Tulsa,OK,74105,gkrisman@mcgrawcp.com,Current Brokers,,,McGraw Commercial Properties,918-388-9588,,,918-812-7830,
+Keith,,,Kuhlman,KeithKuhlman,"204 N. ROBINSON, SUITE 900",OKC,OK,73102,keith.kuhlman@clo.ok.gov,Current Brokers,,,Commissioners of the Land Office,405-521-4012,,405-521-4444,,
+Steve,,,LaForge,SteveLaForge,2808 S. 4th Street,Chickasha,OK,73018,steve3@laforgeproperties.com,Current Brokers,,,LaForge Properties,405-222-3050,,405-222-1793,405-627-6246,
+Derek,,,LaGree,DerekLaGree,3000 United Founders Blvd #200,Oklahoma City,OK,73112,derek@lagree.biz,Current Brokers,CCIM,,"LaGree Associates, LLC",405-879-1171,,405-879-1174,,
+Jim,,,LaGree,JimLaGree,"3000 United Founders Blvd., Suite 200",OKC,OK,73112,jim@lagree.biz,Current Brokers,CCIM,,LaGree Associates,405-879-1171,,405-879-1174,405-627-8939,www.lagree.biz
+J. Russell,,Russell,Lair,RussellLair,2932 N.W. 122nd St. Ste #26,OKC,OK,73120,rlair@coxinet.net,Current Brokers,,,"Bidder-Up Auctioneers, Inc.",405-245-4155,,,,
+Leslie,,,Lake,LeslieLake,"2130 East 30th Place, Suite 1",Tulsa,OK,74114,leslielake1@gmail.com,Current Brokers,,,"Strata Group Investments, LLC",918-693-3608,,918-747-4818,918-693-3608,
+Kurt,,,Lampi,KurtLampi,"9522 E 47th Pl, Unit D",Tulsa,OK,74145,kurt.lampi@terracon.com,Current Brokers,,,"Terracon Consultants, Inc.",918-948-9861,,,918-520-2384,www.terracon.com
+Tawnie,,,Larsen,TawnieLarsen,P.O. Box 521165,Tulsa,OK,74152,tawnie.larsen@cbreok.com,Current Brokers,,,CB Richard Ellis/Oklahoma,,,,,
+David,,,Larsen,DavidLarsen,"Bank of Oklahoma Tower, PO Box 2300",Tulsa,OK,74192,dlarsen@bokf.com,Current Brokers,CCIM,,Bank of Oklahoma,918-588-6476,,918-588-6716,918852-5414,
+Brooke,,,Lawrence,BrookeLawrence,500 N. Walker Ave,Oklahoma City,OK,73102,,Current Brokers,,,Cherokee CRC,405-231-0044,,,,
+James,,,Lawrence,JamesLawrence,52890 Utica Square Station ,,OK,74152,jlawrence@trucrs.com,Current Brokers,,,Velocity Development Group,918-284-5000,,,918-284-1155,
+Ken,,,Lawton,KenLawton,4323 N. Classen Blvd. Suite 100,Oklahoma City,OK,73118,ken@hocker.com,Current Brokers,CCIM,,Coldwell Banker Hocker & Associates,405-840-4545,,405-525-3572,405-570-6789,
+L. Thomas,,Thomas,Lay,ThomasLay,"5500 NW Expressway, Suite C",OKC,OK,73132,thomas@thomaslay.com,Current Brokers,,,"Thomas Lay, Realtors",405-721-5588,,405-721-5557,405-831-6274,
+Stephen,T.,,Lay,StephenLay,"5500 NW Expressway, Suite C",OKC,OK,73132,Steve@thomaslay.com,Current Brokers,,,"Thomas Lay, Realtors",405-721-5588,,405-721-5557,405-831-6279,
+Terry,,,Lazar,TerryLazar,"5810 E Skelly Drive, Suite 1400",Tulsa,OK,74135,tlazar@naipetrous.us,Current Brokers,CCIM,,NAI Rupe Helmer,918-745-1133,,918-745-1120,918-605-0771,
+Lincoln,,,Leedy,LincolnLeedy,9139 S. Yale Ave,Tulsa,OK,74134,lincoln.leedy@midfirst.com,Current Brokers,,,MidFirst Bank,918-293-6890,,,813-468-4673,www.midfirst.com
+John,,,Lenochan,JohnLenochan,3401 NW 63rd St Ste 400,OKC,OK,73116,john.lenochan@cbre.com,Current Brokers,CCIM,,"CBRE, Inc.",405-607-6218,,,405-550-4171,www.cbre.com
+Tyler,,,Leonard,TylerLeonard,"320 S. Boston Ave., Ste. 200",Tulsa,OK,74103,tleonard@hallestill.com,Current Brokers,,,Hall Estill,918-594-0807,,,,
+Jeff,,,Lester,JeffLester,"5801 N Broadway, Ste. 120",Oklahoma City,OK,73118,jlester@wigginprop.com,Current Brokers,CCIM,,"Wiggin Properties, LLC",405-842-0100,,405-848-1061,405-990-4067,
+Mike,,,Lester,MikeLester,PO Box 226,Broken Arrow,OK,74013,mlester@ngkf.com,Current Brokers,CCIM,,Newmark Grub Levy Strange Beffort,918-481-3200,,918-938-6055,918-284-0700,www.levystrangebeffort.com
+Kimberly,,,Lewis,KimberlyLewis,4500 W. Houston St,Broken Arrow,OK,74012,klewis@firstitle.com,Current Brokers,,,First Title & Abstract Service,918-615-6809,,918-615-6709,,firstitle.com
+Dean,,,Lewis,DeanLewis,"5810 E Skelly Drive, Suite 1400",Tulsa,OK,74135,dlewis@naipetrous.us,Current Brokers,Broker,,NAI Petrous Commercial Properties,918-745-1133,,918-745-1120,918-607-2525,
+Kathy,,,Lippert,KathyLippert,1000 W. Wilshire Blvd #340,Oklahoma City,OK,73116,jlipp2001@aol.com,Current Brokers,,,"Greystone Environmental Services, Inc.",405-848-3750,,405-848-5932,,
+Jason,,,Little,JasonLittle,5729 N.W. 132nd Street,Oklahoma City,OK,73142,jason.little@yourcanopy.com,Current Brokers,CCIM,,Canopy Commercial | Auction,405-445-5550,,405-470-3464,,
+Donna,,,Little,DonnaLittle,"1401 S. Boulder Avenue, Suite 100",Tulsa,OK,74119,donna.little@cbre-ok.com,Current Brokers,CCIM,Transaction Manager,CB Richard Ellis/Oklahoma,918-392-7217,,918-663-6402,918-906-7008,
+Nick,,,Lombardi,NickLombardi,P.O. Box 52126,Tulsa ,OK ,74152,nick@frisbielombardi.com,Current Brokers,,,"Frisbie Lombardi Commercial Real Estate, LLC",918-747-7600,,918-512-4327,918-344-9904,www.frisbielombardi.com
+David,,,Looney,DavidLooney,4105 S. Rockford Ave,Tulsa,OK,74105,dlooney@mcgrawcp.com,Current Brokers,CCIM,,McGraw Commercial,918-388-9588,,918-398-5469,918-519-6151,
+Kathryn,,,Lopez,KathrynLopez,3114 East 81st Street,Tulsa,OK,74137,klopez@gbrproperties.com,Current Brokers,,,"GBR Properties, Inc.",918-493-2525,,918-493-2588,918-510-6266,
+Jeff,,,Lower,JeffLower,4500 W. Houston St,Broken Arrow,OK,74012,jlower@firstitle.com,Current Brokers,,,First Title & Abstract Service,918-615-6826,,918-615-6726,,firstitle.com
+Gala,,,Lowry,GalaLowry,"13821 Technology Dr., Ste. A",Tulsa,OK ,74134,austinhomesgala@aol.com,Current Brokers,,,Austin Properties,405-478-5000,,,405-590-0609,
+Casey,,,Lowther,CaseyLowther,,,,,casey.lowther@midfirst.com,Current Brokers,,,Midirst Bank,,,,,
+Garrett,,,Mahaney,GarrettMahaney,"5810 E Skelly Drive, 19th floor",Tulsa,OK,74135,garrett@paine-associates.com,Current Brokers,,,Paine & Associates,918-481-4380,,,,
+Matt,,,Mardis,MattMardis,"5810 E Skelly Drive, 19th floor",Tulsa,OK,74135,matt@paine-associates.com,Current Brokers,,,Paine & Associates,918-481-5380,,,,
+Michael,,,Marrara,MichaelMarrara,8301 East 74th Place,Tulsa,OK,74133,mikem@first-commercial.com,Current Brokers,,,First Commercial Real Estate Services,918-495-1551,,918-495-1742,918-230-3875,first-commercial.com
+Phil,,,Marshall,PhilMarshall,PO Box 701316,Tulsa,OK,74170,pemarshall2@cox.net,Current Brokers,,,"Philip E. Marshall, Realtors",918-638-5167,,918-749-5913,918-638-5167,
+Mary,K.,,Martin,MaryMartin,5555 East 71st Street,Tulsa,OK,74136,mary.martin@cbre.com,Current Brokers,CCIM,,"CBRE, Inc",918-392-7228,,918-663-6402,918-637-4769,
+Masil,M.,,Masilamani,MasilMasilamani,3816 Irvine Drive,Norman,OK,73072,mmasilamani@cox.net,Current Brokers,,,Masil Real Estate LLC,405-203-8323,,,,
+Casey,,,Massegee,CaseyMassegee,113 S. Broadway,Edmond,OK,73034,cmassegee@grantgroupok.com,Current Brokers,CCIM,,The Grant Group,405-410-5406,,,,
+Jeanette,,,Mattingly,JeanetteMattingly,"616 S. Boston, Suite 302",Tulsa,OK,74119,jmempire@swbell.net,Current Brokers,,,"Empire Properties, Inc.",918-585-2731,,,918-640-2442,
+Haley,,,Mauldin,HaleyMauldin,"2529 S. Kelly Ave, Ste. E",Edmond,OK,73013,haley@grantgroupok.com,Current Brokers,,,The Grant Group,405-285-2100,,405-285-2007,405-826-0983,
+Joe,,,Maxey,JoeMaxey,PO Box 29,Edmond,OK,73083-0029,maxcojoe@gmail.com,Current Brokers,,,"Maxco International, LLC",,,,,
+Nicole,,,Mayes,NicoleMayes,16001 Rim Road,Edmond,OK,73013,nicole@naisullivangroup.com,Current Brokers,,,NAI Petrous,,,,,
+Caitlin,,,Mazaheri,CaitlinMazaheri,3401 NW 63rd St Ste 400,OKC,OK,73116,caitlin.mazaheri@cbre.com,Current Brokers,,,"CBRE, Inc",405-607-6059,,405-607-6271,405-413-2315,
+Phillip,,,Mazaheri,PhillipMazaheri,210 Park Ave. Suite 1000,OKC,OK,73102,pMazaheri@priceedwards.com,Current Brokers,,,Price Edwards,405-834-7474,,405-236-1849,405-239-1221,
+Janice,,,McClaflin,JaniceMcClaflin,PO Box 32590,Oklahoma City,OK,73123,janicemc@att.net,Current Brokers,,Broker,"Janice McClaflin, Broker",405-787-8845,,405-495-1298,405-202-3588,
+Michael,,,McClendon,MichaelMcClendon,30 West 21st St,Tulsa,OK,74114,m-mc@swbell.net,Current Brokers,,,,,,,,
+James,,,McCoy,JamesMcCoy,1241 S. harvard Ave.,Tulsa,OK,74112,jim@mccoyproperties.com,Current Brokers,CCIM,,McCoy Property Company LLC,918-836-9800,,,,
+Bryan,C.,,McCracken,BryanMcCracken,2522 S. Columbia Ave.,Tulsa,OK,74114,bryan@bryanmccracken.com,Current Brokers,CCIM,,Tulsa Industrial,918-743-5080,,773-496-6610,918-630-4607,
+Jim,,,McDowell,JimMcDowell,5141 S. Peoria Ave. ,Tulsa,OK,74105,jim@mcdowellre.com,Current Brokers,,,"McDowell & Associates, Inc.",918-298-0800,107,918-298-0810,918-693-9173,
+Aimee,,,McKinney,AimeeMcKinney,"3000 United Founders Blvd., Suite 200",OKC,OK,73112,aimee@lagree.biz,Current Brokers,,,LaGree Associates,405-879-1171,,405-879-1174,405-414-2854,www.lagree.biz
+Ashley,,,McKinney,AshleyMcKinney,7633 E. 63rd Pl Ste. 300,Tulsa,OK,74133,ashley.mckinney@regus.com,Current Brokers,,,Regus ,918-459-4504,,,918-350-5425,www.regus.com
+John,W.,,Meek,JohnMeek,3719 N. Portland Avenue,OKC,OK,73112,john@fcmiokc.com,Current Brokers,RPA,,"First Commercial Management, INC",405-842-3599,,405-842-1599,405-630-8152,
+Mary,,,M�lon,MaryMelon,"101 N. Robinson, Ste. 101",Oklahoma City,OK,73102,mary.melon@journalrecord.com,Current Brokers,,President & Publisher,The Journal Record Publishing Company,405-235-3100,,405-278-6907,,
+Gina,,,Merrill,GinaMerrill,3150 East 41st Street #102,Tulsa,OK,74105,gmerrill@corprealtyadvisors.com,Current Brokers,,,"Corporate Realty Advisors, LLC",918-392-1950,,,918-902-4128,
+Rhonda,,,Meshew,RhondaMeshew,P.O. Box 2731,Tulsa,OK,74101,meshew@madrona-investment-co.com,Current Brokers,,,Madrona Investment Company,918-270-9069,,,918-830-1127,
+Jayne,,,Meyer,JayneMeyer,2448 E 81st Ste. 950,Tulsa,OK,74134,jmeyer@relyenergy.com,Current Brokers,,,Rely Energy,918-808-4920,,,918-633-6297,
+Anna,,,Milleret,AnnaMilleret,7506 East 91st Street,Tulsa,OK,74133,amilleret@tulsarealtors.com,Current Brokers,,,RE/MAX Executives,918-254-0600,,,,
+Carol,,,Moore,CarolMoore,"5314 S. Yale, Ste. 200",Tulsa,OK,74135,cmoore@oklahomatitle.com,Current Brokers,,,Oklahoma Title & Escrow Corporation,918-494-3966,210,918-492-5264,,www.oklahomatitle.com
+Trent,,,Moore,TrentMoore,2000 N. Classen Blvd. Suite 225A,OKC,OK,73106,trent.moore@af-group.com,Current Brokers,,,American Fidelity Property Company,405-523-5717,,405-523-5644,405-818-3980,
+Lindsey,,,Morehead,LindseyMorehead,"1401 S. boulder Ave., Ste. 100",Tulsa,OK,74119,lindseymorehead1@yahoo.com,Current Brokers,,,CBRE/Oklahoma,,,,,
+Scott,E.,,Morgan,ScottMorgan,"7134 S. Yale, Ave #300",Tulsa,OK,74136,smorgan@couryprop.com,Current Brokers,,,"Coury Properties, Inc.",918-583-0201,,918-583-6163,,
+Lowell,,,Morrill,LowellMorrill,7307 E. 74th,Tulsa,OK,74133,ldmorrill@cox.net,Current Brokers,,,"Morrill Realty, LLC",918-361-4218,,918-254-5758,,
+A. Daniel,,Daniel,Morris,DanielMorris,5729 NW 132nd Street,Oklahoma City,OK,73142,daniel.morris@yourcanopy.com,Current Brokers,,,Canopy Commercial | Auction,405-503-0027,,,,
+Cody,,,Mosley,CodyMosley,"210 N Main St, Ste C",BA ,OK,74012,cody.mosley@bachamber.com,Current Brokers,,,BAEDC,918-893-2113,,918-251-1777,,
+Gloria,,,Murphy,GloriaMurphy, 11188 E Skelly Dr,Tulsa,OK,74128-4205,gloria-murphyprop@swbell.net,Current Brokers,,,"Murphy Properties, Inc.",918-234-5000,,918-234-5002,,www.murphyproperties.com
+James,,,Murphy,JamesMurphy, 11188 E Skelly Dr,Tulsa,OK,74128-4205,park@murphyproperties.com,Current Brokers,,,"Murphy Properties, Inc.",918-234-5000,,918-234-5002,,www.murphyproperties.com
+Bob,,,Nale,BobNale,10 South Mission,Sapulpa,OK,74066,bnale@tulsarealtors.com,Current Brokers,,,Nale Realtors,918-224-6669,,918-224-5509,918-855-5900,
+Michael,,,Nalley,MichaelNalley,"Bank of Oklahoma Tower, PO Box 2300",Tulsa,OK,74192,michael.nalley@bokf.com,Current Brokers,CCIM,,Bank of Oklahoma,918-588-6476,,918-588-6716,918852-5414,
+Joe,,,Neal,JoeNeal,"611 W 15th St., Apt E1",Tulsa,OK,74127,JNeal@kanbarproperties.com,Current Brokers,,,Price Family Properties,918-581-3300,,,918-557-3216,
+John,,,Neas,JohnNeas,PO Box 700810,Tulsa,OK,74170,johnneas@tulsacoxmail.com,Current Brokers,CPA,,Mapco Plaza Building,918-749-7741,,918-749-7306,918-231-4454,www.mapcoplaza.com
+Robert,,,Nees,RobertNees,25825 S. Hwy 66,Claremore,OK,74019,rnees@johnwilliamsco.com,Current Brokers,,,John Williams Co.,918-688-6857,,,,
+Brady,,,Nguyen,BradyNguyen,320 S. Boston Ave ,,,,brady@capitalinsurances.com,Current Brokers,,,"Capital Insurance Partners, LLC",918-568-7809,,888-850-6177,918-232-4594,
+Theresa,,,Nicoletto,TheresaNicoletto,,,,,Theresa@JBTPropertySolutions.com,Current Brokers,,,JBT Property Solutions,405-548-5678,,,,
+Jeff,,,Norman,JeffNorman,P.O. Box 14586,OKC,OK,73113,jeff.norman@jahco.net,Current Brokers,,,"Jah Realty, L.P.",405-478-0601,,405-478-0605,405-990-4494,www.jahrealty.net
+Daniel,,,Ojeda,DanielOjeda,"101 Park Ave, #1010",Oklahoma City,OK,73102,daniel.ojeda@svn.com,Current Brokers,,,Sperry Van Ness,405-602-3046,,405-602-2654,405-206-9659,www.svnbest.com
+Danny,,,Overton,DannyOverton,6914 S Yorktown Ave,Tulsa,OK,74136,,Current Brokers,,,NAI Petrous,918-935-3484,,,,
+Russell,,,Pace,RussellPace,3101 Eton Avenue,Oklahoma City,OK,73122,oklahomaland@gmail.com,Current Brokers,,,Red Dot Commercial Real Estate,405-659-0101,,,,
+Brian,,,Paine,BrianPaine,"5810 E Skelly Drive, 19th floor",Tulsa,OK,74135,brian@paine-associates.com,Current Brokers,,,Paine & Associates,918-481-4380,,,,
+Scott,,,Parker,ScottParker,4645 S. 83rd East Avenue,Tulsa,OK,74145,,Current Brokers,,,RECO Enterprises,918-665-4244,,918-665-4245,,
+Bob,,,Parker,BobParker,"9726 East 42nd Street, Suite 100",Tulsa,OK,74146,bparker@techridgetulsa.com,Current Brokers,CCIM,,"TR Office Park, LLC",918-628-0810,,918-622-0919,918-605-5865,www.techridgetulsa.com
+David,,,Parrish,DavidParrish,"2720 N. Hemlock Ct, Suite C",Broken Arrow,OK,74012,david@parrishrealtors.com,Current Brokers,,,Parrish Company Realtors,918-250-9880,,918-250-4951,918-810-2873,
+Michael,R.,,Parrish,MichaelParrish,"2720 N. Hemlock Ct, Suite C",Broken Arrow,OK,74012,parrishrealtor@yahoo.com,Current Brokers,CCIM,,Parrish Company Realtors,918-250-9880,,918-250-4951,918-698-7807,
+Eric,,,Paschall,EricPaschall,PO Box 472147,Tulsa,OK,74147-2147,correprop@cox.net,Current Brokers,,President,"CORRE Properties, Inc.",918-437-8165,,,918-437-8165,
+Vicki,,,Patterson,VickiPatterson,"5100 E. Skelly Dr., Ste 110",Tulsa,OK,74135,vpatterson@wigginprop.com,Current Brokers,,,"Wiggin Properties, LLC",918-863-2462,,918-742-2322,918-519-6731,
+Daniel,,,Pellow,DanielPellow,"3000 United Founders Blvd., Suite 200",OKC,OK,73112,daniel@lagree.biz,Current Brokers,,,LaGree Associates,405-879-1171,,405-879-1174,405-596-2046,www.lagree.biz
+John,,,Pellow,JohnPellow,8990 S. Sheridan,Tulsa,OK,74012,john@pellowteam.com,Current Brokers,,,The Pellow Team,,,,918-697-5237,www.pellowteam.com
+Brad,J.,,Pepin,BradPepin," 6120 South Yale Ave., #300",Tulsa,OK,74136,bpepin@stanjohnsonco.com,Current Brokers,"CPA, CCIM",,Stan Johnson Company,918-494-2692,,,918-231-6792,www.stanjohnsonco.com
+Amy,,,Perez,AmyPerez,7633 E. 63rd Pl Ste. 300,Tulsa,OK,74133,amy.perez@regus.com,Current Brokers,,,Regus ,918-815-1118,,,405-229-3405,www.regus.com
+Arlene,,,Phillips,ArlenePhillips,320 S. Boulder Ave.,Tulsa,OK,74103,arlenep@guarantyabstract.com,Current Brokers,,,Guaranty Abstract Company,918-587-6621,,918-582-2228,,
+KC,,,Phillips,KCPhillips,"211 N Robinson Ave., Ste. 1950",OKC,OK,73102,kcphillips@gthokc.com,Current Brokers,,,Gardner Tanenbaum Holdings,405-524-8484,,405-521-1539,405-365-4166,www.gthokc.com
+Bobby,,,Pielsticker,BobbyPielsticker,"1401 S. Boulder Ave., Ste. 100",Tulsa,OK,74119,bob.pielsticker@cbre.com,Current Brokers,,,"CBRE, Inc",918-392-7261,,,918-760-4489,
+J.J.,,,Pierce,JJPierce,"5705 E. 71st Street, Suite 200",Tulsa,OK,74136,jjpierce@closingsoftulsa.com,Current Brokers,,President/Manager,"Closings of Tulsa, L.L.C.",918-493-2241,,918-392-2351,918-392-2301,
+Phil,,,Pippin,PhilPippin,5653 N. Penn,Oklahoma City,OK,73112,phil@pippinprop.com,Current Brokers,,,Pippin Properties,405-848-6161,,405-848-1980,,www.pippinprop.com
+Jodi,,,Placencia,JodiPlacencia,19900 E. 72nd St N,Owasso,OK,74055,jodi.placencia@cox.net,Current Brokers,,,,,,,,
+Marco,,,Placencia,MarcoPlacencia,5801 E. 41st St. Suite 101,Tulsa,OK,74135,marco@equitasrealty.com,Current Brokers,"CCIM, SIOR",,"Equitas Realty Advisors, LLC",918-280-9900,,918-280-9902,918-629-5091,www.equitasrealty.com
+Michael,C.,,Platt,MichaelPlatt,"11600 Broadway Extension, Ste 250",OKC,OK,73114,michael@vanguarddevelopment.com,Current Brokers,CCIM,,Vanguard Development Company,405-840-5081,,405-840-5084,,www.vanguarddevelopment.com
+Katie,,,Plohocky,KatiePlohocky,"7060 S. Yale Ave., Ste. 900",Tulsa,OK,74136,katie@walmancommercial.com,Current Brokers,,,"Walman Commercial Real Estate Services, LLC",918-481-8888,,918-481-8866,918-346-3788,
+Carl,,,Pojezny,CarlPojezny,P.O. Box 20837,OKC,OK,73156,cpojezny@cox.net,Current Brokers,,,Carl Pojezny Enterprises,405-840-4484,,,,
+Matt,,,Pollock,MattPollock,"6301 Waterford Blvd, Suite 101",Oklahoma City,OK,73118,matthewpollock@banksnb.com,Current Brokers,,,SNB Bank of Oklahoma City,405-427-4642,,405-427-4022,,banksnb.com
+Brett,,,Price,BrettPrice,"204 N. Robinson, Ste 700 1010",OKC,OK,73102,bprice@ngkf.com,Current Brokers,CCIM,,Newmark Grubb Levy Strange Beffort,405-606-7153,,405-602-2654,405-613-8380,
+Ted,,,Prince,TedPrince,"204 N. Robinson, Ste 700",OKC,OK ,73102,tprince@newmarklsb.com,Current Brokers,,,Newmark Grubb Levy Strange Beffort,405-840-1500,,,,
+Rick,,,Pritchett,RickPritchett,825 N. Broadway Ave. # 300,OKC,OK,73102,rick@precorruffin.com,Current Brokers,CCIM,,"Precor Ruffin, LLC",405-605-0825,,405-605-0850,405-826-3838,www.precorruffin.com
+Nick,,,Probst,NickProbst,3150 E. 41st #102,Tulsa,OK,74105,nick@cratulsa.com,Current Brokers,CCIM,,"Corporate Realty Advisors, LLC",918-392-1950,,918-392-1951,918-633-8507,www.craok.com
+Marolyn,,,Pryor,MarolynPryor,1700 E. Hwy. 152,Mustang,OK,73064,marolynpryor@sbcglobal.net,Current Brokers,"CCIM, CRB, CRS, GRI",,Coldwell Banker Select,405-745-8300,,405-745-4603,405-570-4588,www.cbokc.com
+Carl,,,Quist,CarlQuist,5709 E. 102nd Pl,Tulsa,OK,74137,cquist@naipetrous.us,Current Brokers,,,NAI Petrous,,,,,
+LB,,,Rainwater,LBRainwater,"12899 E. 79th St. N., Ste. 106",Owasso,OK,74055,linda.rainwater@genincome.com,Current Brokers,,,Generation Income Strategies,918-272-4456,,,918-272-9919,www.genincome.com
+Steve,,,Rankin,SteveRankin,320 S. Boulder Ave.,Tulsa,OK,74103,srankin@guarantyabstract.com,Current Brokers,,,Guaranty Abstract Company,918-587-6621,,918-582-2228,,
+Cole,,,Ream,ColeReam,900 W. Maple Ave.,Enid,OK,73701,cole@nicholascommercial.com,Current Brokers,,,Nicholas Commercial Real Estate,580-234-7200,,580-233-3639,580-484-8401,
+Indrek,,,Redard,IndrekRedard,401 S. Boston Ave. Suite 300,Tulsa,OK,74103,indrek@argueproperties.com,Current Brokers,,,Broker Associate | Coldwell Banker Commercial | Argue Properties Inc.,918-587-1900,,918-699-0324,918-605-4833,
+Jerry,,,Reed,JerryReed,4645 S. 83rd E. Ave.,Tulsa,OK ,74145,jerry@recoent.com,Current Brokers,,,RECO Enterprises,918-665-4244,,918-665-4245,,www.recoent.com
+Matt,,,Reese,MattReese,"1401 S. boulder Ave., Ste. 100",Tulsa,OK,74119,matt.reese@cbre.com,Current Brokers,,,"CBRE, Inc",918-392-7261,,,918-760-4489,
+Tulio,,,Remington,TulioRemington,3150 E. 41st #102,Tulsa,OK,74105,teremington@gmail.com,Current Brokers,,,"Corporate Realty Advisors, LLC",,,,918-409-3069,
+Robert,,,Reppe,RobertReppe,"7060 S. Yale, Suite 900",Tulsa,OK,74136,bob@walmancommercial.com,Current Brokers,,,Walman Commercial Real Estate,918-481-8888,,918-481-8866,,www.walmancommercial.com
+Greg,,,Reynolds,GregReynolds,4676 S. Trenton Ave,Tulsa,OK ,74105,greg@reunionpm.com,Current Brokers,,,Reunion PM,,,,,
+Brad,,,Rice,BradRice,"204 N. Robinson, Ste 700",OKC,OK ,73102,brice@newmarklsb.com,Current Brokers,,,Newmark Grubb Levy Strange Beffort,405-840-1500,,,,
+David,,,Rich,DavidRich,"6506 S. Lewis Ave, Ste. 108",Tulsa,OK,74136,,Current Brokers,,,,918-744-8474,,,,
+William,,Bill,Richards,WilliamRichards,4208 N. Spruce Ave.,Broken Arrow,OK,74012,bilric@valornet.com,Current Brokers,,,"Bill Richards and Associates, LLC",918-261-0096,,918-355-9335,918-261-0096,
+Bill,,,Richert,BillRichert,PO Box 2352,Tulsa,OK,74101,brichert@ccim.net,Current Brokers,"CCIM, SEC",,"Richert Properties, Inc.",918-743-6262,,918-550-8182,918-743-6262,
+Richard,W.,,Riddle,RichardRiddle,"5314 S. Yale, Ste. 200",Tulsa,OK,74135,rriddle@riddlewimbish.com,Current Brokers,Esq,,"Riddle & Wimbish, P.C.",918-494-3770,,918-492-5264,,www.riddlewimbish.com
+Cathy,,,Riley,CathyRiley,"2800 NW 36, #200",Oklahoma City,OK,73112,rileyc@bakerfirst.com,Current Brokers,,,Baker First,405-947-7200,,405-947-7270,,
+Steve,,,Robbins,SteveRobbins,4704 W. Louisville Place,Broken Arrow,OK,74012,steverobbins@cox.net,Current Brokers,,,Robbins Real Estate,918-691-5146,,,,
+David,,,Roberts,DavidRoberts,8522 E. 61st St.,Tulsa,OK,74133,drobertstulsa@gmail.com,Current Brokers,,,"Coldwell Banker Select, Realtors",,,,918-695-6979,droberts.cbtulsa.com
+DC,,,Roberts,DCRoberts,7510 E. 111th St. S. ,Bixby,OK,74008,dcroberts@cctulsa.com,Current Brokers,,,Chinowth & Cowhen Commercial,918-710-1704,,,918-710-1704,
+Don,,,Roberts,DonRoberts,329 S. Elm Ste 240,Jenks,OK,74037,don.roberts@commercialventures.org,Current Brokers,,Broker,"Commercial Ventures, LLC",918-794-9056,,918-492-1920,918-606-2999,
+Jeff,,,Roberts,JeffRoberts,PO Box 1861,Muskogee,OK,74402,,Current Brokers,CCIM,,Roberts Properties LLC,918-682-9033,,918-687-6032,,Moved to IL
+Jeffery,,,Roberts,JefferyRoberts,1918 N 11th St,Muskogee,OK,74401,jeffroberts@chenroberts.com,Current Brokers,CCIM,,Chen Roberts Corp,918-682-9033,,918-687-6032,,www.chenroberts.com
+Steve,,,Robin,SteveRobin,"1000 W. Wilshire, Suite 310",Oklahoma City,OK,73116,steve.robin@firstoklahoma.com,Current Brokers,CCIM,,First Commercial Capital,405-816-7788,,888-320-6805,405-816-7788,
+Roger,,,Rodich,RogerRodich,404 S. Boulder Ave.,Tulsa,OK,74103,roger@workspaceok.com,Current Brokers,,,"Workspace Resource, Inc",918-582-2404,110,,918-760-5732,
+Mark,,,Rooney,MarkRooney,3144 East 33rd St.,Tulsa,OK,74105,mark.rooney@cbre.com,Current Brokers,CCIM,,"CBRE, Inc",918-392-7213,,918-663-6402,918-760-0239,
+Briana,,,Ross,BrianaRoss,"7633 E. 63rd Pl., Ste. 300",Tulsa,OK,74133,tulsarealestatelawyer@gmail.com,Current Brokers,,,Law Office of Briana J. Ross PLLC,918-986-1524,,918-495-4550,918-770-2590,
+Barry,,,Ross,BarryRoss,PO Box 818,Ardmore,OK,73402,barry@rossgroupsold.com,Current Brokers,"CRB, CRS, GRI",,"Ross Group Real Estate, Inc.",580-223-2100,,580-226-5794,580-221-0793,
+Malcolm,,,Rosser IV,MalcolmRosser,321 S. Boston Ste 500,Tulsa,OK,74103,mac.rosser@crowedunlevy.com,Current Brokers,,,Crowe & Dunlevy,918-592-9838,,918-599-6328,918-230-4246,
+Tami,,,Rosson,TamiRosson,"1401 S Boulder, Ste 100",Tulsa ,OK,74119,tami.rosson@cbre-ok.com,Current Brokers,,,"CBRE, Inc",918-392-7296,,918-663-6402,918-645-9025,cbre.com
+John,,,"Rupe, Jr.",JohnRupe,"5810 E Skelly Drive, Suite 1400",Tulsa,OK,74135,jrupe@thepetrousgroup.com,Current Brokers,,President & CEO,"The Petrous Group, Inc.",918-749-5700,,918-749-5213,,www.nicholascommercial.com
+Johnathan,,,Russell,JohnathanRussell,114 NW 6th St. Suite 206,OKC,OK,73102,jrussell@lrcre.com,Current Brokers,CCIM,,"Land Run Commercial Real Estate Advisors, LLC",405-231-5700,,405-231-5701,405-203-6078,
+Russell,,,Sain,RussellSain,103 Mimosa Ln,Tahlequah,OK,74464,russell@russellsain.com,Current Brokers,,,Century 21 Wright Real Estate,918-577-7417,,,,
+Bradley,,,Sanditen,BradleySanditen,"3314 E. 51st St, #200a",Tulsa,OK,74135,brad@sanditenco.com,Current Brokers,,,Sandman Realty LLC,918-752-3315,,,,
+Max,,,Sasseen,MaxSasseen,1701 NW Cache Rd,Lawton,OK,73507,max@sasseenrealtygroup.com,Current Brokers,,,Sasseen Realty Group,580-695-8282,,,,oashows.org
+Candice,,,Schmook,CandiceSchmook,11644 S 76 E. Ave,Bixby,OK,74008,,Current Brokers,,,J Lynn Schmook Inc,918-492-5846,,,,
+J. Lynn,,Lynn,Schmook,LynnSchmook,2601 East 75th Street,Tulsa,OK,74136,jlschmook@aol.com,Current Brokers,MAI,,"J. Lynn Schmook, Inc.",918-492-5846,,918-895-8737,918-284-2047,
+Michael,,,Schnake,MichaelSchnake,5555 E. 71st St. #8300,Tulsa,OK,74136,mschnake@oilcapitalrealestate.com,Current Brokers,,,Oil Capital Commercial Real Estate,918-622-6066,,918-493-7450,,
+Jeff,,,Scott,JeffScott,7335 S. Lewis Ave. Suite 209,Tulsa,OK,74136,jeffscott@scottrealty.net,Current Brokers,,,Scott Realty Company,918-877-2797,,918-877-2666,918-691-8808,
+Justin,,,Scott,JustinScott,5100 E. Skelly Dr. Suite 450,Tulsa,OK,74135,jscott@enercon.com,Current Brokers,,,Enercon Services,918-665-7693,,918-665-7232,918-269-3431,
+Toby,,,Scrivner,TobyScrivner,"Two Warren Place 6120 South Yale Ave, Suite 813",Tulsa,OK,74136,tscrivner@stanjohnsonco.com,Current Brokers,,,"Director, Stan Johnson Company The Net Lease Authority?",918-494-2690,,918-494-2692,405-609-9195,
+Sam,,,Sendgraff,SamSendgraff,5313 S 30th West Ave,Tulsa,OK,,samsendgraff@gmail.com,Current Brokers,,,,,,,,
+Ryan,,,Shaffer,RyanShaffer,1401 S. Boulder Ave. #100,Tulsa,OK,74119,ryan.schaffer@cbre.com,Current Brokers,,,"CBRE, Inc",918-392-7203,,,918-231-4794,
+Rebecca,,,Sherwood,RebeccaSherwood,"1500 S Utica Ave, Ste 400",Tulsa,OK,74104,rsherwood@bluestemok.com,Current Brokers,,Senior Vice President/Attorney,BlueStem Escrow Title,918-779-4821,,918-561-6921,918-640-9449,
+Greg,,,Simmons,GregSimmons,,,,,,Current Brokers,,,,,,918-745-1065,918-629-4541,
+Indu,,,Singh,InduSingh,"4334 N.W. Expressway, Ste. 100",Oklahoma City,OK,73116,indus@jrfulton.com,Current Brokers,,Broker Associate,J.R. Fulton & Associates,405-840-0200,,405-840-3850,405-202-3417,www.jrfulton.com
+Ethan,,,Slavin,EthanSlavin,P.O. Box 14586,OKC,OK,73113,ethan.slavin@jahco.net,Current Brokers,CCIM,,"Jah Realty, L.P.",405-478-0601,,405-478-0605,405-830-0252,www.jahrealty.net
+Jim,,,Smith,JimSmith,"4845 S. Sheridan, Suite 509A",Tulsa,OK,74145,smith.and.smith@sbcglobal.net,Current Brokers,,,"Smith and Smith, Realtors",918-622-0402,,918-622-8875,918-671-8724,www.smithandsmithrealtors.com
+Lauren,,,Smith,LaurenSmith,4812 E. 81st St.,Tulsa,OK,74137,laurens@bankvnb.com,Current Brokers,,,Valley National Bank,918-524-3645,,918-5243679,918-261-8050,www.bankvnb.com
+Tim,,,Smith,TimSmith,14821 S. Memorial ,Bixby,OK,74008,credman@mabreybank.com,Current Brokers,,,Maybrey Bank,,,,,
+Clay,,,Smith,ClaySmith,"11835 S. Memorial, Suite C",Bixby,OK,74008,clay.smith@dtags.tv,Current Brokers,CCIM,,Rod Smith Company,918-622-1100,,918-622-1101,918-629-7727,
+James,A.,,Smith,JamesSmith,3216 N. 14th,Ponca City,OK,74601,jamesasmith@cableone.net,Current Brokers,"GRI,ABR, E. Pro,",Broker/Owner,Coldwell Banker Heritage Realtors,580-765-8888,,580-765-9597,580-761-3091,www.poncacityrealestate.com
+Alex,,,Snoddy,AlexSnoddy,2945 W. Hefner Rd,OKC,OK,73120,alex@snoddyproperties.com,Current Brokers,,,"Snoddy Properties, Inc.",405-748-3383,,405-748-3386,405-630-5432,
+James,,Jim,Snoddy,JamesSnoddy,2945 W. Hefner Rd.,OKC,OK,73120,spimail@snoddyproperties.com,Current Brokers,CPM,,"Snoddy Properties, Inc.",405-748-3383,,405-748-3386,405-630-5432,
+Katy,,,Spetter,KatySpetter,7306 S.Lewis,Tulsa,OK,74136,kspetter@ameagletitle.com,Current Brokers,,,American Eagle Title Insurance Company,918-521-6400,,,,
+Brian,,,Stanley,BrianStanley,P.O. Box 2177,OKC,OK,73101,bstanley@hefnerco.com,Current Brokers,,,"The Hefner Company, Inc.",405-236-4404,,,,
+Phyllann,,,Stansbarger,PhyllannStansbarger,"5711 East 71st Street, Suite 100",Tulsa,OK,74133,pstansbarger@mcgrawcp.com,Current Brokers,,,McGraw Commercial Properties,918-388-9588,,918-398-5234,214-912-6666,
+Jim,,,Stephens,JimStephens,P.O. Box 580785,Tulsa,OK,74158,jim@jsokvest.com ,Current Brokers,,,JPS Real Estate,918-346-6326,,,918-810-5411,www.leasedowntowntulsa.com
+Grant,,,Stewart,GrantStewart,PO Box 52808,Tulsa,OK,74152,,Current Brokers,,,"Adwon Properties, Inc.",918-749-9555,,918-749-9585,,
+Warren,,,Stewart,WarrenStewart,7020 E 82nd st,Tulsa,OK,74133,wstewart@ngkf.com,Current Brokers,,,WLS Inc,918-481-3200,,918-938-6055,918-409-5611,
+Fontaine,,,Still,FontaineStill,6100 East 51st,Tulsa,OK,74135,fontaine.still@bankofthewest.com,Current Brokers,,,Bank of the West,918-877-4560,,,918-629-4375,bankofthewest.com
+John,,,Story III,JohnStory,"9726 E. 42nd Street, Suite 139",Tulsa,OK,74146,jstory@tulsarealtors.com,Current Brokers,"CCIM, RPA",,Story & Associates,918-610-1135,,,918-610-1135,
+Terry,J.,,Stradal,TerryStradal,7400 N. Western,Oklahoma City,OK,73116,tstradal@bankrcb.net,Current Brokers,,,RCB Bank of Nichols Hills,405-463-5901,,405-843-4724,,
+Tim,,,Strange,TimStrange,"204 N. Robinson, Suite 700",OKC,OK,73102,tstrange@ngkf.com,Current Brokers,CCIM,,Newmark Grub Levy Strange Beffort,405-605-6628,,405-772-7480,405-772-7480,www.ngkfok.com
+Sheila,,,Stringer,SheilaStringer,12150 E 96th St N. #100,Owasso,OK,74055,sheilastringer@sbcglobal.net,Current Brokers,,,KW Commercial,918-272-0809,,918-272-4742,918-812-8955,www.kwcommercial.com
+Richard,,,Sudduth,RichardSudduth,8301 East 74th Place,Tulsa,OK,74133,richards@first-commercial.com,Current Brokers,,,First Commercial Real Estate Services,918-495-1551,,,,
+Amanda,,,Sullivan,AmandaSullivan,"4045 NW 64, Ste 340",OKC,Ok,73116,amanda.sullivan7@gmail.com,Current Brokers,,,NAI Sullivan Group,405-840-0600,,405-840-0610,,
+Bob,,,Sullivan,BobSullivan,"4045 NW 64, Ste 340",OKC,Ok,73116,rsullivan@ccim.net,Current Brokers,CCIM,,NAI Sullivan Group,405-840-0600,,405-840-0610,405-641-9798,naisullivangroup.com
+Leonard,E.,,Sullivan,LeonardSullivan,12632 Val Verde Drive,,OK,73142,houserep@cox.net,Current Brokers,"CCIM, GRI ",,Leonard E. Sullivan Co.,405-751-9422,,405-751-9422,405-590-3806,
+Cathy,,,Sung,CathySung,8990 S Sheridan,Tulsa,OK,74133,csung@cbtulsa.com,Current Brokers,,,"Coldwell Banker Select, Realtors",918-496-3333,,918-388-8560,918-855-0267,cathysunghomes.com
+Sam,,,Swanson,SamSwanson,"4045 N.W. 64th Street, Suite 410",Oklahoma City,OK,73116,sam@naisullivangroup.com,Current Brokers,,,NAI Sullivan Group,405-840-0600,,,,
+Brian,,,Talkington,BrianTalkington,7042 S Union Ave,Tulsa,OK,74132,,Current Brokers,,,American Heritage Bank,918-224-3210,,918-299-3234,,
+Treak,,,Tasker,TreakTasker,"8023 E. 63rd Place, #525",Tulsa,OK,74133,ttasker@hollidaymortgage.com,Current Brokers,,,Holiday American Mortgage ,918-499-2936,,,918-629-0964,
+Natalie,,,Thomas,NatalieThomas,,,,,natalie.thomas@cbre-ok.com,Current Brokers,,,CBRE OK,,,,,
+Warren,,,Thomas,WarrenThomas,132 W. Main St.,Purcell,OK,73080,,Current Brokers,,,Intervest Development,405-527-0102,,405-527-0104,,
+George,,,Thomas,GeorgeThomas,PO Box 52725,Tulsa,OK,74152,gmthomas@ccim.net,Current Brokers,CCIM,,Whiteside and Grant Realtors,918-697-4400,,918-743-9957,918-697-4400,
+Mathew,,,Thompson,MathewThompson,,,,,,Current Brokers,,,,,,,,
+Mickey,,,Thompson,MickeyThompson,"1503 N. Lynn Riggs, Suite D",Claremore,OK,74017,mickeythompson@crcpartnership.com,Current Brokers,,,Claremore Rogers County Partnership,918-343-8959,,,918-625-9999,
+Kate,,,Thorp,KateThorp,"401 S. Boston Ave., Ste 3400",Tulsa,OK,74103,kate@metrocomadvisors.com,Current Brokers,,,"Metro Commercial, LLC",918-906-0660,,,,
+Craig,,,Tomlinson,CraigTomlinson,6120 South Yale Ave. Suite 300,Tulsa,OK,74136,ctomlinson@stanjohnson.com,Current Brokers,CCIM,,Stan Johnson Company,918-494-2690,,918-494-2692,,www.stanjohnsonco.com
+Sam,,,Townley,SamTownley,PO Box 655,Oklahoma City,OK,73101,s5t@cox.net,Current Brokers,,,Townley Realtors,405-672-1063,,405-702-0013,405-816-7722,
+Robert,,,"Triplett, Jr.",RobertTriplett,4444 E. 66th #203,Tulsa,OK,74136,rtriplett@triplettassociates.com,Current Brokers,CPM,,"Triplett & Associates, Inc.",918-492-4444,,918-492-4496,918-625-5546,www.TriplettAssociates.com
+Chris,,,Trojan,ChrisTrojan,P.O. Box 1211 Enid,Enid,OK,73702,ctrojan@gmail.com,Current Brokers,,,"Real Estate Results, LLC",580-977-9499,,,580-402-1600,gorealestateresults.com
+Angela,,,Troutz,AngelaTroutz,501 NW Grand Blvd,OKC ,OK,74,,Current Brokers,,,MidFirst Bank,,,405-767-5918,918-406-2838,
+Kate,,,Turner,KateTurner,"401 S. Boston Ave., Ste 3400",Tulsa,OK,74103,kate@metro-commercial.net ,Current Brokers,,,"Metro Commercial, LLC",918-906-0660,,,918-906-0660,
+Ron,,,Turner,RonTurner,4231 S. Hocker Dr.,Independence,MO,64055,rturner@xceligent.com,Current Brokers,,,rturner@xceligent.com,918-361-8581,,,,
+Warren,,,Unsicker,WarrenUnsicker,"210 N Main St, Ste C",BA ,OK,74012,warren.unsicker@baedc.com,Current Brokers,CEcD,,BAEDC,918-893-2113,,918-251-1777,918-804-9561,www.brokenarrowretail.com
+Thomas,,,Van Ness,ThomasVanNess,406 S. Boulder Ste 400,Tulsa ,OK ,74103,thomas@globalroofingcompany.com,Current Brokers,,,Global Roofing Company,800-257-3758,,888-614-9559,405-761-3876,www.globalroofingcompany.com
+Doug,,,Vaughn,DougVaughn,4706 E. 105th Pl,Tulsa,OK,74137,dmvaughn@cox.net,Current Brokers,,,Vaughn Investment LLC,918-645-3850,,918-645-3850,,
+Tom,,,Vaught,TomVaught,"3000 United Founders Blvd., Suite 200",OKC,OK,73112,tvaught@lagree.biz,Current Brokers,,,LaGree Associates,405-879-1171,,405-879-1174,,www.lagree.biz
+Carey,,,Velez,CareyVelez,4105 S. Rockford Ave,Tulsa,OK,74105,cvelez@mcgrawcp.com,Current Brokers,,,McGraw Commercial Properties,918-845-7669,,,,
+Carl,,,Vincent,CarlVincent,3150 E. 41st St. #102,Tulsa,OK,74105,cvincent@corprealtyadvisors.com,Current Brokers,CCIM,Principal,"Corporate Realty Advisors, LLC",918-633-8507,,918-392-0093,918-633-8507,www.craok.com
+Shawn,,,Vyas,ShawnVyas,14640 Salem Creek Rd,OKC,OK,73112,shawnvyas@gmail.com,Current Brokers,,,,,,,,
+Brad,,,Waken,BradWaken,1022 Hite Blvd.,Enid,OK,73703-7929,brad@wakencompany.com,Current Brokers,"CCIM, CPM, SCSM, CLS","CPM,",Waken and Company Realty,580-237-5634,,580-352-3574,580-548-6097,www.wakencompany.com
+Sally,,,Wales,SallyWales,"4739 E. 91st St, 200",Tulsa,OK,74137,swales@commercialtitleok.com,Current Brokers,,,Commercial Title & Escrow Services,918-556-6336,,918-317-6347,918-809-3416,www.commercialtitleok.com
+Steve,,,Walman,SteveWalman,"7060 S. Yale, Suite 900",Tulsa,OK,74136,steve@walmancommercial.com,Current Brokers,,,Walman Commercial Real Estate,918-481-8888,,918-481-8866,,www.walmancommercial.com
+Stephen,,,Walton,StephenWalton,8282 S. Memorial Dr. Suite 302,Tulsa,OK,74133,swalton@wpsok.com,Current Brokers,CCIM,,Walton Property Services,918-712-9992,,918-742-3061,918-230-4664,
+Keith,,,Walvoord,KeithWalvoord,1501 E. Dover,Broken Arrow,OK,74012,keithwalvoord@costargroup.com,Current Brokers,,,CoStar Group,,,,405-441-3755,costar.com
+Kenneth,,,Webb,KennethWebb,5121 S. Wheeling Ave.,Tulsa,OK,74105,kwebb@blackshare-env.com,Current Brokers,,,Blackshare Environmental Solutions,918-388-0970,,918388-0971,918-694-4949,
+Marc,,,Weinmeister,MarcWeinmeister,1913 Chaparral Lane,Edmond,OK,73013,marc@commercialokc.com,Current Brokers,CCIM,,CommercialOKC,405-410-6272,,208-275-8008,405-410-6272,www.commercialokc.com
+Joe,,,Westervelt,JoeWestervelt,1630 S. Boston Ave.,Tulsa,OK,74119,jwestervelt@mapleviewassociates.com,Current Brokers,,,Mapleview Associates Inc.,918-583-8808,,918-583-8848,918-607-8808,
+Mark,,,White,MarkWhite,909 S. Meridan Ave.Ste 500,OKC,oK,73108,markw@compassproperty.net,Current Brokers,CCIM,,Compass Properties,405-605-5885,,,,
+Stefanie,,,Whitener,StefanieWhitener,15 E 5th #1600,Tulsa,OK,74103,swhitener@kanbarproperties.com,Current Brokers,,,Kanbar Property Management,918-581-3300,,,,
+Scott,,,Wieczorek,ScottWieczorek,"3030 NW Expressway, Suite LL55",OKC,OK,73112,scott@gbrproperties.com ,Current Brokers,CCIM,,"GBR Properties, Inc.",405-848-9388,,405-605-6317,405-210-3894,www.gbrproperties.com
+Cecilia,,,Wilkins,CeciliaWilkins,7955 S. 69th E. Ave.,Tulsa,OK,74133,ceciliawilkins@cox.net,Current Brokers,,,W3 Real Estate,918-902-8959,,918-496-212,,
+Matt,,,Wilkinson,MattWilkinson,221 S. Elm,Jenks,OK,74037,mwilkinson@citizenssecurity.com,Current Brokers,,,Citizens Security,,,,,
+Haley Jo,,,Williams,HaleyJoWilliams,4105 S. Rockford Avenue,Tulsa,OK,74105,hwilliams@mcgrawcp.com,Current Brokers,,,McGraw CP,918-781-3999,,918-398-5140,918-781-3999,mcgrawcp.com
+George,,,Williams,GeorgeWilliams,21205 Penny Royal Dr.,Pflugerville,TX,78660,george.m.williams@outlook.com,Current Brokers,,,,,,,,
+Steve,,,Williams,SteveWilliams,"3550 W. Robinson, #200",Norman,OK,73072,sw@dillardgroup.com,Current Brokers,CCIM,,Dillard Group Real Estate,405-366-7707,,405-290-1277,405-740-4949,www.dillardgroup.com
+John,,,"Williams, Sr.",JohnWilliams,25825 S. Hwy 66,Claremore,OK,74019,johnsr@johnwilliamsco.com,Current Brokers,,,John Williams Co.,918-341-1999,,918-341-5258,918-605-4644,
+Becca,,,Wilson,BeccaWilson,9142 S. Sheridan Road,Tulsa,OK,74133,bwilson@spherexx.com,Current Brokers,,,Spherexx,918-491-7500,,214-853-5547,918-808-7500,www.spherexx.com
+Brian,,,Wilson,BrianWilson,,,,,,Current Brokers,,,,,,,,
+Howard,,,Wolf,HowardWolf,320 S. Boston Ave. #1026,Tulsa,OK,74103,howardwolf@ccim.net,Current Brokers,CCIM,,"Wolf Group Properties, LLC�",918-592-5055,,918-584-1425,918-704-0395,www.wolfgroupproperties.com 
+Bradley,,,Worster,BradleyWorster,"132 N. Santa Fe, P.O. Box 928",Norman,OK,73070,Brad@JRFulton.com,Current Brokers,"CCIM,CPM",,"JR Fulton & Associates, Inc.",405-701-0200,,405-701-0288,405-206-8911,www.JRFulton.com
+Sue,,,Yoon,SueYoon,1624 S.W. 122nd Street,Oklahoma City,OK,73170,sueyoon@kw.com,Current Brokers,,,Keller Williams Realty,405-691-2556,,,,
+Becky,,,Young,BeckyYoung,P.O. Box 851700,Yukon,OK,73085,beckyyoung@ynbok.com,Current Brokers,,,Yukon National Bank,405-354-5281,,405-354-0857,,
+Lindsay,,,Young,LindsayYoung,9362 S. Meridian,"Haysville,",KS,67060,lindsay@numarketingllc.com,Current Brokers,,,nu marketing llc,,,,316-680-3097,www.numarketingllc.com
+Frank,K.,,Young,FrankYoung,PO Box 176,OKC,OK,73101,fkyoung@thefirstplace.com,Current Brokers,CCIM,,Young International,405-340-2500,,405-341-0492,405-205-6325,
+C.,M.,,Zeeck,Czeeck,PO Box 18143,OKC,OK,73154,spectrum@coxinet.net,Current Brokers,"CPM, Emeritus",,"Spectrum Management Service, LLC",405-848-9400,,405-848-9990,,
+Charles,,,Ziegenhain,CharlesZiegenhain,211 N. Robinson Ave.,Oklahoma City,OK,73102-7109,charles.ziegenhain@baml.com,Current Brokers,,Senior Vice President,Bank of America Merrill Lynch,405-230-1741,,800-898-3155,580-304-2647,www.bankofamerica.com 
+R,,,Zilm,RZilm,,,,,,Current Brokers,,,,,,,,
+John,,,Zimmerman,JohnZimmerman,"6120 S. Yale, Ste. 813",Tulsa,OK,74136,jzimmerman@stanjohnsonco.com,Current Brokers,CCIM,,Stan Johnson Company,918-494-2690,,,918-906-7747,www.stanjohnsonco.com

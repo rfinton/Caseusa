@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  </head>
+  <body>
+    <form method="post">
+      <input type="text" name="browser">
+      <input type="text" name="os">
+    </form>
+
+    <script src="http://s3.amazonaws.com/caseusa/node_modules/detect-browser/index.js"></script>
+    <script>
+      var browser = detect();
+      document.querySelector('input[name=browser]').value = browser.name;
+      document.querySelector('input[name=os]').value = browser.os;
+      document.forms[0].submit();
+    </script>
+  </body>
+</html>
