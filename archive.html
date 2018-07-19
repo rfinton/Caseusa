@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="cache-control" content="no-cache">
+    <title>Case and Associates</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="http://s3.amazonaws.com/caseusa/node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="http://s3.amazonaws.com/caseusa/node_modules/bootstrap/dist/css/bootstrap-theme.min.css">
+    <style>
+      @font-face {
+        font-family:'Aleo Bold';
+        src: url('http://s3.amazonaws.com/caseusa/assets/fonts/Aleo-Bold.otf');}
+      @font-face {
+        font-family:'Aleo Light';
+        src: url('http://s3.amazonaws.com/caseusa/assets/fonts/Aleo-Light.otf');}
+      @font-face {
+        font-family:'Aleo';
+        src: url('http://s3.amazonaws.com/caseusa/assets/fonts/Aleo-Regular.otf');}
+      
+      body { background-color: gray; }
+      .container { background-color: white; font-family: 'Aleo', Arial, Helvetica, sans-serif; padding-bottom: 60px; }
+      #page-banner { padding: 30px 0px 30px 60px; }
+      #page-banner img:nth-child(1) { width: 25%; opacity: 0; }
+      #page-banner img:nth-child(2) { width: 25%; opacity: 0; }
+      b { font-family: 'Aleo Bold', Arial, Helvetica, sans-serif; }    
+      h2 { color: #E33526; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+      .top-border-red { border-top: solid 30px #E33526; }
+      .bottom-border-red { border-bottom: solid 6px #E33526; }
+      .thumbs { padding-top: 15px; }
+      .thumbs img {
+        cursor: pointer;
+        border: solid 1px #E33526;
+        margin: 6px;
+        width: 150px;
+      }
+      .preview { 
+        background-color: black;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        min-height: 420px;
+        padding: 12px;
+        color: white;
+        text-align: center;
+      }
+      .preview img { width: 100%; }
+      
+      @media screen and (max-width: 440px) {
+        #page-banner { padding: 15px; text-align: center; }
+        #page-banner img:nth-child(1) { width: 45%; }
+        #page-banner img:nth-child(2) { width: 45%; }
+        
+      }
+    </style>
+    <script src="https://s3.amazonaws.com/caseusa/node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="https://s3.amazonaws.com/caseusa/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="https://s3.amazonaws.com/caseusa/node_modules/velocity/velocity.min.js"></script>
+    <script src="https://s3.amazonaws.com/caseusa/node_modules/velocity/velocity.ui.min.js"></script>
+    <script src="https://s3.amazonaws.com/caseusa/assets/js/month2.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <div id="page-banner" class="row">
+        <img onload="slideDownIn(this)" src="https://s3.amazonaws.com/caseusa/assets/img/caseCubeLogo.svg">
+        <img onload="slideLeftIn(this)" src="https://s3.amazonaws.com/caseusa/assets/img/caseHeaderText.svg">
+      </div>
+
+      <div class="row top-border-red bottom-border-red">
+        <div class="col-xs-12 col-sm-4 thumbs"></div>
+        <div class="col-xs-12 col-sm-8">
+          <div class="preview">Image preview</div>
+        </div>
+      </div>
+    </div> <!-- End Bootstrap Container /-->
+
+    <script type="text/template" id="southern-hills">
+      <h3>Southern Hills</h3>
+      <img src="assets/img/SouthernHills.jpg">
+      <img src="assets/img/southernHills-floorplan-1.jpg">
+      <img src="assets/img/southernHills-floorplan-2.jpg">
+      <img src="assets/img/southernHills-floorplan-3.jpg">
+      <img src="assets/img/southernHills-floorplan-4.jpg">
+      <h4>Amenities:</h4>
+      <ul class="amenities">
+        <li>Magnificent view of Southern Hills Country Club and golf course</li>
+        <li>High quality</li>
+        <li>Class A office building</li>
+        <li>Nearby restaurants</li>
+        <li>Retail centers</li>
+        <li>Hotels</li>
+        <li>Convention facilities</li>
+        <li>Exclusive residential neighborhoods</li>
+        <li>Easy access to I-44, Hwy 75, Riverside Dr, Creek Turnpike</li>
+        <li>Superior landscaping with superb seasonal color</li>
+        <li>State-of-the-art electronic card access system</li>
+        <li>Free abundant lighted parking</li>
+        <li>Executive covered parking</li>
+        <li>On-site banking facilities with ATM</li>
+        <li>On-site full-service brokerage house</li>
+        <li>On-site deli</li>
+        <li>First class, professional management and strong ownership</li>
+        <li>On-site security guard</li>
+      </ul>
+    </script>
+
+    <script type="text/template" id="park-tower">
+      <h3>Park Tower</h3>
+      <img src="http://admin.caseusacommercial.com/Images/Park_Towers_outside2.jpg">
+      <img src="https://s3.amazonaws.com/caseusa/assets/img/parkTower-floorplan-0.jpg">
+      <img src="https://s3.amazonaws.com/caseusa/assets/img/parkTower-floorplan-1.jpg">
+      <img src="https://s3.amazonaws.com/caseusa/assets/img/parkTower-floorplan-2.jpg">
+      <img src="https://s3.amazonaws.com/caseusa/assets/img/parkTower-floorplan-3.jpg">
+      <img src="https://s3.amazonaws.com/caseusa/assets/img/parkTower-floorplan-4.jpg">
+      <img src="https://s3.amazonaws.com/caseusa/assets/img/parkTower-floorplan-5.jpg">
+      <h4>Amenities:</h4>
+      <ul class="amenities">
+        <li>Security card access system</li>
+        <li>On-site snack shop</li>
+        <li>On-site gym</li>
+        <li>Interior outgoing mailboxes</li>
+        <li>Climate control</li>
+        <li>Building conference room</li>
+        <li>Free abundant lighted parking</li>
+        <li>On-site bank facilities w/ATM</li>
+        <li>Magnificent view of LaFortune Golf Course</li>
+        <li>First-class, professional management and strong ownership</li>
+      </ul>
+    </script>
+
+    <script type="text/template" id="richmond-plaza">
+      <h3>Richmond Plaza</h3>
+      <img src="https://s3.amazonaws.com/caseusa/assets/img/Richmond.jpg">
+      <img src="https://s3.amazonaws.com/caseusa/assets/img/richmond-floorplan-0.jpg">
+      <img src="https://s3.amazonaws.com/caseusa/assets/img/richmond-floorplan-1.jpg">
+      <img src="https://s3.amazonaws.com/caseusa/assets/img/richmond-floorplan-2.jpg">
+      <img src="https://s3.amazonaws.com/caseusa/assets/img/richmond-floorplan-3.jpg">
+      <img src="https://s3.amazonaws.com/caseusa/assets/img/richmond-floorplan-4.jpg">
+      <h4>Amenities:</h4>
+      <ul class="amenities">
+        <li>On-site security guard</li>
+        <li>On-site deli</li>
+        <li>Immediate access to the city's expressways</li>
+        <li>Less than 15 mins to downtown and airports</li>
+        <li>Near popular residential neighborhoods of south Tulsa</li>
+        <li>Three mins to Southern Hills Country Club</li>
+        <li>Near hotels, restaurants, shopping and recreation</li>
+        <li>Home to many of the city's better firms</li>
+      </ul>
+    </script>
+
+    <script>
+      $(document).ready(function() {
+
+        function getArchive() {
+          var d = location.href;
+
+          var locations = {
+            southernhills: $('#southern-hills').html(),
+            parktower: $('#park-tower').html(),
+            richmondplaza: $('#richmond-plaza').html()
+          };
+          
+          for(var x in locations) {
+            if(d.search(x) > -1) {
+              $('.thumbs').html(locations[x]);
+              $('.thumbs img').click(function() {
+                $('.preview').html('');
+                $(this).clone().appendTo('.preview');
+              });
+              return;
+            }
+          }
+        }
+
+        getArchive();
+      });
+    </script>
+  </body>
+</html>
