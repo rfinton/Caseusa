@@ -20,7 +20,7 @@ $(document).ready(function() {
     document.body.appendChild(ifr);
   });
 
-  $('#modal-gallery .modal-footer').click(function() {
+  $('#modal-gallery .modal-footer, #feat-prop button').click(function() {
     var ifr = document.createElement('iframe');
     ifr.style.display = 'none';
     ifr.style.border = 'none';

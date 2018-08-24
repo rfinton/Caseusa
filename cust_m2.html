@@ -25,7 +25,9 @@
       }
       body { background-color: gray; }
       .container { background-color: white; font-family: 'Aleo', Arial, Helvetica, sans-serif; padding-bottom: 60px; }
-      #page-banner { padding: 30px 0px 30px 60px; }
+      #page-banner { 
+        text-align: center;
+        padding: 30px 0px 30px 60px; }
       #page-banner img:nth-child(1) { width: 25%; opacity: 0; }
       #page-banner img:nth-child(2) { width: 25%; opacity: 0; }
       #video { display: flex; justify-content: center; border-top: solid 30px #E33526; border-bottom: solid 30px #E33526; height: 540px; }
@@ -39,7 +41,6 @@
       .feat > div > div > a > img { width: 25%; float: left; margin-right: 30px; }
       .feat > div > div > img:nth-child(1) { width: 25%; float: left; margin-right: 30px; }
       .feat > div > div > img:nth-child(2) { width: 32%; float: right; margin-top: -6%; }
-      #feat-prop h3 { display: inline-block; margin-right: 30px; }
       h2 { color: #E33526; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
       .bottom-border-red { border-bottom: solid 6px #E33526; }
       #copy, #feat-prop, #feat-tenant, #archives { width: 85%; margin: auto; }
@@ -65,7 +66,8 @@
         border-radius: 50px;
         border: solid 3px #e33526;
         background-size: cover;
-        background-position: center; }
+        background-position: center;
+        vertical-align: middle; }
       #archives #southern-hills {
         background-image: url('http://s3.amazonaws.com/caseusa/assets/img/SouthernHills.jpg'); }
       #archives #park-tower {
@@ -73,17 +75,11 @@
       #archives #richmond-plaza {
         background-image: url('http://s3.amazonaws.com/caseusa/assets/img/Richmond.jpg'); }
 
-      @media screen and (max-width: 420px) {
+      @media screen and (max-width: 440px) {
         #page-banner { padding: 15px; text-align: center; }
         #page-banner img:nth-child(1) { width: 45%; }
         #page-banner img:nth-child(2) { width: 45%; }
         #video { height: 340px; }
-        .feat > div > div > a > img { width: 100%; }
-        #feat-prop { text-align: center; }
-        #feat-prop button { margin: 15px 0; }
-        #feat-prop h3 { display: block; margin-right: inherit; }
-        .feat > div > div > img:nth-child(1) { width: 50%; float: none; }
-        .feat > div > div > img:nth-child(2) { width: 55%; }
       }
     </style>
     <script src="http://s3.amazonaws.com/caseusa/node_modules/jquery/dist/jquery.min.js"></script>
@@ -104,7 +100,7 @@
       </div>
 
       <div id="copy" class="row bottom-border-red">
-        <p>##firstname##,<br><br>We know location is key to your clients which is why we pride ourselves in our properties. From landscaping and maintenance to GREAT locations and continued investment, we make sure our locations are just what your clients are looking for. Let us know which location we can impress with you.</p>
+        <p>##firstname##,<br><br>We know location is key to your business which is why we pride ourselves in our properties. From landscaping and maintenance to GREAT locations and continued investment, we make sure our locations accomodate all your needs and desires. We're featuring some of our top properties and tenants this month. See for yourself by clicking on the property below or watching the video.</p>
       </div>
 
       <div id="feat-prop" class="row feat bottom-border-red">
@@ -115,7 +111,6 @@
               <img id="plaza-del-sol" data-toggle="modal" data-target="#modal-gallery" src="http://s3.amazonaws.com/caseusa/assets/img/plazaDelSolSm.png">
             </a>
             <h3 style="font-weight:600;">Plaza Del Sol</h3>
-            <button class="btn btn-danger" data-toggle="modal" data-target="#modal-tour">Request Tour</button>
             <p>Plaza del Sol in South Tulsa is an upscale neighborhood Shopping Center with an average household income of $83,702. With over 12 medical parks and hospitals within 2 miles and a 7% residential growth rate, it’s the perfect setting for a quality neighborhood center. Plaza del Sol is home to Tulsa's Jazz on the Plaz<span class="read"> ... read more</span><span class="overflow">, with outdoor seating and patio areas in the plaza.<br><br>This great location in Tulsa, Oklahoma provides casual neighborhood dining and shopping in an upscale setting inspired by the beautiful mission-style architecture of Southern California. Lush landscaping, beautiful courtyard, outdoor dining and entertainment. Plenty of parking.<br><br>Located at the northeast corner of 101st and Mingo in a tremendous growth area with close proximity to South Crest Hospital and only 1/2 mile from Creek Turnpike, Hwy. 169, and the Broken Arrow South Loop.</span></p>
           </div>
         </div>
@@ -140,7 +135,7 @@
               <div id="southern-hills" class="div-round"></div>
               <span>Southern Hills</span>
             </a>
-          </div>
+          </div> 
           <div class="archive">
             <a href="archive.html?a=parktower" target="_blank">
               <div id="park-tower" class="div-round"></div>
