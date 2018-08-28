@@ -49,7 +49,8 @@
       #modal-gallery .modal-body > div {
         display: flex;
         flex-direction: row;
-        overflow: scroll; }
+        overflow-x: scroll;
+        overflow-y: hidden; }
       #modal-gallery .modal-body img { width: 100%; align-self: start; margin-right: 3px; }
       #refresh-icon {
         color: green;
@@ -57,23 +58,31 @@
         animation: _rotateZ 1s linear infinite; }
       .archive {
         display: inline-block;
-        text-align: center; }
+        text-align: center;
+        margin: 0 12px; }
       #archives .div-round {
         width: 100px;
         height: 100px;
         display: block;
-        margin: 6px;
-        border-radius: 50px;
-        border: solid 3px #e33526;
+        margin: 6px auto;
         background-size: cover;
-        background-position: center;
-        vertical-align: middle; }
+        background-position: center; }
       #archives #southern-hills {
-        background-image: url('http://s3.amazonaws.com/caseusa/assets/img/SouthernHills.jpg'); }
+        background-image: url('http://s3.amazonaws.com/caseusa/assets/img/southernHills02.jpg'); }
       #archives #park-tower {
-        background-image: url('http://admin.caseusacommercial.com/Images/Park_Towers_outside2.jpg'); }
+        background-image: url('http://s3.amazonaws.com/caseusa/assets/img/parkTower02.jpg'); }
       #archives #richmond-plaza {
-        background-image: url('http://s3.amazonaws.com/caseusa/assets/img/Richmond.jpg'); }
+        background-image: url('http://s3.amazonaws.com/caseusa/assets/img/richmond02.jpg'); }
+      #archives #plaza-del-sol {
+        background-image: url('http://s3.amazonaws.com/caseusa/assets/img/plazaDelSol.jpg'); }
+      #archives #elm-street-market {
+        background-image: url('http://s3.amazonaws.com/caseusa/assets/img/elmStreetMarket.jpg'); }
+      #archives #freeport-trade-center {
+        background-image: url('http://s3.amazonaws.com/caseusa/assets/img/freeport02.jpg'); }
+      #archives #bc-tech-center {
+        background-image: url('http://s3.amazonaws.com/caseusa/assets/img/bcTech2.jpg'); }
+      #archives #southeast-tech-center {
+        background-image: url('http://s3.amazonaws.com/caseusa/assets/img/seTech02.jpg'); }
 
       @media screen and (max-width: 440px) {
         #page-banner { padding: 15px; text-align: center; }
@@ -105,20 +114,21 @@
 
       <div id="feat-prop" class="row feat bottom-border-red">
         <div>
-          <h2>Featured Property for July</h2>
+          <h2>Featured Property for September</h2>
           <div>
-            <a href="http://##purl##.caseinpointok.com/viewed.html?v=plazadelsol">
-              <img id="plaza-del-sol" data-toggle="modal" data-target="#modal-gallery" src="http://s3.amazonaws.com/caseusa/assets/img/plazaDelSolSm.png">
+            <a href="http://##purl##.caseinpointok.com/viewed.html?view=richmondplaza">
+              <img id="richmond-plaza" data-toggle="modal" data-target="#modal-gallery" src="http://s3.amazonaws.com/caseusa/assets/img/richmond02.jpg">
             </a>
-            <h3 style="font-weight:600;">Plaza Del Sol</h3>
-            <p>Plaza del Sol in South Tulsa is an upscale neighborhood Shopping Center with an average household income of $83,702. With over 12 medical parks and hospitals within 2 miles and a 7% residential growth rate, it’s the perfect setting for a quality neighborhood center. Plaza del Sol is home to Tulsa's Jazz on the Plaz<span class="read"> ... read more</span><span class="overflow">, with outdoor seating and patio areas in the plaza.<br><br>This great location in Tulsa, Oklahoma provides casual neighborhood dining and shopping in an upscale setting inspired by the beautiful mission-style architecture of Southern California. Lush landscaping, beautiful courtyard, outdoor dining and entertainment. Plenty of parking.<br><br>Located at the northeast corner of 101st and Mingo in a tremendous growth area with close proximity to South Crest Hospital and only 1/2 mile from Creek Turnpike, Hwy. 169, and the Broken Arrow South Loop.</span></p>
+            <h3 style="font-weight:600;">Richmond Plaza</h3>
+            <button class="btn btn-danger" data-toggle="modal" data-target="#modal-tour">Request Tour</button>
+            <p>Richmond Plaza is a beautifully designed, highly visible structure overlooking Interstate 44 and 51st Street. Alternating horizontal bands of bronze reflective glass and flame cut, polished granite create a distinctive first impression.<span class="read"> ... read more</span><span class="overflow">At each of two entries, clear glass walls reveal a richly appointed two story lobby atrium. Just inside, you pass through an enclosed vestibule where plants and tall trees create a spectacular terrarium effect.<br><br>Lobby walls are imported Carmen granite, polished to a fine luster. Brass handrails and elevator doors further enhance the impressive entry, and hte four high speed, gearless elevators virutally eliminate waiting. The lobby on every floor is distinctively decorated with imported Italian marble, accent lighting and custom wall coverings.<br><br>Richmond Plaza has approximately 17,000 square feet of office space on each floor. The uninterrupted spans of glass afford stunning views of the city and create a sense of space to every office.<br><br>Interior design standards include floor to ceiling doors and high quality carpets and wall coverings. Office suites and lobby areas can be completely customized to meet your price specifications. Professional design services will be arranged at your request.</span></p>
           </div>
         </div>
       </div>
 
       <div id="feat-tenant" class="row feat bottom-border-red">
         <div>
-          <h2>Featured Tenant for July</h2>
+          <h2>Featured Tenant for September</h2>
           <div>
             <img src="http://s3.amazonaws.com/caseusa/assets/img/jan-pro-blue.svg">
             <img src="http://s3.amazonaws.com/caseusa/assets/img/janProCircle.png">
@@ -129,13 +139,13 @@
 
       <div id="archives" class="row">
         <div>
-          <h2>Previously Featured Properties</h2>
+          <h2>Other Case Properties</h2>
           <div class="archive">
             <a href="archive.html?a=southernhills" target="_blank">
               <div id="southern-hills" class="div-round"></div>
               <span>Southern Hills</span>
             </a>
-          </div> 
+          </div>
           <div class="archive">
             <a href="archive.html?a=parktower" target="_blank">
               <div id="park-tower" class="div-round"></div>
@@ -148,6 +158,36 @@
               <span>Richmond Plaza</span>
             </a>
           </div>
+          <div class="archive">
+            <a href="archive.html?a=plazadelsol" target="_blank">
+              <div id="plaza-del-sol" class="div-round"></div>
+              <span>Plaza Del Sol</span>
+            </a>
+          </div>
+          <div class="archive">
+            <a href="archive.html?a=elmstreetmarket" target="_blank">
+              <div id="elm-street-market" class="div-round"></div>
+              <span>Elm Street Market</span>
+            </a>
+          </div>
+          <div class="archive">
+            <a href="archive.html?a=freeporttradecenter" target="_blank">
+              <div id="freeport-trade-center" class="div-round"></div>
+              <span>Freeport Trade Center</span>
+            </a>
+          </div>
+          <div class="archive">
+            <a href="archive.html?a=bctechcenter" target="_blank">
+              <div id="bc-tech-center" class="div-round"></div>
+              <span>BC Tech Center</span>
+            </a>
+          </div>
+          <div class="archive">
+            <a href="archive.html?a=southeasttechcenter" target="_blank">
+              <div id="southeast-tech-center" class="div-round"></div>
+              <span>Southeast Tech Center</span>
+            </a>
+          </div>
         </div>
       </div>
 
@@ -158,16 +198,15 @@
           <div class="modal-content">
             <div class="modal-header">
               <button type="button" class="close" data-dismiss="modal">&times;</button>
-              <h4 class="modal-title">Plaza Del Sol</h4>
+              <h4 class="modal-title">Richmond Plaza</h4>
             </div>
             <div class="modal-body">
               <div>
-                <img src="http://admin.caseusacommercial.com/Images/plaza_del_sol1.jpg">
-                <img src="http://admin.caseusacommercial.com/Images/plaza_del_sol2.jpg">
-                <img src="http://admin.caseusacommercial.com/Images/plaza_del_sol3.jpg">
-                <img src="http://admin.caseusacommercial.com/Images/plaza_del_sol4.jpg">
-                <img src="http://admin.caseusacommercial.com/Images/plaza_del_sol5.jpg">
-                <img src="http://admin.caseusacommercial.com/Images/plaza_del_sol6.jpg">
+                <img src="http://admin.caseusacommercial.com/Images/Richmond_2nd_Floor_Balcony.jpg">
+                <img src="http://admin.caseusacommercial.com/Images/Richmond_Directory.jpg">
+                <img src="http://admin.caseusacommercial.com/Images/Richmond_I44_Marquee.jpg">
+                <img src="http://admin.caseusacommercial.com/Images/Richmond_Lobby.jpg">
+                <img src="http://admin.caseusacommercial.com/Images/Richmond_South_Entrance_Atrium.jpg">
               </div>
             </div>
             <div class="modal-footer">
@@ -184,7 +223,7 @@
           <div class="modal-content">
             <div class="modal-header">
               <button type="button" class="close" data-dismiss="modal">&times;</button>
-              <h4 class="modal-title">Request Tour of Plaza Del Sol</h4>
+              <h4 class="modal-title">Request Tour of Richmond Plaza</h4>
             </div>
             <div class="modal-body" style="text-align:center;">
               <span id="refresh-icon" class="glyphicon glyphicon-refresh"></span>

@@ -15,7 +15,7 @@ $(document).ready(function() {
   $('#feat-prop > div > div > a').click(function(event) {
     event.preventDefault();
     var ifr = document.createElement('iframe');
-    ifr.style.display = 'none'
+    ifr.style.display = 'none';
     ifr.src = event.currentTarget.href;
     document.body.appendChild(ifr);
   });
@@ -26,7 +26,7 @@ $(document).ready(function() {
     ifr.style.border = 'none';
     ifr.style.width = '100%';
     ifr.style.height = '400px';
-    ifr.src = 'http://' + location.host + '/PlazaDelSol.html';
+    ifr.src = 'http://' + location.host + '/RichmondPlaza.html';
     ifr.onload = function() {
       this.style.display = 'block';
       $('#refresh-icon').hide();
